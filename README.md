@@ -1,4 +1,3 @@
-# ling-539-class-project
-# ling-539-class-project
-# ling-539-class-project
-# ling-539-class-project
+# Tutorial on Using PyCantonese
+
+This repository contains an interactive Jupyter notebook tutorial on using PyCantonese.

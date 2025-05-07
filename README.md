@@ -40,8 +40,8 @@ The interactive tutorial in this repo is called `PyCantonese_Tutorial.ipynb`. Yo
 
 ## References
 
-Lee, J. L., Chen, L., Lam, C., Lau, C. M., & Tsui, T.-H. (2022). *PyCantonese: Cantonese Linguistics and NLP in Python*. In *Proceedings of the 13th Language Resources and Evaluation Conference*. European Language Resources Association.  
-&nbsp;&nbsp;&nbsp;&nbsp;https://aclanthology.org/2022.lrec-1.351/
+## References
 
-Wikipedia contributors. (n.d.). *Jyutping*. Wikipedia.  
-&nbsp;&nbsp;&nbsp;&nbsp;https://en.wikipedia.org/wiki/Jyutping
+Lee, J. L., Chen, L., Lam, C., Lau, C. M., & Tsui, T.-H. (2022). *PyCantonese: Cantonese Linguistics and NLP in Python*. In *Proceedings of the 13th Language Resources and Evaluation Conference*. European Language Resources Association. https://aclanthology.org/2022.lrec-1.351/
+
+Wikipedia contributors. (n.d.). *Jyutping*. Wikipedia. https://en.wikipedia.org/wiki/Jyutping

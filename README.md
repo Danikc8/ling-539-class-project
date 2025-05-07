@@ -15,12 +15,35 @@ Use the following commands to install the classic Jupyter Notebook
 
 ### Using pip
 
-`pip install notebook`
+```
+pip install notebook
+```
 
 ### Using Homebrew (on macOS and Linux)
 
-`brew install jupyterlab`
+```
+brew install jupyterlab
+```
 
 ### Run the notebook
 
-`jupyter notebook`
+```
+jupyter notebook
+```
+
+## Open the tutorial in Jupyter Notebook
+
+The interactive tutorial in this repo is called `PyCantonese_Tutorial.ipynb`. You have 2 options for opening this notebook in Jupyter Notebook:
+
+1. Go the file in this repo and download it directly. Once downloaded, you can find it in your directory when you open Jupyter Notebook.
+2. Clone this repo, which will include the tutorial, and navigate to the tutorial file in Jupyter Notebook.
+
+## References
+
+<p style="text-indent:-1.5em; margin-left:1.5em;">
+Lee, J. L., Chen, L., Lam, C., Lau, C. M., & Tsui, T.-H. (2022). <i>PyCantonese: Cantonese Linguistics and NLP in Python</i>. In <i>Proceedings of the 13th Language Resources and Evaluation Conference</i>. European Language Resources Association.
+</p>
+
+<p style="text-indent:-1.5em; margin-left:1.5em;">
+Wikipedia contributors. (n.d.). <i>Jyutping</i>. Wikipedia. <a href="https://en.wikipedia.org/wiki/Jyutping">https://en.wikipedia.org/wiki/Jyutping</a>
+</p>

@@ -1,0 +1,6530 @@
+@Begin	
+@Name of CHI:	         Cheung Chun Him
+@Birth of CHI:	          28-Oct-1989
+@Sex of CHI:	            Male
+@Tape location:	"         3,4a"
+@Date:	                  10-Apr-1992
+@Time duration:	12:00-13:00
+@Age of CHI:	            2;5.13
+@Participants:	"          CHI child, INV investigator, SIS child's elder sister, SER servant"
+@Transcriber:	           Kitty Ka-sinn Szeto
+@Situation:	 At the child's house. The child has almost finished his lunch.
+*INV:	   ¶} ¾÷.
+%mor:	    vt nn.
+*CHI:	   ¶} ¾÷.
+%mor:	    vt nn.
+*SER:	   §] ÷ ®Í ¶º ¥ı °Õ ²Ó¨Ğ.
+%mor:	    vt asp prt nn advf sfp nn.
+*CHI:	   ¶} ¾÷.
+%mor:	    vt nn.
+*INV:	   §A «Y Ãä ­Ó &aa3 ?
+%mor:	    nnpr vf wh cl sfp.
+*CHI:	   §Ú &aa3.
+%mor:	    nnpr sfp.
+*INV:	   §A «Y Ãä ­Ó ¦Ü ±o î?
+%mor:	    nnpr vf wh cl advf ctc sfp.
+*CHI:	   &me1 &aa3.
+%mor:	     xx sfp.
+%exp:	 The child might be saying [«§ &aa3].
+*INV:	   «§ &aa3 ?
+%mor:	    wh sfp.
+*CHI:	   &me1.
+%mor:	     xx .
+*INV:	   ±i«TÁ¾ ¤@¤E¤E¤G ¦~ ¥| ¤ë ¤Q ¤é ¿ı ­µ.
+%mor:	    nnpp q nn q nn q nn vt nn.
+*CHI:	   &me1 &aa3.
+%mor:	     xx sfp.
+*INV:	   §A §Ö ø §] ®I ø ¶º ¥ı.
+%mor:	    nnpr adj com vt prt cl nn advf.
+*INV:	   §Ö ø.
+%mor:	    adj com.
+*INV:	   ¦n ÉN ­¹ &aa3 ?
+%mor:	    adj neg vt sfp.
+*CHI:	   ¦n­¹.
+%mor:	    adj.
+*INV:	   «Y «} ¯u «Y ¦n­¹ î?
+%mor:	    vf neg advi vf adj sfp.
+*INV:	   °µ ÉA «§ &aa3 ?
+%mor:	    vt wh wh sfp .
+*INV:	   «§ +/.
+%mor:	   wh.
+*INV:	   ¤j Án ø.
+%mor:	    adj nn com.
+*CHI:	   ©O ­Ó+/.
+%mor:	    det cl.
+*INV:	   Å¥ ­ø ­Ë.
+%mor:	    vt neg ctc.
+*CHI:	   < &bak4> [/] &bak4.
+%mor:	     xx  xx .
+*CHI:	   < ¤Ú¤h &aa3> [/].
+%mor:	    nn sfp.
+*CHI:	   < ¤Ú¤h &aa3> [/].
+%mor:	    nn sfp.
+*CHI:	   < ¤Ú¤h &aa3> [/] ¤Ú¤h &aa3.
+%mor:	    nn sfp nn sfp.
+*INV:	   ¤Ú¤h &aa3.
+%mor:	    nn sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   ·f ¤Ú¤h &aa4 ?
+%mor:	    vt nn sfp.
+*INV:	   §A ¥h ¶R ÷ ¤Ú¤h «§?
+%mor:	    nnpr vt vt asp nn sfp.
+*INV:	   §Ú Ú» úï - ?
+%mor:	    nnpr vt prt.
+%com:	 The investigator and the child go inside the child's room.
+*INV:	   Ãä«× ¦³ ¤Ú¤h &aa3 ?
+%mor:	    wh vf nn sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+%com:	 pause.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*SER:	   Á¾Á¾.
+%mor:	    nnpp.
+*INV:	   ¤Ú¤h &aa4 ?
+%mor:	    nn sfp.
+*CHI:	   ¤Ú¤h &aa3.
+%mor:	    nn sfp.
+*INV:	"   &o2, ±o ­ø ±o·N &aa3 ?"
+%mor:	    ex adj neg adj sfp.
+*CHI:	   Äê ÷ &e3.
+%mor:	    verg asp ex.
+*CHI:	   < »ó­ô> [>].
+%mor:	    nn.
+*INV:	   < Äê ÷ &aa4> [<]?
+%mor:	    verg asp sfp.
+*CHI:	   »ó­ô &aa3.
+%mor:	    nn sfp.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*CHI:	   »ó­ô &aa3.
+%mor:	    nn sfp.
+*INV:	   < »ó­ô &aa4> [/] »ó­ô &aa4 ?
+%mor:	    nn sfp nn sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   «Y «} »ó­ô &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   &ji1.
+%mor:	    ex.
+*CHI:	   &ji1.
+%mor:	    ex.
+*INV:	   ³Ş.
+%mor:	    ex.
+*INV:	   §Ö ø.
+%mor:	    adj com.
+*INV:	   §A §Ö ø §] ®I §A ø ¶º ¥ı.
+%mor:	    nnpr adj com vt prt nnpr cl nn advf.
+*INV:	   §Ö ø.
+%mor:	    adj com.
+*INV:	   ¤@.
+%mor:	    q.
+*INV:	   ¤G.
+%mor:	    q.
+*INV:	   ¤T.
+%mor:	    q.
+*INV:	   Ê\ î?
+%mor:	    nnpr sfp.
+%exp:	 The investigator sees a pencil case and asks the child's sister.
+*SIS:	   Á¾Á¾ î.
+%mor:	    nnpp sfp.
+*INV:	   §A î [=! asking the child]?
+%mor:	    nnpr sfp.
+*CHI:	   §A &gu3 Ø{.
+%mor:	    nnpr sfp sfp.
+*INV:	   Ãä ­Ó î?
+%mor:	    wh cl sfp.
+*CHI:	   §Ú î.
+%mor:	    nnpr sfp.
+*INV:	   §A î - ?
+%mor:	    nnpr sfp.
+*CHI:	   §A &gu3 Ø{.
+%mor:	    nnpr sfp sfp.
+*INV:	   Ãä ­Ó ï ¥ı?
+%mor:	    wh cl gen advf.
+*CHI:	   §A.
+%mor:	    nnpr.
+*INV:	   úï?
+%mor:	    ex.
+*INV:	   «Y «} §A ï?
+%mor:	    vf neg nnpr sfp.
+*CHI:	   §A &o3 §Ú &o3.
+%mor:	    nnpr ex nnpr ex.
+*INV:	   §A ©w §Ú ï ¥ı?
+%mor:	    nnpr conj nnpr gen advf.
+*CHI:	   §Ú &aa3.
+%mor:	    nnpr sfp.
+*INV:	   §A ï.
+%mor:	    nnpr sfp.
+*CHI:	   §A ·R &aa3.
+%mor:	    nnpr vt sfp.
+*INV:	   §A+...
+%mor:	    nnpr.
+*INV:	   §Ú ·R ©w §A ·R?
+%mor:	    nnpr vt conj nnpr vt.
+*CHI:	   §A &aa3.
+%mor:	    nnpr sfp.
+*INV:	   ğ.
+%mor:	    ex.
+*INV:	   ©O ­Ó µ§²° «Y Ãä ¤@ ­Ó ï §A µª ¦h §Ú ¤@ ¦¸?
+%mor:	    det cl nn vf wh q cl sfp nnpr vt adj nnpr q cl.
+*CHI:	   Á¾.
+%mor:	    nnpp.
+*INV:	   «Y «} Á¾Á¾ ï?
+%mor:	    vf neg nnpp sfp.
+*CHI:	   Á¾Á¾ &laak3.
+%mor:	    nnpp sfp.
+*CHI:	   §Ú &aa3.
+%mor:	    nnpr sfp.
+*INV:	   §A ï?
+%mor:	    nnpr sfp.
+*CHI:	   §A &aa3.
+%mor:	    nnpr sfp.
+*INV:	   §A ï?
+%mor:	    nnpr sfp.
+*CHI:	   §A ·R.
+%mor:	    nnpr vt.
+*INV:	   «Y «} §A ï?.
+%mor:	    vf neg nnpr sfp.
+*CHI:	   §A ·R &aa3.
+%mor:	    nnpr vt sfp.
+*INV:	   ğ §Ú ­n î Ğ Ëİ¼Ë.
+%mor:	    ex nnpr vt sfp sfp advs.
+*INV:	   ­Ú §Ú ±o ­ø ±o?
+%mor:	    vd nnpr ctc neg ctc.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ­Ú §Ú ±o ­ø ±o &aa3 ?
+%mor:	    vd nnpr ctc neg ctc sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦n &laa1 ¹À.
+%mor:	    adj sfp sfp.
+*CHI:	   ©j©j ¨® &aa3.
+%mor:	    nn nn sfp.
+*CHI:	   ©j©j ¨® &waa3.
+%mor:	    nn nn ex.
+*CHI:	   ©j©j §¤ ¦í.
+%mor:	    nn vi asp.
+*CHI:	   < ¼M> [=! points to a cat].
+%mor:	    ex.
+*CHI:	   < &miu1 &aa3> [=! points to a cat].
+%mor:	    nn sfp.
+*INV:	   &miu1.
+%mor:	    nn.
+*CHI:	   &miu1.
+%mor:	    nn.
+*INV:	   &miu1 &aa4 ?
+%mor:	    nn sfp.
+*CHI:	   &miu1.
+%mor:	    nn.
+*INV:	   &miu1 «Y «§ ‘Á î?
+%mor:	    nn vf wh sfp sfp.
+*CHI:	   &miu1.
+%mor:	    nn.
+*INV:	   &miu1 «Y «§ ‘Á î?
+%mor:	    nn vf wh sfp sfp.
+*CHI:	"   < ""Van¥J"" &aa3> [=! points to a car]."
+%mor:	    nn sfp.
+*INV:	"   ""Van¥J"" &aa4 ?"
+%mor:	    nn sfp.
+*INV:	   §¤ ­ø §¤ ¨® &aa3 ?
+%mor:	    vt neg vt nn sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ¦³ ´X ¦h ­Ó ¨®ñF &aa3 ©O ¤@ ¬[ ¨® §A Ú» úï?
+%mor:	    vf wh adj cl nn sfp det q cl nn nnpr vt prt.
+*CHI:	   < ¨â ­Ó> [/] ¨â ­Ó.
+%mor:	    q cl q cl.
+*INV:	   ¨â ­Ó «§ &aa3 ?
+%mor:	    q cl wh sfp.
+*CHI:	   ¨â ­Ó ¨®.
+%mor:	    q cl nn.
+*INV:	   ¨â ­Ó ¨® ©w ¨â ­Ó ¨®ñF &aa3 ?
+%mor:	    q cl nn conj q cl nn sfp.
+*CHI:	   ¨®.
+%mor:	    nn.
+*CHI:	   ñF.
+%mor:	    nn.
+*CHI:	   ñF.
+%mor:	    nn.
+*INV:	   §Y«Y ÂI &aa3 ?
+%mor:	    vf wh sfp.
+*INV:	   ¨â ­Ó ¨®ñF.
+%mor:	    q cl nn.
+*CHI:	   < ¨â> [/] ¨â ­Ó.
+%mor:	    q q cl.
+*CHI:	   ¨â ñF # ñF # ñF.
+%mor:	    q nn nn nn.
+*CHI:	   Ú» ©O ø.
+%mor:	    vt det cl.
+*INV:	   §A ­¹ §¹ ¶º ¥¼ &aa3 ?
+%mor:	    nnpr vt advm nn neg sfp.
+*CHI:	   Äê ÷ &laak3.
+%mor:	    verg asp sfp.
+*INV:	   §A ­¹ §¹ ¶º ¥¼ &aa3 ?
+%mor:	    nnpr vt advm nn neg sfp.
+*CHI:	   ¥¼.
+%mor:	    neg.
+*INV:	   ¥¼.
+%mor:	    neg.
+*INV:	   Ëİ ¥X ¥h ­¹ ®I ¥ı.
+%mor:	    advs dir dir vt prt advf.
+*CHI:	   Äê ÷.
+%mor:	    verg asp.
+*CHI:	   Äê ÷ &laak3.
+%mor:	    verg asp sfp.
+*INV:	   Äê+...
+%mor:	    adj.
+*INV:	   Ãä ­Ó ¾ã Äê Ëİ ¦² &aa3 ?
+%mor:	    wh cl vt verg advi adj sfp.
+*CHI:	   0 [=! no response].
+*INV:	   «Y «} §A ¾ã Äê î?
+%mor:	    vf neg nnpr vt verg sfp.
+*CHI:	   §Ú &aa3.
+%mor:	    nnpr sfp.
+*INV:	   «Y «} &aa3 ?
+%mor:	    vf neg sfp.
+*CHI:	   xxx Á¾Á¾.
+%mor:	    nnpp.
+*INV:	   «Y «} Á¾Á¾ ¾ã Äê î?
+%mor:	    vf neg nnpp vt verg sfp.
+*CHI:	   Äê+/.
+%mor:	    adj.
+*INV:	   §A ¶¼ ºò ÉAÏ &aa3 ?
+%mor:	    nnpr vt asp wh sfp.
+*CHI:	   ¦³ ¤ô &o3.
+%mor:	    vf nn sfp.
+*CHI:	   Àã.
+%mor:	    adj.
+*CHI:	   Àã.
+%mor:	    adj.
+%exp:	 The child drinks and spills some water on the table.
+*INV:	   Àã ®Í ï?
+%mor:	    adj prt sfp.
+*CHI:	   Àã ®Í &e3.
+%mor:	    adj prt ex.
+*INV:	   Ëİ ÂI &aa3 ?
+%mor:	    advs wh sfp.
+*CHI:	   ¦³ ¤ô.
+%mor:	    vf nn.
+*INV:	   ©Ù ÷ Ê\ &lo1.
+%mor:	    vt asp nnpr sfp.
+*CHI:	   ©Ù ÷ &laak3.
+%mor:	    vt asp sfp.
+*INV:	   ©Ù ÷ &lu3 «§?
+%mor:	    vt asp sfp sfp.
+*INV:	   §A ³£ ¥¼ ©Ù.
+%mor:	    nnpr advf neg vt.
+*CHI:	   ¹q¸Ü.
+%mor:	    nn.
+%exp:	 The phone rings.
+*INV:	   ©Ù ÷ ¥¼ &aa3 ?
+%mor:	    vt asp neg sfp.
+*CHI:	   0 [=! wipes the table and there are still some droplets left].
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*INV:	   ¥ò ¦³ &aa4 ?
+%mor:	    advf vf sfp.
+%com:	 pause.
+*CHI:	   < ©Ù> [/] ©Ù.
+%mor:	    vt vt.
+*INV:	   ©Ù Ãä«× &aa3 ?
+%mor:	    vt wh sfp.
+*CHI:	   < ©Ù> [/] ©Ù.
+%mor:	    vt vt.
+%com:	 pause.
+*INV:	   ±o &laak3.
+%mor:	    ctc sfp.
+*INV:	   ©Ù ®Í &laak3.
+%mor:	    vt prt sfp.
+*CHI:	   ©Ù.
+%mor:	    vt.
+*CHI:	   < ©Ù> [>].
+%mor:	    vt.
+*INV:	   < ©Ù ®Í> [<].
+%mor:	    vt prt.
+*CHI:	   ¼M.
+%mor:	    ex.
+*INV:	   ±o &laak3.
+%mor:	    ctc sfp.
+%com:	 pause.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*CHI:	   < ·d ¿ù> [>].
+%mor:	    vt adj.
+*INV:	   < ·d ¿ù &aa3> [<].
+%mor:	    vt adj sfp.
+*INV:	    &caau3 ÉAÏ &aa3 §A?
+%mor:	    vt wh sfp nnpr.
+*CHI:	   «u–ï.
+%mor:	    ex.
+*CHI:	   Ú» ©O ø.
+%mor:	    vt det cl.
+*CHI:	    < Ú» ©O ø> [>].
+%mor:	     vt det cl.
+*CHI:	    < Ú» ©O ø> [>].
+%mor:	     vt det cl.
+*SIS:	   < Ú» ©O ø> [<].
+%mor:	    vt det cl.
+*SIS:	   < Ú» ©O ø> [<].
+%mor:	    vt det cl.
+*INV:	   < Ú» ©O ¥» ®Ñ &aa4 ?> [=! opens the book]
+%mor:	    vt det cl nn sfp.
+*CHI:	   < ©j©j> [=! points to a girl in a picture].
+%mor:	    nn.
+*INV:	   ©j©j ­¹ ÉAÏ &aa3 ?
+%mor:	    nn vt wh sfp.
+*CHI:	   < ­¹ # ³J¿| &aa3> [=! points].
+%mor:	    vt nn sfp.
+*INV:	   ©O ­Ó ³J¿| ‘Á ï «§?
+%mor:	    det cl nn sfp sfp sfp.
+%exp:	 The girl in the picture is holding an ice-cream cone.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   ©O ­Ó ­ø «Y ³·¿| ‘Á ï «§?
+%mor:	    det cl neg vf nn sfp sfp sfp.
+*CHI:	   < §Ú Á¾Á¾> [=! points to a boy].
+%mor:	    nnpr nnpp.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   < §Ú &aa3> [>].
+%mor:	    nnpr sfp.
+*INV:	   < Ãä ­Ó ‘Á î> [<]?
+%mor:	    wh cl sfp sfp.
+*CHI:	   < §Ú &aa3> [>].
+%mor:	    nnpr sfp.
+*INV:	   < §A «Y Ãä ­Ó &aa3> [<]?
+%mor:	    nnpr vf wh cl sfp.
+*CHI:	   < §Ú &aa3> [>].
+%mor:	    nnpr sfp.
+*CHI:	   < ¶ı«} &aa3> [=! points].
+%mor:	    nn sfp.
+*CHI:	   < ª¨ª¨ &jaa1> [=! points].
+%mor:	    nn sfp.
+*CHI:	   < ©j©j &wo3> [=! points to a boy].
+%mor:	    nn sfp.
+*SIS:	   ¦³ ÉN ·d ¿ù &aa3 ?
+%mor:	    vf neg vt adj sfp.
+*SIS:	   ©O ­Ó.
+%mor:	    det cl.
+*SIS:	   §Ú< Ãä> [/] Ãä ¦³ Ëİ xxx.
+%mor:	    nnpr wh wh vf advi.
+*INV:	   < ÂI¸Ñ ©O ­Ó ¨k¥J ·| «Y ©j©j &aa3> [>]?
+%mor:	    wh det cl nn aux vf nn sfp.
+*CHI:	   < &miu1 &aa3> [<].
+%mor:	    nn sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+*SIS:	   ©O ­Ó Á¾Á¾.
+%mor:	    det cl nnpp.
+*SIS:	   ©O ­Ó ©j©j.
+%mor:	    det cl nn.
+*SIS:	   ©O ­Ó ªí­ô.
+%mor:	    det cl nn.
+%exp:	 The child's elder sister points to the characters one by one.
+*CHI:	   ªí­ô.
+%mor:	    nn.
+*INV:	   ©O ­Ó «Y «} ªí­ô &aa3 ?
+%mor:	    det cl vf neg nn sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+%com:	 long pause.
+*CHI:	   ¤ú.
+%mor:	    nn .
+*CHI:	   ¤ú.
+%mor:	   nn.
+*CHI:	   &je1.
+%mor:	    ex.
+*CHI:	   &je1.
+%mor:	    ex.
+*INV:	   ¤ú.
+%mor:	    nn.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ¦³ ´X ¦h °¦ ¤ú &aa3 §A Ú» úï - ?
+%mor:	    vf wh adj cl nn sfp nnpr vt prt.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*CHI:	   ¨â.
+%mor:	    q.
+*INV:	   ¨â ­Ó ¤ú.
+%mor:	    q cl nn.
+*INV:	   < ©O ­Ó «§ ‘Á î> [=! points to a dog]?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   0 [=! gestures like a dog].
+*INV:	   §A §ê Ê\ &aa4 ?
+%mor:	    nnpr vt nnpr sfp.
+*INV:	   < «Y «} ª¯ ‘Á> [>] +/.
+%mor:	    vf neg nn sfp.
+*CHI:	   < &wou1> [<].
+%mor:	    nn.
+*CHI:	   < &wou1&wou1 ª¯> [<] &aa3.
+%mor:	    nn nn sfp.
+*INV:	   Åå ­ø Åå &aa3 ?
+%mor:	    adj neg adj sfp.
+*CHI:	   ­ø ¦n Ú» Ø{.
+%mor:	    neg adj vt sfp.
+%com:	 long pause.
+*CHI:	   < ªK µ§> [=! points to a pen in the picture].
+%mor:	    cl nn.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*INV:	   < «§> [>] +/.
+%mor:	    wh.
+*CHI:	   < ªK µ§> [<].
+%mor:	    cl nn.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   ªK µ§.
+%mor:	    cl nn.
+*INV:	   ¦³ ´X ¦h ªK µ§ &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+%exp:	 There is only one pen in the picture.
+*INV:	   ¨â ­Ó «§ &aa3 ?
+%mor:	    q cl wh sfp.
+*CHI:	   ¨â ­Ó< ªK> [/] ªK µ§.
+%mor:	    q cl cl cl nn.
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+*INV:	   •Ú &laak3.
+%mor:	    adj sfp.
+*INV:	   ±o ¤@ ªK ¤§ ¹À.
+%mor:	    vt q cl sfp sfp.
+*INV:	   Ãä«× ¦³ ¨â ­Ó ªK µ§ ®A?
+%mor:	    wh vf q cl cl nn sfp.
+*CHI:	   0 [=! no response].
+*INV:	   &ji1 &aa3.
+%mor:	    ex sfp.
+*INV:	   Áà©Ç.
+%mor:	    adj.
+%com:	 long pause.
+*INV:	"   ""Vivien"" &aa4 §A ¥s °µ?"
+%mor:	    nnpp sfp nnpr vt vt.
+%exp:	 The investigator talks to the child's elder sister.
+*SIS:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ¦³ «§ Ú» &aa3 ?
+%mor:	    vf wh vt sfp.
+*SIS:	   Ä«ªG.
+%mor:	    nn.
+*CHI:	   Ä«ªG ©O ø.
+%mor:	    nn det cl.
+*CHI:	   ¼M.
+%mor:	    ex.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	   < &miu1&miu1 &miu1&miu1> [/] &miu1.
+%mor:	    nn nn nn.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	   &wou1&wou1 &aa3.
+%mor:	    nn sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	   xxx.
+*CHI:	   xxx.
+*CHI:	   < ­¬ ªù> [/] ­¬ ªù.
+%mor:	    vt nn vt nn.
+*INV:	   ©O ­Ó «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*INV:	   §A ª¾ ­ø ª¾ &aa3 ?
+%mor:	    nnpr vt neg vt sfp.
+*CHI:	   ª¾.
+%mor:	    vt.
+*SIS:	   &pet1&pet1.
+%mor:	    nn.
+*CHI:	   &pet1&pet1.
+%mor:	    nn.
+*INV:	   &pet1&pet1.
+%mor:	    nn.
+*INV:	   §A ¦³ ÉN &pet1&pet1 &aa3 ?
+%mor:	    nnpr vf neg nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*SIS:	   < ÉN &aa4> [=! laughs]?
+%mor:	    neg sfp.
+*INV:	   ÉN &pet1&pet1 î §A?
+%mor:	    neg nn sfp nnpr.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*CHI:	   xxx.
+*CHI:	   xxx.
+*SIS:	   < §A ¦³ ÉN &pet1&pet1 &aa3 ?> [>]
+%mor:	    nnpr vf neg nn sfp.
+*INV:	   < §A ÉN &pet1&pet1 î?> [<]
+%mor:	    nnpr neg nn sfp.
+*CHI:	   ñô &jaa3 &jaa3.
+%mor:	    nn sfp sfp.
+*INV:	   ©O ø ©O?
+%mor:	    det cl sfp.
+*INV:	   ©O ø «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   ªK µ§.
+%mor:	    cl nn.
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+%exp:	 There are one pencil and one pen in the picture and the child points to them one by one.
+*INV:	   &hak3.
+%mor:	    ex.
+*INV:	   ©O «× ¦³ ¨â ªK µ§ &lo1.
+%mor:	    det cl vf q cl nn sfp.
+*INV:	   ¨â ªK µ§ &lo1.
+%mor:	    q cl nn sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¨â ­Ó «§ &aa3 ?
+%mor:	    q cl wh sfp.
+*CHI:	   < ñô> [=! points to a spider].
+%mor:	    nn.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+*CHI:	   ñô &aa3.
+%mor:	    nn sfp.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+%exp:	 The child might be saying [«§ &aa3].
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*INV:	   < ©O ¦³ ¨â ­Ó «§ &aa3> [=! points to the two pens]?
+%mor:	    ex vf q cl wh sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*CHI:	   ñô &aa3.
+%mor:	    nn sfp.
+%exp:	 There is only one spider in the picture.
+*INV:	   ñô &aa4.
+%mor:	    nn sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ¦³ ´X ¦h ñô &aa3 ?
+%mor:	    vf wh adj nn sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¤S ¦³ ¨â ­Ó ñô ñô.
+%mor:	    advf vf q cl nn nn.
+*SIS:	   «§ ³£ ¨â ­Ó &gaa3.
+%mor:	    wh advf q cl sfp.
+%com:	 long pause.
+*CHI:	   &wou1&wou1 &aa3.
+%mor:	    nn sfp.
+*CHI:	   ³J¿| &aa3.
+%mor:	    nn sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*CHI:	   ³J¿| &a3.
+%mor:	    nn sfp.
+*INV:	   ¦n­¹.
+%mor:	    adj.
+*CHI:	   &m4.
+%mor:	    ex.
+*INV:	   ¦n ÉN ­¹?
+%mor:	    adj neg vt.
+*CHI:	   ­ø ¦n­¹.
+%mor:	    neg adj.
+*CHI:	   ­ø ¦n ·d.
+%mor:	    neg adj vt.
+%exp:	 The child's sister pats the child's back.
+*CHI:	   ­ø ¦n.
+%mor:	    neg adj.
+*INV:	   §A ­ø+/.
+%mor:	    nnpr neg.
+*INV:	   ©j©j ·d §A ¤§ ¹À.
+%mor:	    nn vt nnpr sfp sfp.
+*CHI:	   ­ø ¦n &aa3.
+%mor:	    neg adj sfp.
+*CHI:	   ­ø ¦n ·d &aa3.
+%mor:	    neg adj vt sfp.
+*INV:	   ­ø ¦n ·d.
+%mor:	    neg adj vt.
+*CHI:	   ­ø ¦n ·d &aa3 !
+%mor:	    neg adj vt sfp.
+*INV:	   ©O ­Ó ©O [=! points to a leg in the picture]?
+%mor:	    det cl sfp.
+*CHI:	   ¸}.
+%mor:	    nn.
+*INV:	   < úï> [>]?
+%mor:	    ex.
+*CHI:	   < ¸}> [<].
+%mor:	    nn.
+*CHI:	   &fai4 ¸}.
+%mor:	     xx nn.
+*INV:	   ¸} &aa4 ?
+%mor:	    nn sfp.
+*INV:	   < §A ¦³ ÉN ¸} &aa3> [>]?
+%mor:	    nnpr vf neg nn sfp.
+*CHI:	   < ¸}> [<].
+%mor:	    nn.
+*CHI:	   < ©O ­Ó> [=! raises a leg].
+%mor:	    det cl.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¯ä ­ø ¯ä î?
+%mor:	    adj neg adj sfp.
+*CHI:	   0 [=! smells his feet].
+*CHI:	   ¦n ¯ä &aa3.
+%mor:	    advi adj sfp.
+*INV:	   ¦n ¯ä &aa4 ?
+%mor:	    advi adj sfp.
+*INV:	   õ °¦ ©O?
+%mor:	    det cl sfp.
+*INV:	   õ °¦ ¯ä ­ø ¯ä î?
+%mor:	    det cl adj neg adj sfp.
+*CHI:	   0 [=! smells his other feet].
+*CHI:	   ¯ä &aa3.
+%mor:	    adj sfp.
+*INV:	   < ©j©j õ °¦ ©O> [=! points to sister's leg]?
+%mor:	    nn det cl sfp.
+*CHI:	   0 [=! smells his sister's feet].
+*CHI:	   ¯ä &aa3.
+%mor:	    adj sfp.
+*SIS:	   < ¯ä> [>].
+%mor:	    adj.
+*INV:	   < ¯ä î> [<]?
+%mor:	    adj sfp.
+*CHI:	   < ¦n¯º &aa3> [=! points to a boy in the picture].
+%mor:	    adj sfp.
+*INV:	   ¦n&ciu3 - ?
+%mor:	    adj.
+%exp:	 The investigator cannot hear the child's utterance accurately.
+*INV:	"   "" ¦n&ciu3"" ÂI¸Ñ &aa3 ?"
+%mor:	    adj wh sfp.
+*SIS:	   ¦n¯º &aa3.
+%mor:	    adj sfp.
+*INV:	   < ¦n¯º> [>].
+%mor:	    adj.
+*CHI:	   < ¦n¯º> [<].
+%mor:	    adj.
+*INV:	   ÂI¸Ñ ¦n¯º &aa3 ?
+%mor:	    wh adj sfp.
+*INV:	   °µ ÉAÏ?
+%mor:	    vt wh.
+*INV:	   §A ¦n ²ª «§?
+%mor:	    nnpr advi adj sfp.
+*CHI:	   ÉN &laak4 ?
+%mor:	    neg sfp.
+*CHI:	   ÉN &le3.
+%mor:	    neg sfp.
+*CHI:	   < ©O «×> [/] ©O «×.
+%mor:	    det cl det cl.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj sfp.
+*CHI:	   ¦n ±o·N &je3.
+%mor:	    advi adj sfp.
+*CHI:	   ¦n ±o·N ³Ş &je3.
+%mor:	    advi adj ex sfp.
+*SIS:	   ¤j ³æ¦ì &aa1.
+%mor:	    adj nn sfp.
+*SIS:	   ¤j ³æ¦ì.
+%mor:	    adj nn.
+*CHI:	   ¤j ³æ¦ì &aa3.
+%mor:	    adj nn sfp.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   Ú» ³æ¦ì - ?
+%mor:	    vt nn.
+%exp:	 The investigator mishears the child's utterance.
+*INV:	   «§ ³æ¦ì &aa3 ?
+%mor:	    wh nn sfp.
+*CHI:	   ³æ¦ì.
+%mor:	    nn.
+*CHI:	   &ci1.
+%mor:	     xx .
+*SIS:	   ¨®.
+%mor:	    nn.
+*INV:	   < Ú» «§> [/] Ú» «§ ®A?	
+%mor:	    vt sfp vt wh sfp.	
+*SIS:	   ­ø ª¾ &aa3.	
+%mor:	    neg vt sfp.	
+*SIS:	   Ú» ®Ñ &lo1	.
+%mor:	    vt nn sfp.	
+*INV:	   Ú» ³æ¦ì - ?	
+%mor:	    vt nn.	
+*CHI:	   Ú» ³æ¦ì &o3.	
+%mor:	    vt nn ex.	
+*SIS:	   ¤j ³æ¦ì &aa3.	
+%mor:	    adj nn sfp.
+*INV:	   Ú» ³æ¦ì - ?
+%mor:	    vt nn.
+*INV:	   Ú» «§ ³æ¦ì &aa3 ?
+%mor:	    vt wh nn sfp.
+*INV:	   ¥Ü½d ³æ¦ì.
+%mor:	    nn nn.
+*SIS:	   ø ¤j ³æ¦ì &aa3.
+%mor:	    cl adj nn sfp.
+*SIS:	"   ´M¤é ¶ı«} ¦P Á¾Á¾ Á¿ «§ «§ «§ ¤j ³æ¦ì, Ê\ ¤S Á¿ ¤j ³æ¦ì &laak3."
+%mor:	    advs nn prep nnpp vt wh wh wh adj nn nnpr advf vt adj nn sfp.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ¶]¨® &aa3.
+%mor:	    nn sfp.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*INV:	"   °µ «§ ¦¨ ¤é"" ¦³ ÉN ·d ¿ù"" î?"
+%mor:	    vt wh q cl vf neg vt adj sfp.
+*SIS:	   Äê ÷.
+%mor:	    verg asp.
+*SIS:	   ·d ¿ù &lo1.
+%mor:	    vt adj sfp.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   xxx.
+*INV:	   ¦³ ÉN ·d ¿ù &aa3 ?
+%mor:	    vf neg vt adj sfp.
+*CHI:	   ·d ¿ù.
+%mor:	    vt adj.
+*INV:	   ·d ¿ù.
+%mor:	    vt adj.
+*CHI:	   ¶]¨®.
+%mor:	    nn.
+*CHI:	   ·d ¿ù &jaa3 &jaa3 &jaa3.
+%mor:	    vt adj sfp sfp sfp.
+*INV:	   ¶]¨® ÂI¸Ñ ·d ¿ù ®A?
+%mor:	    nn wh vt adj sfp.
+*INV:	   ¶]¨® Ëİ è°.
+%mor:	    nn advi adj.
+*INV:	   ·d «§ ¿ù ®A?
+%mor:	    vt wh adj sfp.
+*CHI:	   ¶]¨® ¶R ©O ¬[  &e3.
+%mor:	    nn vt det cl ex.
+*INV:	   ¶R ­ø ¶R &aa3 ?
+%mor:	    vt neg vt sfp.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*SIS:	   ¬[ ¬[ ³£ ¶R î °Õ.
+%mor:	    cl cl advf vt sfp sfp.
+*INV:	   ¬[ ¬[ ³£ ¶R  &aa4 ?
+%mor:	    cl cl advf vt sfp.
+*SIS:	   xxx.
+*INV:	   ©O ¬[ ©O?
+%mor:	    det cl sfp.
+*INV:	   ¦³ ÉN Äê ¨ì &aa3 ©O ¬[ ¨®?
+%mor:	    vf neg verg ctc sfp det cl nn.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   Ëİ ¦³ ÉN ·d ¿ù &aa3 ?
+%mor:	    advs vf neg vt adj sfp.
+*CHI:	   0 [=! no response].
+*INV:	   < úï> [>]?
+%mor:	    ex.
+*CHI:	   < Äê ÷ &e3> [<].
+%mor:	    verg asp ex.
+*SIS:	   ¦³ ÉN ·d ¿ù &aa3 ?
+%mor:	    vf neg vt adj sfp.
+*SIS:	   < ÉA ³£ Äê ÷ ®A> [>].
+%mor:	    wh advf verg asp sfp.
+*INV:	   < Ãä«× Äê ÷ ®A> [<]?
+%mor:	    wh verg asp sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¦³ ÉN ¨®ñF &aa3 ©O «×?
+%mor:	    vf neg nn sfp det cl.
+*CHI:	   < ©O «×> [=! points to a wheel].
+%mor:	    det cl.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	   < ©O ­Ó> [=! points to another wheel].
+%mor:	    det cl.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	   < ©O ­Ó> [=! points to the third wheel].
+%mor:	    det cl.
+*SIS:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	   < ©O ­Ó> [=! points to the fourth wheel].
+%mor:	    det cl.
+*SIS:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¦³ ´X ¦h ­Ó ¨®ñF &aa3 Ëİ¼Ë?
+%mor:	    vf wh adj cl nn sfp advs.
+*CHI:	   < ¨â> [/] +/.
+%mor:	    q.
+*SIS:	   < ¥| ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   ¥| ­Ó &e3.
+%mor:	    q cl ex.
+*INV:	   ¥| ­Ó ¨®ñF.
+%mor:	    q cl nn.
+*CHI:	   < Ú» ©O ø &e3> [/] Ú» ©O ø &e3.
+%mor:	    vt det cl ex vt det cl ex.
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*SIS:	   Äê ÷.
+%mor:	    verg asp.
+*SIS:	   ¦³ ÉN Äê ÷ &aa3 ?
+%mor:	    vf neg verg asp sfp.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   ğ.
+%mor:	    ex.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   §Ú’] ­¬ ®I ®Í ø ®Ñ &laak3.
+%mor:	    nnpr vt prt prt cl nn sfp.
+*INV:	   §Ú’] Ú» Ãä ¤@ ¥» ®Ñ ¦n &aa3 ?
+%mor:	    nnpr vt wh q cl nn adj sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*SIS:	   Ú» ©O ¥».
+%mor:	    vt det cl.
+*CHI:	   Ú» ©O ¥».
+%mor:	    vt det cl.
+*INV:	   Ú» ©O ¥».
+%mor:	    vt det cl.
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*INV:	   Ú» °Õ.
+%mor:	    vt sfp.
+*CHI:	   < «r &aa3> [=! points to a cat in the picture].
+%mor:	    vt sfp.
+*INV:	   ª¯ - ?
+%mor:	    nn.
+*INV:	   < Ãä«× ¦³ ª¯ &aa3> [>]?
+%mor:	    wh vf nn sfp.
+*CHI:	   < ª¯> [<] - ?
+%mor:	    nn.
+*INV:	   ©O °¦ ­ø «Y &miu1&miu1 ‘Á ï «§?
+%mor:	    det cl neg vf nn sfp sfp sfp.
+*SIS:	   ©O °¦ ¥ı «Y ª¯ &aa3.
+%mor:	    det cl advf vf nn sfp.
+*INV:	   < ©O °¦ «Y ª¯¥J> [>] +/.
+%mor:	    det cl vf nn.
+*CHI:	   < &wou1&wou1 &aa3> [<].
+%mor:	    nn sfp.
+*INV:	   < «Y &lo1 > [>].
+%mor:	    vf sfp .
+*INV:	   <Ãä °¦ «Y &aa1> [>]?
+%mor:	   wh cl vf sfp.
+*CHI:	   < ©O °¦ «r ©j©j xxx> [<].
+%mor:	    det cl vt nn.
+*CHI:	   < &miu1 &o3> [<].
+%mor:	    nn ex.
+*CHI:	   &wou1&wou1 &ge3.
+%mor:	    nn sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*CHI:	   < ñF> [/].
+%mor:	    nn.
+*CHI:	   < ñF> [/] ñF.
+%mor:	    nn nn.
+%exp:	 The child points to a wheel in the picture.
+*INV:	   ñF.
+%mor:	    nn.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	0
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*CHI:	   ªá.
+%mor:	    nn.
+*INV:	   < ªá ‘Á î> [>]?
+%mor:	    nn sfp sfp.
+*CHI:	   < ªá> [<] < ‘Á Ø{> [>].
+%mor:	    nn sfp sfp.
+*SIS:	   < ¦Ñ¹« &lo1> [>].
+%mor:	    nn sfp.
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*SIS:	   < ©O ­Ó> [>] - ?
+%mor:	    det cl.
+*CHI:	   < ©O ­Ó> [<].
+%mor:	    det cl.
+*CHI:	   ¦ÃÁV &aa3.
+%mor:	    adj sfp.
+*INV:	   ÁVÁV &e3.
+%mor:	    adj sfp.
+*CHI:	   < §Ú &aa3> [=! points to a boy in the picture].
+%mor:	    nnpr sfp.
+*INV:	   §A ‘Á î?
+%mor:	    nnpr sfp sfp.
+*CHI:	   «Y &o3.
+%mor:	    vf sfp.
+*SIS:	   ©O ­Ó «§ «Î¥ø &aa3 ?
+%mor:	    det cl wh nn sfp.
+*SIS:	   Á¾Á¾ «Î¥ø &aa4 ?
+%mor:	    nnpp nn sfp.
+*SIS:	   ¤j ­ø ¤j &aa3 ?
+%mor:	    adj neg adj sfp.
+*CHI:	   «Î¥ø ©O «×.
+%mor:	    nn det cl.
+*CHI:	   ©O «× < &aa3> [>].
+%mor:	    det cl sfp.
+*SIS:	   < ­ø ¤j> [<] &aa4 ?
+%mor:	    neg adj sfp.
+*CHI:	   < ñô> [=! hits the picture].
+%mor:	    nn.
+%exp:	 There is a spider in the picture.
+*INV:	   < ¥´> [>].
+%mor:	    vt.
+*CHI:	   < ¥´ ÷> [<].
+%mor:	    vt asp.
+*INV:	   < «Y «} ñô ´N> [>] +/.
+%mor:	    vf neg nn advf.
+*CHI:	   < ¥´ ÷ &jaa3 &jaa3 &jaa3> [<].
+%mor:	    vt asp sfp sfp sfp.
+*INV:	   ¥´ ¦º ÷ ¥¼ &aa3 ?
+%mor:	    vt verg asp neg sfp.
+*SIS:	   ¥´ ¦º.
+%mor:	    vt verg.
+*INV:	   ¦º ÷ ¥¼ &aa3 ?
+%mor:	    verg asp neg sfp.
+*CHI:	   ¥´ ÷.
+%mor:	    vt asp.
+*INV:	   ¦º ÷ ¥¼ &aa3 ?
+%mor:	    verg asp neg sfp.
+*CHI:	   ¦º ÷.
+%mor:	    verg asp.
+*INV:	   ¥´ ÷ ¤S ¦º ÷.
+%mor:	    vt asp advf verg asp.
+*INV:	   ­¹ &lok3.
+%mor:	    vt sfp.
+*INV:	   Á¾Á¾.
+%mor:	    nnpp.
+*INV:	   ­¹ ÷ Ê\ &lok3.
+%mor:	    vt asp nnpr sfp.
+*SIS:	   Ê\ Åå î.
+%mor:	    nnpr adj sfp.
+*CHI:	   < ¦n Åå> [/] ¦n Åå.
+%mor:	    advi adj advi adj.
+*INV:	   Á¾Á¾ ¦n Åå ñô î?
+%mor:	    nnpp advi adj nn sfp.
+*SIS:	   ¥´ ¦º Ê\ &laa1.
+%mor:	    vt verg nnpr sfp.
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*INV:	   §Ú+...
+%mor:	    nnpr.
+*INV:	   ©j©j À° §A ¥´ ¦º Ê\ &laa1 ¦n ÉN &aa3 ?
+%mor:	    nn vt nnpr vt verg nnpr sfp adj neg sfp.
+*CHI:	   ¦n &aa3.
+%mor:	    adj sfp.
+%com:	 The investigator then hits the spider in the picture.
+*INV:	   ¦º ÷ &laak3.
+%mor:	    verg asp sfp.
+*INV:	"   ""Okay""."
+%mor:	    ex.
+*SIS:	   Ú» ²Ä ¤G ­¶.
+%mor:	    vt det q cl.
+*SIS:	   ¦º ÷ &laak3.
+%mor:	    verg asp sfp.
+*SIS:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   »ó­ô &aa3.
+%mor:	    nn sfp.
+*SIS:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*CHI:	   »ó­ô.
+%mor:	    nn.
+%com:	 long pause.
+*CHI:	   Ú» Âå¥Í.
+%mor:	    vt nn.
+*SIS:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*SIS:	   ¯Ñ ¥Ğ.
+%mor:	    vt nn.
+*INV:	   Ú» Âå¥Í ¦n ÉN &aa3 Á¾Á¾?
+%mor:	    vt nn adj neg sfp nnpp.
+*SIS:	   Ú» Âå¥Í.
+%mor:	    vt nn.
+*CHI:	   ¤õ¨® Ãa ÷.
+%mor:	    nn verg asp.
+*CHI:	   ¤õ¨®.
+%mor:	    nn.
+*INV:	   ¤õ¨® ¦³ Ãa ¨ì «§?
+%mor:	    nn vf verg ctc sfp.
+*INV:	   Ãä«× ¦³ Ãa ¨ì ®A?
+%mor:	    wh vf verg ctc sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¦³ ÉN Ãa ¨ì &aa3 ?
+%mor:	    vf neg verg ctc sfp.
+*CHI:	   ¤õ¨® &aa3 xxx.
+%mor:	    nn sfp.
+*INV:	   ¦³ ÉN Ú» Âå¥Í &aa3 Á¾Á¾?
+%mor:	    vf neg vt nn sfp nnpp.
+*CHI:	   ¦³ &aa3.
+%mor:	    vf sfp.
+*INV:	   ¦³ &aa4 ?
+%mor:	    vf sfp.
+*INV:	   Ú» §¹ Âå¥Í ­n ­¹ ø «§ î?
+%mor:	    vt advm nn vt vt cl sfp sfp.
+*SIS:	   ÃÄ.
+%mor:	    nn.
+*CHI:	   ÃÄ.
+%mor:	    nn.
+*INV:	   ÃÄ.
+%mor:	    nn.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*CHI:	   < ³J &aa4> [=! points to a shoe].
+%mor:	    nn sfp.
+*INV:	   ³J - ?
+%mor:	    nn.
+*INV:	   Ãä«× ¦³ ³J &aa3 ©O «×?
+%mor:	    wh vf nn sfp det cl.
+*CHI:	   < ©O ­Ó> [=! points].
+%mor:	    det cl.
+*INV:	   Ãä ­Ó «Y ³J &aa3 ?
+%mor:	    wh cl vf nn sfp.
+*INV:	   ©O °¦ «Y ³J ‘Á ï «§?
+%mor:	    det cl vf nn sfp sfp sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*SIS:	   ©O ­Ó ®Ú¥» ³£ ÉN ³J.
+%mor:	    det cl advs advf neg nn.
+*INV:	   ©O °¦ «Y ¾c ‘Á î ÂI ·| «Y ³J &aa3 ?
+%mor:	    det cl vf nn sfp sfp wh aux vf nn sfp.
+*CHI:	   ¾c.
+%mor:	    nn.
+*CHI:	   ¾c &aa3.
+%mor:	    nn sfp.
+*SIS:	   ¾c ‘Á &e3.
+%mor:	    nn sfp ex.
+%com:	 long pause.
+*INV:	   ¥ò ¦³ ÉAÏ &aa3 §A ¸Ü ­Ú §Ú Å¥ &aa1 ?
+%mor:	    advf vf wh sfp nnpr vt prep nnpr vt sfp.
+*CHI:	   ¨® Ø{.
+%mor:	    nn sfp.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*CHI:	   ÉN.
+%mor:	    neg.
+%exp:	 The child and the investigator turn to the end of the book.
+*INV:	   ÉN.
+%mor:	    neg.
+*INV:	   Ú» §¹.
+%mor:	    vt advm.
+*CHI:	   Ú» §¹.
+%mor:	    vt advm.
+*CHI:	   Ú» ©O ø.
+%mor:	    vt det cl.
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*INV:	   Ú» ©O ¥» °Õ.
+%mor:	    vt det cl sfp.
+*INV:	   Ú» ÉAÏ &aa3 ?
+%mor:	    vt wh sfp.
+*SIS:	   xxx Ú» ©O «× &aa1.
+%mor:	    vt det cl sfp.
+*SIS:	   xxx.
+*INV:	   Ãä ­Ó ‘Á î ©O ­Ó?
+%mor:	    wh cl sfp sfp det cl.
+*SIS:	   ±C±C.
+%mor:	    nn.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*INV:	   Á¾Á¾.
+%mor:	    nnpp.
+*INV:	   Ãä ­Ó ‘Á î?
+%mor:	    wh cl sfp sfp.
+*SIS:	   ±C±C.
+%mor:	    nn.
+*SIS:	   ­ø «Y.
+%mor:	    neg vf.
+*SIS:	   xx •Ú ­ø •Ú &a3 ©O ­Ó?
+%mor:	    nn adj neg adj sfp det cl.
+*CHI:	   ¸¨ «B ¦ÃÁV.
+%mor:	    verg nn adj.
+*INV:	   < «§Ï &aa3> [>]?
+%mor:	    wh sfp.
+*CHI:	   < ¸¨ «B Ø{> [<].
+%mor:	    verg nn sfp.
+*SIS:	   Ãä«× ¸¨+...
+%mor:	    wh verg.
+*SIS:	   ®@.
+%mor:	    ex.
+*SIS:	   Ê\ ¸Ü ©O §â Ï «Y ¸¨ «B.
+%mor:	    nnpr vt det cl nn vf verg nn.
+*CHI:	   xxx ¾B.
+%mor:	    nn.
+*INV:	   ¾B ‘Á î?
+%mor:	    nn sfp sfp.
+*CHI:	   ©O ø &ji3 &o3 &ji3 &o3.
+%mor:	    det cl ex ex ex ex.
+*CHI:	   ¦³ &aa3.
+%mor:	    vf sfp.
+*SIS:	   §A &ap1 ÉAÏ ®A?
+%mor:	    nnpr vt wh sfp.
+*SIS:	   ÉAÏ &je3 &je3 &je3 ¦³.
+%mor:	    wh ex ex ex vf.
+*INV:	   §A &ap1 ÉAÏ?
+%mor:	    nnpr vt wh.
+*INV:	   §A Á¿ ¹L ¤@ ¦¸ §Ú’] Å¥ ­ø ­Ë.
+%mor:	    nnpr vt asp q cl nnpr vt neg ctc.
+*CHI:	   ¦³.
+%mor:	    vf.
+*CHI:	   ¦³.
+%mor:	    vf.
+*CHI:	   Ú» ¹qµø Ø{.
+%mor:	    vt nn sfp.
+*SIS:	   Ú» ¹qµø.
+%mor:	    vt nn.
+*INV:	   ¦³ ÉN Á¾Á¾ &aa3 ©O ¥» ®Ñ?
+%mor:	    vf neg nnpp sfp det cl nn.
+*SIS:	   ¦³ ÉN ·d ¿ù &aa3 ´¦ µf ÂàÀY ï?
+%mor:	    vf neg vt adj sfp vt prt vi sfp.
+*SIS:	   &le3.
+%mor:	    ex.
+*SIS:	   Ú» ©O «× &aa1 ¦Û¤v Ú» &aa1.
+%mor:	    vt det cl sfp rfl vt sfp.
+*CHI:	   Ú» ©O ø.
+%mor:	    vt det cl.
+*CHI:	   Ëİ &aa3.
+%mor:	    advs sfp.
+*CHI:	   < ¨®>[/]¨®.
+%mor:	    nn.
+*CHI:	   xxx ¶R ¶R &aa3.
+%mor:	    vt vt sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   °µ «§ &aa3 ?
+%mor:	    vt wh sfp.
+*CHI:	   xxx ª±.
+%mor:	    vt.
+*CHI:	   ª±.
+%mor:	    vt.
+*SIS:	   À¿ ¶ÂªO &aa3 ¦nª± &aa3.
+%mor:	    vt nn sfp adj sfp.
+*CHI:	   < ª± ©O ­Ó> [=! points to a slide in the picture].
+%mor:	    vt det cl.
+*CHI:	   < &soe4 &soe4> [/] &soe4.
+%mor:	    vt vt vt.
+*SIS:	   &soe4.
+%mor:	    vt.
+*SIS:	   &soe4 ·Æ±è.
+%mor:	    vt nn.
+*CHI:	   &soe4.
+%mor:	    vt.
+*CHI:	   &soe4.
+%mor:	    vt.
+*CHI:	   ¥´ ÆHÂş &aa3.
+%mor:	    vt nn sfp.
+*INV:	   ¥´ ÆHÂş.
+%mor:	    vt nn.
+*CHI:	   &m4.
+%mor:	    ex.
+*INV:	   ¦n ÉN ª± î ¥´ ÆHÂş?
+%mor:	    adj neg vt sfp vt nn.
+*CHI:	   0 [=! pretends to slide and swing].
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   ¶^ ¦º §A &laak3.
+%mor:	    verg verg nnpr sfp.
+*INV:	   §A °µ ÉAÏ &aa3 ?
+%mor:	    nnpr vt wh sfp.
+*INV:	   ¥´ ÆHÂş &aa4 §A?
+%mor:	    vt nn sfp nnpr.
+*CHI:	   §¤ ©O «× &e3.
+%mor:	    vt det cl ex.
+*INV:	   §¤ ©O «× &aa3.
+%mor:	    vt det cl sfp.
+*CHI:	   0 [=! moves around].
+*INV:	   < ¸õ> [/] ¸õ.
+%mor:	    vi vi.
+*INV:	   ©O «× °µ ÉAÏ &aa3 ?
+%mor:	    det cl vt wh sfp.
+*INV:	   «Y «} ¥´ Äx²y &aa3 ?
+%mor:	    vf neg vt nn sfp.
+*CHI:	   ²y.
+%mor:	    nn.
+*SIS:	   ¥´ Äx²y.
+%mor:	    vt nn.
+*INV:	   «Y «} ¥´ ªi &aa3 ?
+%mor:	    vf neg vt nn sfp.
+*CHI:	   ¥´ # ²y.
+%mor:	    vt nn.
+*CHI:	   ¥´ ²y.
+%mor:	    vt nn.
+*INV:	   ¥´ ²y.
+%mor:	    vt nn.
+*CHI:	   ²y²y.
+%mor:	    nn.
+%com:	 The child laughs.
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*INV:	   ©O ­Ó ©j©j ©O?
+%mor:	    det cl nn sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   °µ ÉAÏ &aa3 ?
+%mor:	    vt wh sfp.
+*SIS:	   ¥´ ªi.
+%mor:	    vt nn.
+*INV:	   &m4.
+%mor:	    ex.
+*CHI:	   < ³Ş> [/] ³Ş!
+%mor:	    ex ex.
+*SIS:	   xxx ¦n «Â.
+%mor:	    advi adj.
+*INV:	   ³Ş «§ ®A?
+%mor:	    ex wh sfp.
+*SIS:	   < ¼M > [>].
+%mor:	    ex .
+*SIS:	   <&kin2> [>].
+%mor:	   vt .
+*SIS:	   <ÉA §A xxx &kin2 &kin2 Ëİ ¦h> [>].
+%mor:	     wh nnpr vt vt advi adj.
+*CHI:	   < ³Ş> [<] +/.
+%mor:	    ex.
+*CHI:	   < ·d ¿ù> [<] +/.
+%mor:	    vt adj.
+*INV:	   ¦³ ÉN ·d ¿ù &aa3 ?
+%mor:	    vf neg vt adj sfp.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+*CHI:	   ·f ¥m¥m¥m ·f.
+%mor:	    vt nn vt.
+*INV:	   ¥m¥m &lo1.
+%mor:	    nn sfp.
+*INV:	   < ·f ¥m¥m> [>].
+%mor:	    vt nn.
+*CHI:	   < ¥m> [<] +/.
+%mor:	    nn.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   ÉN &aa4 ?
+%mor:	    neg sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   ÉN &aa3.
+%mor:	    neg sfp.
+*CHI:	   < Ú» ©O ø> [=! takes out a train catalogue].
+%mor:	    vt det cl.
+*CHI:	   < ¤õ¨®> [/] ¤õ¨®.
+%mor:	    nn nn.
+*CHI:	   ¤õ¨® &aa3.
+%mor:	    nn sfp.
+*CHI:	   < ¶R ©O ¬[> [/] ¶R ©O ¬[.
+%mor:	    vt det cl vt det cl.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ¨®.
+%mor:	    nn.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ¶R.
+%mor:	    vt.
+*CHI:	   < ¦³ &aa3> [/] ¦³ &aa3.
+%mor:	    vf sfp vf sfp.
+*INV:	   ¦³ «§ ®A?
+%mor:	    vf wh sfp.
+*CHI:	   ¦³ &aa3.
+%mor:	    vf sfp.
+*INV:	   ¦³ «§ &aa3 ?
+%mor:	    vf wh sfp.
+%com:	 pause.
+*CHI:	   ©O ø.
+%mor:	    det cl.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   §A ¦³ ©O ­Ó «§?
+%mor:	    nnpr vf det cl sfp.
+*CHI:	   ¦³ &aa3.
+%mor:	    vf sfp.
+*INV:	   §A Ø{?
+%mor:	    nnpr sfp.
+*CHI:	   §A Ø{ &fe3 &fe3.
+%mor:	    nnpr sfp  xx  xx .
+*CHI:	   ¦³ &a3.
+%mor:	    vf sfp.
+*INV:	   §Y«Y Á¾Á¾ ¦³ ÉN ©O ­Ó &aa3 ?
+%mor:	    vf nnpp vf neg det cl sfp.
+*CHI:	   < ¦³ &aa3> [/] ¦³ &aa3.
+%mor:	    vf sfp vf sfp.
+*CHI:	   ¦³ &aa1.
+%mor:	    vf sfp.
+*CHI:	   < ¤õ¨®> [=! gets excited].
+%mor:	    nn.
+*CHI:	   xxx.
+*CHI:	   ¶]¨®.
+%mor:	    nn.
+*CHI:	   &bi1&bi1 &but1&but1.
+%mor:	    ex ex.
+*CHI:	   ñF.
+%mor:	    nn.
+*CHI:	   ¨®ñF.
+%mor:	    nn.
+*INV:	   ¨®ñF.
+%mor:	    nn.
+*INV:	   ¦³ ´X ¦h ¬[ ¤õ¨®  &aa3  ©O «×?
+%mor:	    vf wh adj cl nn sfp det cl.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¨â ­Ó «§ &aa3 ?
+%mor:	    q cl wh sfp.
+*CHI:	   ¨â ­Ó ¨®.
+%mor:	    q cl nn.
+*INV:	   ¨â ­Ó ¨® &aa4 ?
+%mor:	    q cl nn sfp.
+*CHI:	   < ¦³ &aa1> [/] ¦³ &aa1.
+%mor:	    vf sfp vf sfp.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*CHI:	   «u–ï.
+%mor:	    ex.
+*CHI:	   ¶R ©O ¬[  &jaa1  ¨®.
+%mor:	    vt det cl ex nn.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+%exp:	 The child gets excited again.
+*CHI:	   «u–ï–ï.
+%mor:	    ex.
+*CHI:	   < ¬[> [/].
+%mor:	    cl.
+*CHI:	   < ¬[> [/] ¬[.
+%mor:	    cl cl.
+*INV:	   Á¿ §¹ ¥¼?
+%mor:	    vt advm neg.
+*CHI:	   Á¿ §¹.
+%mor:	    vt advm.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+%com:	 long pause.
+*CHI:	   ©O ¬[ Ô Ä±.
+%mor:	    det cl vi nn.
+*INV:	   ­¹ ÷ ¶º ¥¼ &aa3 Á¾Á¾?
+%mor:	    vt asp nn neg sfp nnpp.
+*CHI:	   ­¹+...
+%mor:	    vt.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*CHI:	   ¶R ©O ¬[ ¤õ¨®.
+%mor:	    vt det cl nn.
+*INV:	   Ú» §¹ ¥¼ &aa3 ?
+%mor:	    vt advm neg sfp.
+*INV:	   ¦n ´e &aa3.
+%mor:	    advi adj sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ­ø ¦n Ú» &lo3.
+%mor:	    neg adj vt sfp.
+*CHI:	   ¦nÚ» &o3.
+%mor:	    adj ex.
+*CHI:	   < ¦³ &aa1> [/] ¦³ &aa1.
+%mor:	    vf sfp vf sfp.
+*INV:	   ­ø ·Q Ú».
+%mor:	    neg vt vt.
+*INV:	   < ­ø Ú»> [/] ­ø Ú».
+%mor:	    neg vt neg vt.
+*CHI:	   Ú» ©O ­Ó.
+%mor:	    vt det cl.
+*INV:	   ­ø Ú».
+%mor:	    neg vt.
+*CHI:	   &aa1 !
+%mor:	    ex.
+*INV:	   ­ø Ú».
+%mor:	    neg vt.
+*CHI:	   &aa1:!
+%mor:	    ex.
+*INV:	   ­ø è°.
+%mor:	    neg adj.
+*INV:	   ­ø Ú».
+%mor:	    neg vt.
+*CHI:	   è°.
+%mor:	    adj.
+*INV:	   ­ø ¦n Ú» &lok3.
+%mor:	    neg adj vt sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   ©O ­Ó &aa1.
+%mor:	    det cl sfp.
+*INV:	   ©O ­Ó °µ «§ ®A?
+%mor:	    det cl vt wh sfp.
+%com:	 pause.
+*CHI:	   < Ú» ©O ø> [/] Ú» ©O ø.
+%mor:	    vt det cl vt det cl.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*CHI:	   < ¶R> [/] ¶R ©O ¬[.
+%mor:	    vt vt det cl.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ­Ë­Ë &aa3.
+%mor:	    vt sfp.
+*CHI:	   < ­Ë &aa3> [/] ­Ë &aa3.
+%mor:	    vt sfp vt sfp.
+*CHI:	   ­Ë­Ë.
+%mor:	    vt.
+*CHI:	   ­Ë­Ë &aa3.
+%mor:	    vt sfp.
+*INV:	   ­Ë ÉAÏ &aa3 ?
+%mor:	    vt wh sfp.
+*CHI:	   ­Ë &aa3.
+%mor:	    vt sfp.
+*INV:	   ­Ë ÉAÏ ¦Ü ±o í?
+%mor:	    vt wh advf ctc sfp.
+*CHI:	   ­Ë &aa3.
+%mor:	    vt sfp.
+*INV:	   ­Ë ÉAÏ &aa3 ?
+%mor:	    vt wh sfp.
+%com:	 pause.
+*CHI:	   < ­Ë> [>].
+%mor:	    vt.
+*INV:	   < ¬[ ¨®> [<] ¸Ë ¦í ø Ï ·R ‘Á ­Ë ÉA î?
+%mor:	    cl nn vt asp cl nn vt dir vt wh sfp.
+*INV:	   ­Ë ÉAÏ &aa3 ?
+%mor:	    vt wh sfp.
+*CHI:	   &si3.
+%mor:	    ex.
+*INV:	   úï?
+%mor:	    ex.
+*INV:	   < ­Ë «§ ¸Ü> [/] ­Ë «§ ¸Ü?
+%mor:	    ctc wh sfp vt wh sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ­Ë ÉAÏ §A ¥¼ µª §Ú Ø{?
+%mor:	    vt wh nnpr neg vt nnpr sfp.
+*CHI:	   0 [=! turns over the pages].
+*INV:	   ­ø ¦n ´¦ ²Ä ¤G ª© &zi6.
+%mor:	    neg adj vt det q cl advs.
+*INV:	   ­Ë ªdÀY «Y «} &aa3 ?
+%mor:	    vt nn vf neg sfp.
+*CHI:	   ÀY &e3.
+%mor:	    nn ex.
+*CHI:	   Ú» ©O ø.
+%mor:	    vt det cl.
+*CHI:	   Ú» ©O «×.
+%mor:	    vt det cl.
+*INV:	   &ji1.
+%mor:	    ex.
+*CHI:	   Ú» ©O «× &aa3.
+%mor:	    vt det cl sfp.
+*CHI:	   ¦nª± &aa3.
+%mor:	    adj sfp.
+*CHI:	   &ce3.
+%mor:	     xx .
+*CHI:	   ¦nª± &aa3.
+%mor:	    adj sfp.
+*INV:	   ¦nª± &aa4 ?
+%mor:	    adj sfp.
+*CHI:	   < ¨®> [/] ¨®.
+%mor:	    nn nn.
+*CHI:	   ¦nª± &aa3.
+%mor:	    adj sfp.
+*CHI:	   ¨®.
+%mor:	    nn.
+*CHI:	   ©O «× &e3.
+%mor:	    det cl ex.
+*CHI:	   ¦n ª± &e3.
+%mor:	    advi vt ex.
+%com:	 long pause.
+*CHI:	   < ¶R ©O ¬[  &aa3> [/] ¶R ©O ¬[  &aa3.
+%mor:	    vt det cl sfp vt det cl sfp.
+%exp:	 The child points to a car on the catalogue.
+*CHI:	   &je3.
+%mor:	    ex.
+*INV:	   ÂI¸Ñ ­n ¶R õ ¬[  &aa3 ?
+%mor:	    wh vt vt det cl sfp.
+*CHI:	   ©O ­Ó &aa3.
+%mor:	    det cl sfp.
+*CHI:	   ¶R ©O ¬[  &aa3.
+%mor:	    vt det cl sfp.
+*INV:	   ÂI¸Ñ ­n ¶R ©O ¬[ ¦Ü ±o í?
+%mor:	    wh vt vt det cl advf ctc sfp.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ·d ¿ù.
+%mor:	    vt adj.
+*CHI:	   ¶R ©O ¬[  &aa3  &jaa3  &jaa3  &jaa3.
+%mor:	    vt det cl sfp ex ex ex.
+*INV:	   «§ ¸Ü?
+%mor:	    wh sfp.
+*CHI:	   ·d ¿ù.
+%mor:	    vt adj.
+*CHI:	   < ¶R ©O ¬[  &jaa3> [/] ¶R ©O ¬[  &jaa3.
+%mor:	    vt det cl sfp vt det cl sfp.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*INV:	   ·d ¿ù &aa4.
+%mor:	    vt adj sfp.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*INV:	   ¶R ©O ¬[ ¦n ÉN  &aa3 ?
+%mor:	    vt det cl adj neg sfp.
+*CHI:	   ¶R ©O ¬[ ¦n.
+%mor:	    vt det cl adj.
+*CHI:	   ¶R.
+%mor:	    vt.
+*INV:	   ­ø ¶R õ ¬[  &lok3.
+%mor:	    neg vt det cl sfp.
+*INV:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*INV:	   < ­ø ±o> [>].
+%mor:	    neg ctc.
+*CHI:	   < ¶R> [<] +/.
+%mor:	    vt.
+*INV:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*CHI:	   ¶R.
+%mor:	    vt.
+*CHI:	   xxx.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	"   ""No""."
+%mor:	    neg.
+*INV:	   < ¶R ©O ¬[> [>].
+%mor:	    vt det cl.
+*CHI:	"   <No, ¶R ©O> [<] +/."
+%mor:	    neg vt det.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*INV:	   ©O ¬[.
+%mor:	    det cl.
+*CHI:	   ©O ¬[.
+%mor:	    det cl.
+*INV:	   ©O ¬[.
+%mor:	    det cl.
+*CHI:	   ©O ¬[.
+%mor:	    det cl.
+*INV:	   ©O ¬[.
+%mor:	    det cl.
+*CHI:	   ©O ¬[.
+%mor:	    det cl.
+*INV:	   ©O ¬[.
+%mor:	    det cl.
+*CHI:	   ©O ¬[.
+%mor:	    det cl.
+*INV:	   ©O ¬[.
+%mor:	    det cl.
+*CHI:	   ©O ¬[.
+%mor:	    det cl.
+*INV:	   ©O ¬[.
+%mor:	    det cl.
+*CHI:	   ©O °¦.
+%mor:	    det cl.
+*INV:	   ©O ¬[.
+%mor:	    det cl.
+*CHI:	   ©O °¦.
+%mor:	    det cl.
+*INV:	   ©O °¦.
+%mor:	    det cl.
+*CHI:	   ©O °¦.
+%mor:	    det cl.
+*INV:	   < ©O ­Ó> [>].
+%mor:	    det cl.
+*CHI:	   < ©O °¦> [<].
+%mor:	    det cl.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   < ©O ±ø> [>].
+%mor:	    det cl.
+*CHI:	   < ©O ­Ó> [<].
+%mor:	    det cl.
+*CHI:	   0 [=! no response].
+*CHI:	   ¶R ©O ­Ó &o3.
+%mor:	    vt det cl sfp.
+*CHI:	   < ªø - ?> [/]
+%mor:	    adj .
+*CHI:	   ªø - ?
+%mor:	   adj.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*CHI:	   ªø ©O «× &aa3.
+%mor:	    adj det cl sfp.
+*CHI:	   ½ò ³æ¨® &aa3.
+%mor:	    vt nn sfp.
+%exp:	 There is a bicycle in the picture.
+*INV:	   ½ò ³æ¨® &aa4 ?
+%mor:	    vt nn sfp.
+%com:	 long pause.
+*INV:	   Ú» §¹.
+%mor:	    vt advm.
+*CHI:	   Ú» ©O ø &aa3.
+%mor:	    vt det cl sfp.
+*INV:	   Ú» §¹ &laak3.
+%mor:	    vt advm sfp.
+*INV:	   ¥ò Ú» - ?
+%mor:	    advf vt.
+*INV:	   ­ø Ú» &lok3.
+%mor:	    neg vt sfp.
+*CHI:	   < Ú»> [/].
+%mor:	    vt.
+*CHI:	   < Ú»> [/] Ú».
+%mor:	    vt vt.
+*INV:	   Ú» §¹.
+%mor:	    vt advm.
+*CHI:	   < Ú» ©O ø> [=! shows the investigator a hair band].
+%mor:	    vt det cl.
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*INV:	   Ú» ©O ø °Õ.
+%mor:	    vt det cl sfp.
+*INV:	   «Y «} §A î?
+%mor:	    vf neg nnpr sfp.
+*CHI:	   ©j©j ¶ı«} &waa3.
+%mor:	    nn nn ex.
+*CHI:	   ©j©j &u3.
+%mor:	    nn ex.
+*INV:	   «Y «} §A î?
+%mor:	    vf neg nnpr sfp.
+*CHI:	   < ¶ı> [/] ¶ı«} &waa3.
+%mor:	    nn nn sfp.
+*INV:	   §A &ge3.
+%mor:	    nnpr sfp.
+*CHI:	   < ¶ı«} &waa3> [/].
+%mor:	    nn sfp.
+*CHI:	   < ¶ı«} &waa3> [/].
+%mor:	    nn sfp.
+*CHI:	   < ¶ı«} &waa3> [/] ¶ı«} &waa3.
+%mor:	    nn sfp nn sfp.
+*SIS:	   < ¦³ ÉN ·d ¿ù &aa3> [>]?
+%mor:	    vf neg vt adj sfp.
+*CHI:	   < ¶ı«} &waa3> [<].
+%mor:	    nn sfp.
+*CHI:	   < &je3> [/].
+%mor:	    ex.
+*CHI:	   < &je3> [/] &je3.
+%mor:	    ex ex.
+*INV:	   Ãä ­Ó î ­Ó ÀYãT ¨s³º «Y?
+%mor:	    wh cl sfp cl nn advs vf.
+*SIS:	   ¨È¥P î.
+%mor:	    nnpp sfp.
+*CHI:	   0 [=! throws the hair band on the floor].
+*INV:	   ¨È¥P î.
+%mor:	    nnpp sfp.
+*INV:	   §A Ëİ &dam2 ÷ Ê\.
+%mor:	    nnpr advs vt asp nnpr.
+*INV:	   §A ¦³ ÉN ·d ¿ù?
+%mor:	    nnpr vf neg vt adj.
+*CHI:	   < ªğ ¾Ç> [=! points to a school in a picture].
+%mor:	    dir nn.
+*CHI:	   ½ğ ªi.
+%mor:	    vt nn.
+*CHI:	   ½ğ.
+%mor:	    vt.
+%exp:	 There is a boy playing football in the picture.
+*INV:	   ½ğ.
+%mor:	    vt.
+*CHI:	   &wou1&wou1 &e3 &aa3.
+%mor:	    nn sfp sfp.
+*INV:	   &wou1&wou1 &e3.
+%mor:	    nn sfp.
+*INV:	   §A Åå ­ø Åå &wou1&wou1 &aa3 ?
+%mor:	    nnpr vt neg vt nn sfp.
+*CHI:	   &wou1&wou1 ¦Ñªê &aa3.
+%mor:	    nn nn sfp.
+*INV:	   &wou1&wou1 ¦Ñªê.
+%mor:	    nn nn.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*INV:	   ¦¨ ¤é ³£ ·d ¿ù ï?
+%mor:	    q cl advf vt adj sfp.
+*INV:	   Ãä ­Ó ±Ğ §A î?
+%mor:	    wh cl vt nnpr sfp.
+*CHI:	   <xxx> [=! whispers].
+*SIS:	   ¬M ÷ ´T ¬Û ²K &aa3.
+%mor:	    vt asp cl nn prt sfp.
+*SIS:	   xxx.
+*CHI:	   Ú» &aa3.
+%mor:	    vt sfp.
+*CHI:	   Ú» ©O ­Ó.
+%mor:	    vt det cl.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*INV:	   < °µ ÉAÏ &aa3 ?> [=! points to a hand in the picture]
+%mor:	    vt wh sfp.
+*INV:	   ¤â &aa4 ?
+%mor:	    nn sfp.
+*INV:	   «Y «} ¤â &aa3 ?
+%mor:	    vf neg nn sfp.
+*INV:	   «Y «}?
+%mor:	    vf neg.
+*INV:	   ©j©j ¦³ ÉN ¤â &aa3 ?
+%mor:	    nn vf neg nn sfp.
+*CHI:	   ¦³ &aa3.
+%mor:	    vf sfp.
+*INV:	   ¦³ &aa4 ?
+%mor:	    vf sfp.
+*CHI:	   ¨®.
+%mor:	    nn.
+*CHI:	   ¶R ©O ­Ó.
+%mor:	    vt det cl.
+*CHI:	   ¶R &aa3.
+%mor:	    vt sfp.
+*INV:	   ¦n ÉN ª± &aa3 ?
+%mor:	    adj neg vt sfp.
+%com:	 long pause.
+*CHI:	   xxx ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*CHI:	   xxx.
+*CHI:	   &wou1&wou1.
+%mor:	    nn.
+*INV:	   < «Y «} Á¾Á¾ &aa3 ©O ­Ó?> [=! points to a boy]
+%mor:	    vf neg nnpp sfp det cl.
+*CHI:	   &haa1 &haa1.
+%mor:	    ex ex.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*SIS:	   ¦³ ÉN ·d ¿ù &aa3 ?
+%mor:	    vf neg vt adj sfp.
+*CHI:	   < &wou1&wou1> [//] &wou1&wou1 &aa3.
+%mor:	    nn nn sfp.
+*INV:	   < &wou1&wou1> [>].
+%mor:	    nn.
+*SIS:	   < &wou1&wou1 &aa4> [<]?
+%mor:	    nn sfp.
+%com:	 long pause.
+*CHI:	   ¤ë¥ú¥ú.
+%mor:	    nn.
+*CHI:	   ¤ë¥ú¥ú è° &aa3.
+%mor:	    nn adj sfp.
+*CHI:	   ¤ë¥ú è° &aa3.
+%mor:	    nn adj sfp.
+*CHI:	   ¤ë¥ú¥ú è° &aa3.
+%mor:	    nn adj sfp.
+*INV:	   ¤ë¥ú¥ú &aa4 ?
+%mor:	    nn sfp.
+*CHI:	   ¤ë¥ú¥ú.
+%mor:	    nn.
+*CHI:	   ¤ë¥ú ¨â ­Ó.
+%mor:	    nn q cl.
+*CHI:	   < ¨â ­Ó> [/] ¨â ­Ó.
+%mor:	    q cl q cl.
+*CHI:	   ¨â+/.
+%mor:	    q.
+*INV:	   ¨â ­Ó ÉAÏ &aa3 ?
+%mor:	    q cl wh sfp.
+*SIS:	   < «§ ¨â ­Ó ®A> [>]?
+%mor:	    wh q cl sfp.
+*SIS:	   < Ëİ ¦h ­Ó ³£ ¸Ü ¨â ­Ó> [>].
+%mor:	    advi adj cl advf vt q cl.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*INV:	   < ¨â ­Ó «§ ®A> [>]?
+%mor:	    q cl wh sfp.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [<].
+%mor:	    q cl.
+*CHI:	   ¨â ­Ó &e3.
+%mor:	    q cl ex.
+*INV:	   < ¨â ­Ó «§ &aa3> [>]?
+%mor:	    q cl wh sfp.
+*SIS:	   < ¤ë¥ú¥ú> [<].
+%mor:	    nn.
+*CHI:	   ¤ë¥ú ‘Á.
+%mor:	    nn sfp.
+*CHI:	   ¤ë¥ú.
+%mor:	    nn.
+*CHI:	   ¤ë¥ú¥ú ¨â ­Ó &aa3.
+%mor:	    nn q cl sfp.
+*SIS:	   §A &ap1 «§ &aa3 ¤ë¥ú¥ú ¨â ­Ó &e3 ?
+%mor:	    nnpr vt wh sfp nn q cl ex.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*CHI:	   ¨â ­Ó &e3 &jaa3 &jaa3.
+%mor:	    q cl ex ex ex.
+*INV:	   ¦³ ´X ¦h ­Ó Á¾Á¾ &aa3 Ëİ¼Ë?
+%mor:	    vf wh adj cl nnpp sfp advs.
+*CHI:	   ¨â+/.
+%mor:	    q.
+*SIS:	   ´X ¦Ê ­Ó Á¾Á¾ &aa3.
+%mor:	    q q cl nnpp sfp.
+*CHI:	   ·h.
+%mor:	    vt.
+*CHI:	   ·h &aa3.
+%mor:	    vt sfp.
+*CHI:	   Ú» &o3.
+%mor:	    vt ex.
+*CHI:	   Ú».
+%mor:	    vt.
+*SIS:	   < ´X ¦h ­Ó Á¾Á¾ &aa3> [>]?
+%mor:	    wh adj cl nnpp sfp.
+*CHI:	   <xxx> [<].
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+*CHI:	   §Ú Á¾ &aa3.
+%mor:	    nnpr advf sfp.
+%com:	 The investigator and the child's elder sister laugh.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*CHI:	   < ÉN> [/] ÉN.
+%mor:	    neg neg.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*INV:	   ¦¨ ¤é ³£ ·d ¿ù ï?
+%mor:	    q cl advf vt adj sfp.
+*INV:	   Ãä ­Ó ±Ğ §A ï ¥ı?
+%mor:	    wh cl vt nnpr sfp advf.
+*INV:	   ¦¨ ¤é ³£ ·d ¿ù?
+%mor:	    q cl advf vt adj.
+*CHI:	   0 [=! no response].
+%com:	 long pause.
+*CHI:	   xxx.	
+*INV:	   «§ ‘Á î?	
+%mor:	    wh sfp sfp.	
+*INV:	   ¹ª &lo1.	
+%mor:	    nn sfp.	
+*INV:	   «Y «} &aa3 ?	
+%mor:	    vf neg sfp.	
+*INV:	   ¥´ &go3 &lo1 ·R ‘Á.	
+%mor:	    vt sfp sfp vt dir.	
+*CHI:	   &wou1&wou1	.
+%mor:	    nn.
+*INV:	   &wou1&wou1 &aa3.
+%mor:	    nn sfp.
+*SIS:	   < &wou1&wou1> [>].
+%mor:	    nn.
+*CHI:	   < &wou1&wou1> [<].
+%mor:	    nn.
+*INV:	   ¦n ÉN ¥´ &wou1&wou1 &aa3 ?
+%mor:	    adj neg vt nn sfp.
+*INV:	   ¥´ ­ø ¥´ &wou1&wou1 &aa3 ?
+%mor:	    vt neg vt nn sfp.
+*CHI:	   ¥´.
+%mor:	    vt.
+*INV:	   ¥´ &lu3 Ø{.
+%mor:	    vt sfp sfp.
+*INV:	   < &wou1> [=! hits the picture of the dog].
+%mor:	    nn.
+*INV:	   ¦º ÷ ¥¼?
+%mor:	    verg asp neg.
+*CHI:	   ¦º ÷ &laak3.
+%mor:	    verg asp sfp.
+*INV:	   ¦º ÷ &laak3.
+%mor:	    verg asp sfp.
+*SIS:	   < ¦³ ±Æ ³£ ¥¼ ¦º> [>].
+%mor:	    vf cl advf neg verg.
+*CHI:	   < ¦º ÷ &laak3> [<].
+%mor:	    verg asp sfp.
+*SIS:	   Ê\ ®Ú¥» ³£ ­ø ö «× ÂI ·| ¦º ®A.
+%mor:	    nnpr advs advf neg vf cl wh aux verg sfp.
+*SIS:	   §A ³£ ¶Ì ï.
+%mor:	    nnpr advf adj sfp.
+*CHI:	   ¥´ ©O «×.
+%mor:	    vt det cl.
+*INV:	   ¦º ÷.
+%mor:	    verg asp.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   ¦º ®Í.
+%mor:	    verg prt.
+*CHI:	   ¦º ®Í.
+%mor:	    verg prt.
+*CHI:	   &wou1&wou1.
+%mor:	    nn.
+*CHI:	   &wou1&wou1+/.
+%mor:	    nn.
+*INV:	   §A ­Ú °¦ ¸} ©j©j ­¹ &aa1 ¤£¦p.
+%mor:	    nnpr prep cl nn nn vt sfp advs.
+*INV:	   ©j©j ¦n ·Q ­¹ &aa3.
+%mor:	    nn advi vt vt sfp.
+*SIS:	   < &am3 > [/].
+%mor:	    ex .
+*SIS:	   <&am3> [/].
+%mor:	   ex .
+*SIS:	   <&am3> [/] &am3.
+%mor:	   ex ex.
+*INV:	   §A ­Ú Ê\ ­¹ &aa1.
+%mor:	    nnpr prep nnpr vt sfp.
+*SIS:	   &am3:.
+%mor:	    ex.
+*INV:	   §A ­Ú °¦ ¸} Ê\ ­¹ &aa1.
+%mor:	    nnpr prep cl nn nnpr vt sfp.
+*INV:	   Ê\ ·Q ­¹ §A °¦ ¸} &aa3.
+%mor:	    nnpr vt vt nnpr cl nn sfp.
+*SIS:	   < &am3 > [>].
+%mor:	    ex .
+*SIS:	   <&am3> [>].
+%mor:	     ex .
+*SIS:	   <&am3> [>].
+%mor:	       ex.
+*CHI:	   < °¦ ¸}> [<].
+%mor:	    cl nn.
+*CHI:	   < ¸}> [<].
+%mor:	    nn.
+*INV:	   ­¹ §Ú °¦ ¸} &aa1.
+%mor:	    vt nnpr cl nn sfp.
+*INV:	   ­¹ ­ø ­¹ &aa3 ?
+%mor:	    vt neg vt sfp.
+*CHI:	   < &am3 &am3> [/] &am3.
+%mor:	    ex ex ex.
+*INV:	   ¦n ÉN ­¹ &aa3 ?
+%mor:	    adj neg vt sfp.
+*CHI:	   ¦n­¹.
+%mor:	    adj.
+*INV:	   < ©j©j °¦ ¸} ©O> [>]?
+%mor:	    nn cl nn sfp.
+*CHI:	   < ¦n­¹> [<].
+%mor:	    adj.
+*INV:	   < ¦n­¹ &aa4> [>]?
+%mor:	    adj sfp.
+*CHI:	   < ¦n­¹> [<].
+%mor:	    adj.
+*INV:	   ­ø ¯ä «§?
+%mor:	    neg adj sfp.
+*CHI:	   ¯ä &aa3.
+%mor:	    adj sfp.
+*INV:	   ¯ä &aa4 ?
+%mor:	    adj sfp.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+*CHI:	   &miu1 &a3.
+%mor:	    nn sfp.
+*SIS:	   < ¤@¼Ë &gaa3 &wo3> [>].
+%mor:	    adj sfp sfp.
+*INV:	   < ¤@¼Ë &lo1 > [<].
+%mor:	    adj sfp .
+*INV:	   <«Y «} &aa3> [<]?
+%mor:	   vf neg sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   < «Y «} ¤@¼Ë &aa3 ¦P ©j©j ©O ­Ó> [>]?
+%mor:	    vf neg adj sfp vt nn det cl.
+*CHI:	   < ¦³ &aa3> [<].
+%mor:	    vf sfp.
+@New Episode:	
+@Situation:	 The batteries have run out and the investigator replaces them.
+*INV:	   ·d Õi.
+%mor:	    vt adj.
+*INV:	   ³Ş.
+%mor:	    ex.
+*INV:	   §A &dam2 ÷ Ê\ °Õ õ ø.
+%mor:	    nnpr vt asp nnpr sfp det cl.
+*INV:	   ­ø ­n î &laa3.
+%mor:	    neg vt sfp sfp.
+*CHI:	   ­n.
+%mor:	    vt.
+*INV:	   õ ø ¹q ­ø ­n î &laa3.
+%mor:	    det cl nn neg vt sfp sfp.
+*SIS:	   ¼M.
+%mor:	    ex.
+*SIS:	   ­ø©Ç±o¤§ °Õ.
+%mor:	    neg sfp.
+*SIS:	   Ëİ ¦h ÁK.
+%mor:	    advi adj nn.
+*INV:	   «Y &laa1.
+%mor:	    vf sfp.
+*SER:	   xxx.
+*INV:	   «ô«ô &lo3.
+%mor:	    ex sfp.
+*INV:	   À° §Ú &dam2 ÷ Ê\ ¥ı °Õ.
+%mor:	    vt nnpr vt asp nnpr advf sfp.
+*INV:	   ¦P §Ú &dam2 ÷ Ê\ &aa1.
+%mor:	    prep nnpr vt asp nnpr sfp.
+*INV:	   ¦æ ¥h ¼p©Ğ &dam2 ÷ Ê\.
+%mor:	    vi dir nnloc vt asp nnpr.
+*INV:	   §A ¦Û¤v ¸¨ ¥h ·f ¨® î?
+%mor:	    nnpr rfl dir dir vt nn sfp.
+%exp:	 The investigator talks to the child's elder sister.
+*SIS:	   ¤@ ®É &aa3.
+%mor:	    q cl sfp.
+*INV:	   ¨È¥P ¾p ­ø ¾p ¦P §A ¸¨ ¥h î?
+%mor:	    nnpp aux neg aux prep nnpr dir dir sfp.
+*INV:	   &dam2 ©U§£ &lu3 [=! talking to the child].
+%mor:	    vt nn sfp.
+%exp:	 The investigator and the child walk to the kitchen.
+*INV:	   &dam2 ÷ &lu3.
+%mor:	    vt asp sfp.
+*CHI:	   &hei1 &hei3.
+%mor:	    ex ex.
+*INV:	   ©j©j ªğ ¾Ç &lu3.
+%mor:	    nn dir nn sfp.
+*INV:	   «ô«ô &laa1.
+%mor:	    ex sfp.
+*INV:	   < «ô«ô> [>].
+%mor:	    ex.
+*CHI:	   < «u&jo3> [<].
+%mor:	    ex.
+*INV:	   §A «ô«ô ©O ­Ó &aa3.
+%mor:	    nnpr vt det cl sfp.
+*CHI:	   «ô.
+%mor:	    ex.
+*SIS:	   «ô«ô.
+%mor:	    ex.
+*CHI:	   «ô«ô.
+%mor:	    ex.
+%com:	 The servant takes the child's elder sister to school. Long pause.
+*INV:	   ÂI &aa3 ?
+%mor:	    wh sfp.
+*CHI:	   Ú».
+%mor:	    vt.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   Ú» &aa3.
+%mor:	    vt sfp.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*INV:	   «§Ï &aa3 ?
+%mor:	    wh sfp.
+*CHI:	   < §Ú &je3> [/] §Ú &je3.
+%mor:	    nnpr sfp nnpr sfp.
+%com:	 The investigator plays back the tape for the child to listen.
+@New Episode:	
+*INV:	   ğ.
+%mor:	    ex.
+*INV:	   §Ú’] ¦A ¿ı &lu3 Ø{.
+%mor:	    nnpr advf vt sfp sfp.
+*INV:	   ¦n ÉN &aa3 ?
+%mor:	    adj neg sfp.
+*CHI:	   ¦n.
+%mor:	    adj.
+*INV:	"   ""Okay""."
+%mor:	    ex.
+*CHI:	   &hei1.
+%mor:	    ex.
+*CHI:	   xxx.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*CHI:	   Ú» ©O ø &wo3 &jaa3 &jaa3 &jaa3 &jaa3.
+%mor:	    vt det cl sfp ex ex ex ex.
+*CHI:	   < Ú» ©O ø> [/].
+%mor:	    vt det cl.
+*CHI:	   < Ú» ©O ø> [/].
+%mor:	    vt det cl.
+*CHI:	   < Ú» ©O ø> [/].
+%mor:	    vt det cl.
+*CHI:	   < Ú» ©O ø> [/].
+%mor:	    vt det cl.
+*CHI:	   < Ú» ©O ø> [/].
+%mor:	    vt det cl.
+*CHI:	   < Ú» ©O ø> [/].
+%mor:	    vt det cl.
+*CHI:	   < Ú» ©O ø> [/] Ú» ©O ø.
+%mor:	    vt det cl vt det cl.
+*INV:	"   Á¾Á¾ &aa4, ©O ø «§ ‘Á î?"
+%mor:	    nnpp sfp det cl wh sfp sfp.
+*CHI:	   0 [=! no response].
+*INV:	"   Á¾Á¾, §A ­ø ¦n Ú» ©O ø."
+%mor:	    nnpp nnpr neg adj vt det cl.
+*INV:	   ©O ø «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   ÉN &ge3.
+%mor:	    neg sfp.
+*INV:	   < §Ú’] ª±> [//] §Ú’] ª± ©O ø ¥ı &aa1 ¦n ÉN &aa3 ?
+%mor:	    nnpr vt nnpr vt det cl advf sfp adj neg sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   §Ú’] ª± ©O ø.
+%mor:	    nnpr vt det cl.
+*INV:	   ©O ø «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*INV:	   §A ¸Ü ­Ú ©j©j Å¥ ¥ı.
+%mor:	    nnpr vt prep nn vt advf.
+%com:	 The investigator takes out some socks from a drawer.
+*CHI:	   ª±ª± &aa3.
+%mor:	    vt sfp.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   Äû.
+%mor:	    nn.
+*INV:	   < Äû &aa4> [>]?
+%mor:	    nn sfp.
+*CHI:	   < ¦³ xxx> [<].
+%mor:	    vf.
+*INV:	   ¦³ ´X ¦h °¦ Äû &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/] ¨â ­Ó.
+%mor:	    q cl q cl.
+*INV:	   «§ ³£ ¨â ­Ó ï ÂI¸Ñ?
+%mor:	    wh advf q cl sfp wh.
+%com:	 long pause.
+*INV:	   ª± ÉAÏ &aa3 §Ú’]?
+%mor:	    vt wh sfp nnpr.
+*INV:	"   ¥X ¥h ª±, ¦n ÉN &aa3 ?"
+%mor:	    dir dir vt adj neg sfp.
+*CHI:	   < ­Ë> [/] ­Ë.
+%mor:	    vt vt.
+*CHI:	   ­Ë - ?
+%mor:	    vt.
+*INV:	   ­Ë &aa4 ?
+%mor:	    vt sfp.
+*INV:	   ­Ë ¤ô &aa4 ?
+%mor:	    vt nn sfp.
+*CHI:	   ­Ë.
+%mor:	    vt.
+*INV:	   «Y «} ­Ë ¤ô &aa3 ?
+%mor:	    vf neg vt nn sfp .
+*INV:	     «Y «}?
+%mor:	     vf neg.
+*INV:	   §Ú’] ¥X ¥h ª± &aa1.
+%mor:	    nnpr dir dir vt sfp.
+*CHI:	   ­Ë.
+%mor:	    vt.
+*CHI:	   ­Ë &aa1.
+%mor:	    vt sfp.
+*CHI:	   < ­Ë> [/].
+%mor:	    vt.
+*CHI:	   < ­Ë> [/] ­Ë.
+%mor:	    vt vt.
+*INV:	   ­Ë.
+%mor:	    vt.
+*CHI:	   < ²° &aa3> [/].
+%mor:	    nn sfp.
+*CHI:	   < ²° &aa3> [/] ²° &aa3.
+%mor:	    nn sfp nn sfp.
+*INV:	"   < «§ ‘Á î, Á¾Á¾ &aa3 ?> [=! shows the child a pen]"
+%mor:	    wh sfp sfp nnpp sfp.
+*CHI:	   ªK µ§.
+%mor:	    cl nn.
+*INV:	   ªK µ§ &aa4 ?
+%mor:	    cl nn sfp.
+*INV:	   ¦³ ´X ¦h ªK µ§ &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/] ¨â ­Ó.
+%mor:	    q cl q cl.
+*INV:	   ³Ş.
+%mor:	    ex.
+*INV:	   Á¾Á¾ §A ¥X µf ‘Á.
+%mor:	    nnpp nnpr dir prt dir.
+*INV:	   §A ­ø ¦n+...
+%mor:	    nnpr neg adj.
+*INV:	   ¥X ‘Á &aa1.
+%mor:	    dir dir sfp.
+*INV:	   ¥X ‘Á ©O «× ª± ¦n ÉN &aa3 ?
+%mor:	    dir dir det cl vt adj neg sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ¥X ‘Á ©O «× ª± &aa1.
+%mor:	    dir dir det cl vt sfp.
+*INV:	   ©O ­Ó ªK µ§ ‘Á î?
+%mor:	    det cl cl nn sfp sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*CHI:	   ¦³ ¨® &aa3.
+%mor:	    vf nn sfp.
+*CHI:	   «u–ï.
+%mor:	    ex.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   ¾ã ¦º §Ú &laa3.
+%mor:	    vt verg nnpr sfp.
+*INV:	   < ©O ´T ¬Û Ãä ­Ó ‘Á î> [=! shows the child his own photo]?
+%mor:	    det cl nn wh cl sfp sfp.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   §Ú xxx ©O ø.
+%mor:	    nnpr det cl.
+*INV:	   ³Ş.
+%mor:	    ex .
+*INV:	   ­Ú §Ú î.
+%mor:	   vd nnpr sfp.
+*CHI:	   ­Ú - ?
+%mor:	    vd.
+*INV:	   ­Ú.
+%mor:	    vd.
+*INV:	   è° ­ø è° &aa3 ©O ±i ¬Û?
+%mor:	    adj neg adj sfp det cl nn.
+*CHI:	   ¦n è°.
+%mor:	    advi adj.
+*INV:	   è° ­ø è° î?
+%mor:	    adj neg adj sfp.
+*CHI:	   Ú» ®Ñ.
+%mor:	    vt nn.
+*CHI:	   &aa1 &aa1.
+%mor:	    ex ex.
+*CHI:	   Ú» xxx.
+%mor:	    vt.
+*CHI:	   Ú» ®Ñ.
+%mor:	    vt nn.
+*CHI:	   xxx.
+*CHI:	   xxx.
+*INV:	   Ú» &aa4 ?
+%mor:	    vt sfp.
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*INV:	   §A ©ğ ¹L ‘Á Ú» &aa1.
+%mor:	    nnpr vt dir dir vt sfp.
+*CHI:	   &hai1 &jaa3.
+%mor:	    ex sfp.
+*INV:	   Ú».
+%mor:	    vt.
+*INV:	   §j.
+%mor:	    vt.
+*INV:	   ©O ­Ó §j ¸­¤l &lo1.
+%mor:	    det cl vt nn sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*CHI:	   < Ú»> [/] Ú».
+%mor:	    vt vt.
+*CHI:	   ­ø «Y &aa3.
+%mor:	    neg vf sfp.
+*CHI:	   xxx.
+*INV:	   ©O ­Ó «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   ¤ë¥ú¥ú &aa3.
+%mor:	    nn sfp.
+*CHI:	   Ú».
+%mor:	    vt.
+*CHI:	   ¯ù.
+%mor:	    nn.
+*INV:	   ¯ù.
+%mor:	    nn.
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*INV:	   ¸Ë ¦í ¯ù õ ­Ó ©O?
+%mor:	    vt asp nn det cl sfp.
+*CHI:	   ¦³ &aa3.
+%mor:	    vf sfp.
+*INV:	   «§ ‘Á î ©O ­Ó?
+%mor:	    wh sfp sfp det cl.
+*INV:	   §A ¤S ¦³ &aa4 ?
+%mor:	    nnpr advf vf sfp.
+*INV:	   §A ­Ú §Ú Ú» &aa1.
+%mor:	    nnpr prep nnpr vt sfp.
+%com:	 The child goes inside the kitchen.
+*CHI:	   ¤J ‘Á.
+%mor:	    dir dir.
+*INV:	   Ãä«× &aa3 ?
+%mor:	    wh sfp.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*INV:	   &o2.
+%mor:	    ex.
+*INV:	   «§ ‘Á î ©O ø «Y?
+%mor:	    wh sfp sfp det cl vf.
+*CHI:	   §Ú &jaa3.
+%mor:	    nnpr sfp.
+*INV:	   Ãä+...
+%mor:	    wh.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   < §Ú &jaa3> [/] §Ú &jaa3.
+%mor:	    nnpr sfp nnpr sfp.
+*INV:	   §A î.
+%mor:	    nnpr sfp .
+*INV:	   «Y «} &aa3 ?
+%mor:	   vf neg sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ¦ı«Y «§ ‘Á î?
+%mor:	    advs wh sfp sfp.
+%com:	 The child goes away.
+*CHI:	   §Ú &ge3.
+%mor:	    nnpr sfp.
+*INV:	   ³Ş.
+%mor:	    ex .
+*INV:	   ³Ş.
+%mor:	   ex .
+*INV:	   Á¾Á¾ &aa4 Á¾Á¾.
+%mor:	   nnpp sfp nnpp.
+*INV:	   ¤J ‘Á &aa1 Á¾Á¾.
+%mor:	    dir dir sfp nnpp.
+*INV:	   Á¾Á¾.
+%mor:	    nnpp.
+*INV:	   §Ú’] ¤J ‘Á &e1.
+%mor:	    nnpr dir dir ex.
+*INV:	   ¤J ‘Á &e1.
+%mor:	    dir dir ex.
+*INV:	   §Ú’] Ú» ³·Âd ¦n ÉN &aa3 ?
+%mor:	    nnpr vt nn adj neg sfp.
+*CHI:	   xxx &aa3.
+%mor:	    sfp.
+*INV:	   §A+...
+%mor:	    nnpr.
+*INV:	   §Ú’] Ú» úï ³·Âd ¦³ «§ &lok3.
+%mor:	    nnpr vt prt nn vf wh sfp.
+%com:	 The investigator opens the fridge and there are some eggs inside it.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/] ¨â ­Ó.
+%mor:	    q cl q cl.
+*INV:	   ©O ø «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   ³J.
+%mor:	    nn.
+*INV:	   ¦³ ´X ¦h °¦ ³J &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   < ¨â ­Ó> [/] ¨â ­Ó.
+%mor:	    q cl q cl.
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+*INV:	   ¦³ ¨â ­Ó °¦ ³J &aa4 ?
+%mor:	    vf q cl cl nn sfp.
+*CHI:	   ³J.
+%mor:	    nn.
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   &e3.
+%mor:	    ex.
+*INV:	   ­¹ &aa4 ?
+%mor:	    vt sfp.
+*CHI:	   &u3.
+%mor:	    ex.
+*INV:	   §A ­Ú §Ú &aa4 ?
+%mor:	    nnpr vd nnpr sfp.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*INV:	   ¥ò ¦³ ø «§Ï Ï &aa3 ?
+%mor:	    advf vf cl wh nn sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ¦³ ÉN Ï­¹ ±o î ©O «×?
+%mor:	    vf neg nn ctc sfp det cl.
+*CHI:	   0 [=! no response].
+*INV:	   ³Ş.
+%mor:	    ex .
+*INV:	   §A ­ø ¦n ´¦ ¶} &laa3.
+%mor:	   nnpr neg adj vt vt sfp.
+*INV:	   ­ø ¦n ´¦ ¶} &laa3.
+%mor:	    neg adj vt vt sfp.
+*INV:	   R µf ®I Ê\.
+%mor:	    vt prt prt nnpr.
+*INV:	   0 [=! helps the child put back the lids].
+*INV:	   ¦³ ÉN ¨T¤ô &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó &aa4 ?
+%mor:	    det cl sfp.
+*INV:	   ¦³ ´X ¦h Åø ¨T¤ô &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ¨â Åø.
+%mor:	    q cl.
+*CHI:	   ¨â Åø &aa3.
+%mor:	    q cl sfp.
+*INV:	   úï?
+%mor:	    ex.
+*INV:	   ¨â Åø ©w ¨â ­Ó &aa3 ?
+%mor:	    q cl conj q cl sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   < ¨â Åø ©w ¨â ­Ó ¨T¤ô &aa3 ?> [>]
+%mor:	    q cl conj q cl nn sfp.
+*CHI:	   < ©O ­Ó> [<].
+%mor:	    det cl.
+*INV:	   ©O ­Ó ¤û¥¤ &lo1.
+%mor:	    det cl nn sfp.
+*CHI:	   ¤û¥¤.
+%mor:	    nn.
+*INV:	   Ãä ­Ó ¶¼ î?
+%mor:	    wh cl vt sfp.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+*INV:	   ©O ­Ó «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*INV:	   ©O ­Ó Âæ &aa3.
+%mor:	    det cl nn sfp.
+*INV:	   ¨§³aÂæ.
+%mor:	    nn.
+*CHI:	   ¨§³aÂæ.
+%mor:	    nn.
+*INV:	   ¨§³aÂæ.
+%mor:	    nn.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó # < ªá> [/] ªá¥ÍÂæ.
+%mor:	    det cl nn nn.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó ­ø ª¾ ÉAÏ &laak3.
+%mor:	    det cl neg vt wh sfp.
+*INV:	   ¦n &laa3.
+%mor:	    adj sfp.
+*INV:	   ­ø ¦n ©ğ &laak3.
+%mor:	    neg adj vt sfp.
+*INV:	   ­ø ¦n ©ğ &laa3.
+%mor:	    neg adj vt sfp.
+*INV:	   Ú» §¹ &lok3.
+%mor:	    vt advm sfp.
+*INV:	   Ú» úï ¤W «K &laak3.
+%mor:	    vt prt det cl sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó < «§ ‘Á î > [>]?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   < ÃÄ > [<].
+%mor:	    nn.
+*CHI:	   < ÃÄ> [/].
+%mor:	    nn.
+*CHI:	   < ÃÄ> [/].
+%mor:	    nn.
+*CHI:	   < ÃÄ> [/].
+%mor:	    nn.
+*CHI:	   < ÃÄ > [/] ÃÄ.
+%mor:	    nn nn.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   ­¬ ®I Ê\ &lu3.
+%mor:	    vt prt nnpr sfp.
+*CHI:	   < Ú» ©O ø> [/] Ú» ©O ø.
+%mor:	    vt det cl vt det cl.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   < ­ø ¦n ·d &laak3> [/] ­ø ¦n ·d &laak3.
+%mor:	    neg adj vt sfp neg adj vt sfp.
+*INV:	   ­¬ ®I Ê\ &laak3.
+%mor:	    vt prt nnpr sfp.
+*INV:	   Á¾Á¾.
+%mor:	    nnpp.
+*INV:	   < ­ø ¦n ·d &laak3> [>].
+%mor:	    neg adj vt sfp.
+*CHI:	   < Ú» ©O ø> [<].
+%mor:	    vt det cl.
+*INV:	   ­Ú §Ú &aa4 ?
+%mor:	    vd nnpr sfp.
+*INV:	   ³Âªo &lo1 ©O ø.
+%mor:	    nn sfp det cl.
+*CHI:	   ³Âªo &aa3.
+%mor:	    nn sfp.
+*INV:	   ¦n &laa3.
+%mor:	    adj sfp.
+*INV:	   ­¬ µf ®I Ê\.
+%mor:	    vt prt prt nnpr.
+*CHI:	   ¶ı«}.
+%mor:	    nn.
+*CHI:	   ¶ı.
+%mor:	    nn.
+%com:	 The child goes out.
+*INV:	   Á¾Á¾ ©O ø «§ ‘Á î?
+%mor:	    nnpp det cl wh sfp sfp.
+*CHI:	   Ä«ªG &je3.
+%mor:	    nn sfp.
+*INV:	   Ä«ªG.
+%mor:	    nn.
+*INV:	   ¦³ ´X ¦h ­Ó Ä«ªG &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*CHI:	   ¨â+/.
+%mor:	    q.
+*INV:	   ¤S ¨â ­Ó Ä«ªG?
+%mor:	    advf q cl nn.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/].
+%mor:	    q cl.
+*CHI:	   < ¨â ­Ó> [/] ¨â ­Ó.
+%mor:	    q cl q cl.
+*INV:	   ¦³ ´X ¦h ­Ó Á¾Á¾ &aa3 Ëİ¼Ë?
+%mor:	    vf wh adj cl nnpp sfp advs.
+*CHI:	   &aa1 &aa1.
+%mor:	    ex ex.
+@Situation:	 Side B. The investigator speaks at the recorder and asks the child to repeat after her.
+*INV:	"   ""Johnny""."
+%mor:	    nnpp.
+*CHI:	"   ""Johnny""."
+%mor:	    nnpp.
+*INV:	"   ""Johnny"" ¦n ¦² î."
+%mor:	    nnpp advi adj sfp.
+*CHI:	   < ¦n ¦²> [/].
+%mor:	    advi adj.
+*CHI:	   < ¦n ¦²> [/] ¦n ¦².
+%mor:	    advi adj advi adj.
+*INV:	"   ¦n ¦² î ""Johnny""."
+%mor:	    advi adj sfp nnpp.
+*CHI:	"   ¦n ¦² &o3 ""Johnny""."
+%mor:	    advi adj sfp nnpp.
+*INV:	   Á¾Á¾ ¦n ¦² î.
+%mor:	    nnpp advi adj sfp.
+*CHI:	   ¦n ¦² &aa3.
+%mor:	    advi adj sfp.
+*INV:	   < Á¾Á¾ ¦n ¦² &aa3> [>].
+%mor:	    nnpp advi adj sfp.
+*CHI:	   < Á¾ &waa3 &waa3 &waa3 &waa3>.
+%mor:	    nnpp ex ex ex ex.
+*INV:	   «Y «} &aa3 ?
+%mor:	    vf neg sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*CHI:	   «Y Ø{.
+%mor:	    vf sfp.
+*CHI:	   Á¾Á¾ [=! whispers].
+%mor:	    nnpp.
+*INV:	   ÂI &aa3 ?
+%mor:	    wh sfp.
+*INV:	   Á¾Á¾ «Y «} ¦n ¦² î?
+%mor:	    nnpp vf neg advi adj sfp.
+*CHI:	   xxx [=! whispers].
+*CHI:	   < ¦² Á¾ # «Y> [/] ¦² Á¾ # «Y.
+%mor:	    adj nnpp vf adj nnpp vf.
+*INV:	   Á¾Á¾ ¦n ¦² î.
+%mor:	    nnpp advi adj sfp.
+*CHI:	   «Y Á¾Á¾.
+%mor:	    vf nnpp.
+*INV:	   Á¾Á¾ ¦n Áà©Ç ï.
+%mor:	    nnpp advi adj sfp.
+*CHI:	   «Y Á¾Á¾.
+%mor:	    vf nnpp.
+*CHI:	   Á¾Á¾.
+%mor:	    nnpp.
+%com:	 The child looks into the investigator's bag.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   ©j©j ­Ó ³U ¦³ ø «§Ï &aa3 ?
+%mor:	    nn cl nn vf cl wh sfp.
+*INV:	   ¦¨ ¤é ³£ ·d ¿ù.
+%mor:	    q cl advf vt adj.
+*INV:	   §A À° §Ú Ú» úï ©j©j ­Ó ³U ¦³ ø «§Ï.
+%mor:	    nnpr vt nnpr vt prt nn cl nn vf cl wh.
+*INV:	   §A ¸Ü ­Ú §Ú Å¥ &aa1.
+%mor:	    nnpr vt prep nnpr vt sfp.
+*INV:	   ¦³ ø «§Ï &aa3 ?
+%mor:	    vf cl wh sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¦³ ÉN µ§ &aa3 ?
+%mor:	    vf neg nn sfp.
+*INV:	   §A À° §Ú Ú» úï.
+%mor:	    nnpr vt nnpr vt prt.
+*CHI:	   xxx &aa3.
+%mor:	    sfp.
+*CHI:	   Ú» úï &aa3.
+%mor:	    vt prt sfp.
+*INV:	   ©O ­Ó ¿ı­µ+...
+%mor:	    det cl nn.
+*INV:	"   ©O ­Ó «Y ""walkman""."
+%mor:	    det cl vf nn.
+*CHI:	"   ""Walkman""."
+%mor:	    nn.
+*INV:	   ­ø ¦n ·d.
+%mor:	    neg adj vt.
+*INV:	   §A Ú» úï ¦³ ÉN µ§.
+%mor:	    nnpr vt prt vf neg nn.
+*INV:	   §A ¦P §Ú ü« ªK µ§ ¥X ‘Á &aa1.
+%mor:	    nnpr vt nnpr vt cl nn dir dir sfp.
+%com:	 The child takes out an umbrella.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+*INV:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   ¸¨ «B.
+%mor:	    verg nn.
+*INV:	   ¸¨ «B &aa4 ?
+%mor:	    verg nn sfp.
+*INV:	   ¸¨ «B ¥ı ¥Î ï ¾B &lo1.
+%mor:	    verg nn advf vt gen nn sfp.
+*INV:	   ¤µ¤é ¥Î ­ø ¥Î &aa3 ?
+%mor:	    advs vt neg vt sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¤µ¤é ¥Î ­ø ¥Î ¾B &aa3 ?
+%mor:	    advs vt neg vt nn sfp.
+*CHI:	   xxx &aa3.
+%mor:	    sfp.
+*INV:	   ¦³ ÉN µ§ &aa3 ?
+%mor:	    vf neg nn sfp.
+*INV:	   §A À° §Ú Ú» úï.
+%mor:	    nnpr vt nnpr vt prt.
+*CHI:	   ¯È.
+%mor:	    nn.
+*INV:	   ¯È &lo1.
+%mor:	    nn sfp.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*INV:	   ´Z¯È.
+%mor:	    nn.
+*INV:	   ¥ò ¦³.
+%mor:	    advf vf.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	   ­Ú ±i ¬Û §A Ú» úï ¦n ÉN &aa3 ?
+%mor:	   prep cl nn nnpr vt prt adj neg sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   Ãä ­Ó ‘Á î ©O ­Ó [=! shows the child a picture of herself]?
+%mor:	    wh cl sfp sfp det cl.
+*CHI:	   ª¾.
+%mor:	    vt.
+*INV:	   < Ãä ­Ó ‘Á î> [>]?
+%mor:	    wh cl sfp sfp.
+*CHI:	   < ©j> [>] +/.
+%mor:	    nn.
+*INV:	   ¬Û ùØ«K ­Ó ¤k¥J Ãä ­Ó ‘Á î?
+%mor:	    nn nnloc cl nn wh cl sfp sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   < Ãä ­Ó> [>] +/.
+%mor:	    wh cl.
+*CHI:	   < ©j©j &waa3> [<].
+%mor:	    nn ex.
+*INV:	   è° ­ø è° ¥ı?
+%mor:	    adj neg adj advf.
+*CHI:	   è°.
+%mor:	    adj.
+*CHI:	   ¦n è°.
+%mor:	    advi adj.
+*INV:	   ¨Ä ¥J.
+%mor:	    adj nn.
+*INV:	   «Y &laak3.
+%mor:	    vf sfp.
+*INV:	   ©O ­Ó ¿ı­µ±a.
+%mor:	    det cl nn.
+*INV:	   ¥ò ¦³ ÉAÏ &aa3 ?
+%mor:	    advf vf wh sfp.
+*INV:	   ¦³ ÉN µ§ &aa3 ?
+%mor:	    vf neg nn sfp.
+*INV:	   ©O ­Ó ·R ‘Á °µ «§ î?
+%mor:	    det cl vt dir vt wh sfp.
+*CHI:	   &me1 &aa3.
+%mor:	     xx sfp.
+*INV:	   ·R ‘Á °µ «§ î?
+%mor:	    vt dir vt wh sfp.
+*CHI:	   &me1.
+%mor:	     xx .
+*INV:	   ·R ‘Á ®Ş ÀY &lo1.
+%mor:	    vt dir vt nn sfp.
+*CHI:	   ®Ş ÀY.
+%mor:	    vt nn.
+*INV:	   §A ¾p ­ø ¾p ®Ş &aa3 ?
+%mor:	    nnpr aux neg aux vt sfp.
+*CHI:	   ®Ş.
+%mor:	    vt.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+*INV:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó ²´Ãè.
+%mor:	    det cl nn.
+*INV:	   ¥ò ¦³ ÉAÏ &aa3 ?
+%mor:	    advf vf wh sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó ­»¤ô &lo1.
+%mor:	    det cl nn sfp.
+*INV:	   ¥ò ¦³ «§Ï Ï &aa3 ?
+%mor:	    advf vf wh nn sfp.
+*INV:	   ¦P §A ¼Q ø ­»¤ô ¦n ÉN &aa3 ?
+%mor:	    prep nnpr vt cl nn adj neg sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   §A ¼Q ­ø ¼Q &aa3 ?
+%mor:	    nnpr vt neg vt sfp.
+*CHI:	   ¼Q.
+%mor:	    vt.
+*INV:	   §A »D úï ­» ­ø ­»?
+%mor:	    nnpr vt prt adj neg adj.
+*INV:	   ­» ­ø ­» &aa3 ?
+%mor:	    adj neg adj sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ­» &le3.
+%mor:	    adj ex.
+*INV:	   ©O ­Ó ³U.
+%mor:	    det cl nn.
+*CHI:	   ³U.
+%mor:	    nn.
+*INV:	   ¥ò ¦³ «§Ï?
+%mor:	    advf vf wh.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó «Y «§Ï ‘Á î?
+%mor:	    det cl vf wh sfp sfp.
+*CHI:	   Âê°Í.
+%mor:	    nn.
+*INV:	   Âê°Í.
+%mor:	    nn.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ø ¯È.
+%mor:	    cl nn.
+*CHI:	   ¯È.
+%mor:	    nn.
+*CHI:	   < &miu1 &aa3> [/] < &miu1 &aa3> [>].
+%mor:	    nn sfp nn sfp.
+*INV:	   < ©O> [<] +/.
+%mor:	    det.
+*INV:	   ©O ­Ó Ãè &aa3.
+%mor:	    det cl nn sfp.
+*CHI:	   Ãè.
+%mor:	    nn.
+*CHI:	   < &miu1 &aa3> [/] &miu1 &aa3.
+%mor:	    nn sfp nn sfp.
+%com:	 long pause.
+*INV:	   ¦³ ÉN µ§ &aa3 ?
+%mor:	    vf neg nn sfp.
+*INV:	   §A À° §Ú Ú» úï.
+%mor:	    nnpr vt nnpr vt prt.
+*INV:	   ¨£ ­ø ¨£ ­Ë ¦³ ÉN ¤@ ªK µ§ &aa3 ?
+%mor:	    vt neg vt ctc vf neg q cl nn sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   ªK µ§.
+%mor:	    cl nn.
+*INV:	   úï?
+%mor:	    ex.
+*INV:	   ¤j Án ø.
+*INV:	   Å¥ ­ø ­Ë.
+%mor:	    vt neg ctc.
+*INV:	   «§ ‘Á ï ¥ı ©O ­Ó?
+%mor:	    wh sfp sfp advf det cl.
+*CHI:	   ªK µ§.
+%mor:	    cl nn.
+*INV:	   ªK µ§.
+%mor:	    cl nn.
+%com:	 The child empties the bag.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   ÉN &lu3.
+%mor:	    neg sfp.
+*INV:	   Ëİ ¦P §Ú À½ µf ¤J ¥h &laa1.
+%mor:	    advs prep nnpr vd prt dir dir sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ©O ­Ó «§ ‘Á ï?
+%mor:	    det cl wh sfp sfp.
+*INV:	   µª ¦h §Ú ¤@ ¦¸.
+%mor:	    vt adj nnpr q cl.
+*CHI:	   Â\ ©O «× &aa3.
+%mor:	    vd det cl sfp.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   Â\ ©O «×.
+%mor:	    vd det cl.
+*INV:	   ®@.
+%mor:	    ex.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   ©ñ µf ¤J ¥h &laak3.
+%mor:	    vd prt dir dir sfp.
+%com:	 long pause.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©ñ ö Ãä &aa3 ?
+%mor:	    vd prep wh sfp.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*INV:	   < ©O ­Ó ­ø ©ñ > [/] ©O ­Ó ­ø ©ñ.
+%mor:	    det cl neg vd det cl neg vd.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*CHI:	   &aa3.
+%mor:	    ex.
+*INV:	   ¥ò ¦³.
+%mor:	    advf vf.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ©ñ ¤J ­Ó ³U ùØ«K.
+%mor:	    vd dir cl nn nnloc.
+*INV:	   ¥ò ¦³.
+%mor:	    advf vf.
+*INV:	   &m4.
+%mor:	    ex.
+*CHI:	   < &miu1 &aa3> [/] &miu1 &aa3.
+%mor:	    nn sfp nn sfp.
+*INV:	   ©O ­Ó ­ø ¦n ©î.
+%mor:	    det cl neg adj vt.
+*INV:	   ­ø ¦n ·d.
+%mor:	    neg adj vt.
+*INV:	   ­ø ¦n ·d §â ¾B.
+%mor:	    neg adj vt cl nn.
+*INV:	   À½ µf ¤J ¥h.
+%mor:	    vd prt dir dir.
+*INV:	   ¥ò ¦³ ¦n ¦h Ï Ø{.
+%mor:	    advf vf advi adj nn sfp.
+*CHI:	   xxx.
+*CHI:	   xxx ¾÷¾÷ &o3.
+%mor:	    nn ex.
+*INV:	   ¾÷¾÷ &lo1.
+%mor:	    nn sfp.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   Â\ µf ¤J ¥h.
+%mor:	    vd prt dir dir.
+*INV:	   ­ø ¦n ¶^ Ø{.
+%mor:	    neg adj verg sfp.
+*INV:	   ³Ş.
+%mor:	    ex.
+*INV:	   ­ø ¦n ·d.
+%mor:	    neg adj vt.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   ±o &la3.
+%mor:	    ctc sfp.
+*INV:	   À½ µf ¤J ¥h.
+%mor:	    vd prt dir dir.
+*INV:	   ±o &laak3.
+%mor:	    ctc sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   À½ ®I ¤J ¥h.
+%mor:	    vd prt dir dir.
+*INV:	   À½ ®Í.
+%mor:	    vd prt.
+*INV:	   ÉN &laak3.
+%mor:	    neg sfp.
+*INV:	   ÉN &lu3 Ø{.
+%mor:	    neg sfp sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   < À½ ®I ­Ó ³U ¤J ¥h> [>].
+%mor:	    vd prt cl nn dir dir.
+*CHI:	   < ©O ­Ó> [<].
+%mor:	    det cl.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   «Y.
+%mor:	    vf.
+*INV:	   ¦n &laa3.
+%mor:	    adj sfp.
+*INV:	   ±o &laak3.
+%mor:	    ctc sfp.
+*INV:	   ğ.
+%mor:	    ex.
+*INV:	"   ¤£¦p §Ú’] ª± ø Ï &aa1, ¦n ÉN &aa3 ?"
+%mor:	   advs nnpr vt cl nn sfp adj neg sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   < §A ¸Õ úï Ëİ¼Ë &aa1> [>].
+%mor:	    nnpr vt prt advs sfp.
+*CHI:	   <xxx> [<].
+*INV:	   §A ¸Õ úï ±N ¥» ®Ñ À½ ö Âi ¤U­± &aa1.
+%mor:	    nnpr vt prt prep cl nn vd vf nn nnloc sfp.
+*CHI:	   &m3.
+%mor:	    ex.
+*INV:	   ±o ­ø ±o &aa3 ?
+%mor:	    ctc neg ctc sfp.
+*CHI:	   ±o.
+%mor:	    ctc.
+*INV:	   ±o ­ø ±o &aa3 ?
+%mor:	    ctc neg ctc sfp.
+*INV:	   ­ø ÃÑ &aa4 ?
+%mor:	    neg vt sfp.
+*CHI:	   ÃÑ.
+%mor:	    vt.
+*INV:	   ğ.
+%mor:	    ex.
+*INV:	   §A ¸Õ úï ±N ©O ­Ó ª±¨ã ©ñ ö ©j©j ¤â ¤W«K &aa1.
+%mor:	    nnpr vt prt prep det cl nn vd prep nn nn nnloc sfp.
+%com:	 The investigator hands the child a toy teapot.
+*CHI:	   < ­Ë> [/] ­Ë  [=! pretends to pour].
+%mor:	    vt vt.
+*CHI:	   < ­Ë &aa1> [>] ­Ë &aa1 [=! pretends to pour].
+%mor:	    vt sfp vt sfp.
+*INV:	   §A ©ñ ö ©j©j ¤â ¤W«K ±o ­ø ±o &aa3 ?
+%mor:	    nnpr vd prep nn nn nnloc ctc neg ctc sfp.
+*CHI:	   ¦hÁÂ.
+%mor:	    ex.
+*INV:	   ±o ­ø ±o?
+%mor:	    ctc neg ctc.
+*CHI:	   ±o.
+%mor:	    ctc.
+*INV:	   ©ñ ¸¨ §Ú °¦ ¤â «×.
+%mor:	    vd dir nnpr cl nn cl.
+*INV:	   &m4.
+%mor:	    ex .
+*INV:	   ¦n &laa3.
+%mor:	   adj sfp.
+*INV:	   ¸ò¦í §A ©ñ ¸¨ ¦a¤U &aa1.
+%mor:	    advs nnpr vd dir nnloc sfp.
+*CHI:	   «u–ï.
+%mor:	    ex.
+*CHI:	   «u–ï.
+%mor:	    ex.
+*INV:	   •Ú &laak3.
+%mor:	    adj sfp.
+*INV:	   ¸ò¦í §A+/.
+%mor:	    advs nnpr.
+%com:	 The two sponges of the headphone fall off.
+*CHI:	   ¶^ ÷ &aa3.
+%mor:	    verg asp sfp.
+*CHI:	   ¶^ ÷ &je3.
+%mor:	    verg asp sfp.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   < ¶^ ÷ &laak3> [/].
+%mor:	    verg asp sfp.
+*INV:	   < ¶^ ÷ &laak3> [/] ¶^ ÷ &laak3.
+%mor:	    verg asp sfp verg asp sfp.
+*INV:	   °õ µf Ê\.
+%mor:	    vt prt nnpr.
+*INV:	"   °õ µf Ê\ «} ±o &lo1 ¶^ ÷, «Y «} &aa3 ?"
+%mor:	    vt prt nnpr neg ctc sfp verg asp vf neg sfp.
+*INV:	   °õ µf.
+%mor:	    vt prt.
+*CHI:	   °õ µf.
+%mor:	    vt prt.
+*INV:	   &aa2.
+%mor:	    ex .
+*INV:	   ¥t¥~ õ ²É ³£ ­ø ¨£ ÷ ï?
+%mor:	    advs det cl advf neg vt asp sfp.
+*INV:	   §A §Ö ø ¦P §Ú İ¯ úï ¥ò ¦³ ÉN ¤@ ²É.
+%mor:	    nnpr adj com prep nnpr vt prt advf vf neg q cl.
+%com:	 long pause.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   §A İ¯ ²M·¡ ¥ı &laa1.
+%mor:	    nnpr vt adj advf sfp.
+*INV:	   ­ø ¨£ ÷ Ëİ ÂIºâ &aa3 ?
+%mor:	    neg vt asp advs wh sfp.
+*CHI:	   xxx.
+*INV:	   Ãä ­Ó ªğ ‘Á &aa3 ?
+%mor:	    wh cl dir dir sfp.
+%exp:	 The servant returns and opens the door.
+*CHI:	   0 [=! no response].
+*INV:	   Ãä ­Ó ‘Á î?
+%mor:	    wh cl sfp sfp.
+*CHI:	   ªğ ‘Á Ø{.
+%mor:	    dir dir sfp.
+*SER:	   ­ø ¦n ·d ©j©j ø Ï &aa1.
+%mor:	    neg adj vt nn cl nn sfp.
+*INV:	   «Y &laak3.
+%mor:	    vf sfp .
+*INV:	   ­ø ¦n ·d ©j©j ø Ï &laak3.
+%mor:	   neg adj vt nn cl nn sfp .
+*INV:	   Å¥ ­ø Å¥ ­Ë &aa3 ?
+%mor:	   vt neg vt ctc sfp.
+*CHI:	   Å¥ ­Ë &aa3.
+%mor:	    vt ctc sfp.
+*INV:	   §A Å¥ ­Ë ´N ¦n &laa1.
+%mor:	    nnpr vt ctc advf adj sfp.
+*INV:	   ©O «× # ¥ò ¦³ ¤@ ²É.
+%mor:	    det cl advf vf q cl.
+*INV:	   §Ú ¨£ ­Ë &laak3.
+%mor:	    nnpr vt ctc sfp.
+*INV:	   < ¥ò ¦³ ¤@ ²É> [>].
+%mor:	    advf vf q cl.
+*CHI:	   < Å¥> [<].
+%mor:	    vt.
+*INV:	   ö ©O «×.
+%mor:	    vf det cl.
+*CHI:	   ©O «× &aa3.
+%mor:	    det cl sfp.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ©O «× &aa3.
+%mor:	    det cl sfp.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*CHI:	   Å¥.
+%mor:	    vt.
+*INV:	   ¦³ ¨â ²É &aa3.
+%mor:	    vf q cl sfp.
+*INV:	   §A ¸ò §Ú Á¿ &aa1.
+%mor:	    nnpr vt nnpr vt sfp.
+*INV:	   ¨â ²É.
+%mor:	    q cl.
+*CHI:	   Å¥.
+%mor:	    vt.
+*INV:	   ¨â ²É.
+%mor:	    q cl.
+*CHI:	   ¨â+/.
+%mor:	    q.
+*CHI:	   Å¥.
+%mor:	    vt.
+*INV:	"   Å¥, ¤@ ¤H Å¥ ¤@ ²É ¦n ÉN?"
+%mor:	    vt q cl vt q cl adj neg.
+*INV:	"   ğ, &ei1, §Ú À° §A ¾ã."
+%mor:	    ex ex nnpr vt nnpr vt.
+*INV:	   §A ¤S ¥Ï ÷ &laa3.
+%mor:	    nnpr advf verg asp sfp.
+*INV:	   §Ú À° §A ¾ã úï.
+%mor:	    nnpr vt nnpr vt prt.
+*INV:	   §A ¤S ¾ã ¥Ï ÷.
+%mor:	    nnpr advf vt verg asp.
+*CHI:	   Ú» xxx &aa3.
+%mor:	    vt sfp.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*CHI:	   Ú» xxx.
+%mor:	    vt.
+*INV:	   «§ ¸Ü?
+%mor:	    wh sfp.
+*CHI:	   Ú» xxx.
+%mor:	    vt.
+*INV:	   &m4.
+%mor:	    ex.
+%com:	 long pause.
+*INV:	   «Y «} Å¥ &aa3 ?
+%mor:	    vf neg vt sfp.
+*CHI:	   Å¥.
+%mor:	    vt.
+*INV:	   Å¥.
+%mor:	    vt.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	   §Ú ¤S Å¥ &lu3 Ø{.
+%mor:	   nnpr advf vt sfp sfp.
+*INV:	   §Ú’] ¤@»ô Å¥.
+%mor:	    nnpr advs vt.
+*INV:	   Å¥ úï Ê\ Á¿ ÉAÏ &aa3 úï.
+%mor:	    vt prt nnpr vt wh sfp sfp.
+*CHI:	   Å¥.
+%mor:	    vt.
+*INV:	   «} ¦í úï.
+%mor:	    neg asp sfp.
+*INV:	   ÉN ¹q.
+%mor:	    neg nn.
+*CHI:	   ÉN ¹q.
+%mor:	    neg nn.
+*INV:	   µ¥ ¤@ °} ¥ı úï.
+%mor:	    vt q cl advf sfp.
+*CHI:	   Å¥.
+%mor:	    vt.
+*INV:	   ¥¼ ±o.
+%mor:	    neg ctc.
+*CHI:	   İ©.
+%mor:	    vt.
+*CHI:	   İ©.
+%mor:	    vt.
+*INV:	   ±o &laak3.
+%mor:	    ctc sfp.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	   ¤µ ¦¸ ±o &laak3.
+%mor:	   det cl ctc sfp.
+%com:	 The investigator and the child listen to the walkman.
+*CHI:	   Å¥ ºq.
+%mor:	    vt nn.
+*CHI:	   Å¥ ºq &aa3.
+%mor:	    vt nn sfp.
+*INV:	   úï?
+%mor:	    ex .
+*INV:	   < Å¥ ºq &aa4> [>]?
+%mor:	   vt nn sfp.
+*CHI:	   < Å¥ ºq> [<].
+%mor:	    vt nn.
+*CHI:	   Å¥ ºq &aa3.
+%mor:	    vt nn sfp.
+*INV:	   «Y &laak3.
+%mor:	    vf sfp.
+*INV:	"   §Ú’] Å¥ ºò ""walkman""."
+%mor:	    nnpr vt asp nn.
+*INV:	   Å¥ ºq &lo1.
+%mor:	    vt nn sfp.
+*INV:	   ¦ı«Y # ÉN ¹q.
+%mor:	    advs neg nn.
+*INV:	   &aa1.
+%mor:	    ex .
+*INV:	   ±o &laak3.
+%mor:	   ctc sfp.
+*INV:	   &aa1.
+%mor:	    ex .
+*INV:	   ¤S ­ø ±o.
+%mor:	   advf neg ctc.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	   §Ú’] ‘Á ¦h ¦¸ úï.
+%mor:	   nnpr dir adj cl sfp.
+%com:	 The investigator and the child listen to the recording done a moment ago.
+*INV:	   Å¥ ­ø Å¥ ­Ë &aa3 ?
+*CHI:	   Å¥ ­Ë &aa3.
+%mor:	    vt ctc sfp.
+*INV:	   Ãä ­Ó Á¿ Ï &aa3 ?
+%mor:	    wh cl vt nn sfp.
+*CHI:	   Á¿ Ï.
+%mor:	    vt nn.
+*INV:	   ¦n ÉN Å¥ &aa3 ?
+%mor:	    adj neg vt sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ¦n ÉN Å¥ ®A?
+%mor:	    adj neg vt sfp.
+*CHI:	   ¦nÅ¥.
+%mor:	    adj.
+*INV:	   < ©O ­Ó> [>] +/.
+%mor:	    det cl.
+*CHI:	   < ¦³ ºq> [<].
+%mor:	    vf nn.
+*INV:	   ¦³ ºq &aa3.
+%mor:	    vf nn sfp.
+*INV:	   ­ø «Y &aa3.
+%mor:	    neg vf sfp.
+*INV:	   Á¾Á¾ Á¿ ºò Ï &aa1 ¹À.
+%mor:	    nnpp vt asp nn sfp sfp.
+*INV:	   Á¾Á¾ ¦P ©j©j ¶É ºò ­p &aa1 &maa3.
+%mor:	    nnpp prep nn vt asp nn sfp sfp.
+*CHI:	   ¶É ­p.
+%mor:	    vt nn.
+%com:	 The child laughs and drops the earphone.
+*CHI:	   ©j©j.
+%mor:	    nn.
+*INV:	   «u–ï.
+%mor:	    ex .
+*INV:	   ¶^ ÷ &laa3 §A Ãä.
+%mor:	   verg asp sfp nnpr wh.
+*INV:	   ¥ò Å¥ ­ø Å¥?
+%mor:	    advf vt neg vt.
+*CHI:	   0 [=! no response].
+*INV:	   «u–ï.
+%mor:	    ex .
+*INV:	    ¤S ­ø ±o.
+%mor:	    advf neg ctc.
+*INV:	   ÉN - ?
+%mor:	    neg.
+*INV:	   ÉN ÷ &laak3.
+%mor:	    neg asp sfp.
+%com:	 The tape went off.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   ¥ò Å¥ ­ø Å¥ &aa3 ?
+%mor:	    advf vt neg vt sfp.
+*CHI:	   Å¥.
+%mor:	    vt.
+*INV:	   ¥ò Å¥ &aa4 ?
+%mor:	    advf vt sfp.
+%com:	 long pause.
+*INV:	   ¦³ ÉN &aa3 ¦Ó®a?
+%mor:	    vf neg sfp advs.
+%com:	 The child drops the earphone again.
+*CHI:	   &mik1.
+%mor:	    ex.
+*INV:	   §A ³£ Å¥ ­ø ­Ë.
+%mor:	    nnpr advf vt neg vt.
+*INV:	   §Ú À° §A.
+%mor:	    nnpr vt nnpr.
+*INV:	   §Ú’] Ä~Äò.
+%mor:	    nnpr vt.
+*INV:	   ÉN ¹q &aa3.
+%mor:	    neg nn sfp.
+*INV:	   ‘Á ¹L.
+%mor:	    dir asp.
+*CHI:	   ÉN ¹q.
+%mor:	    neg nn.
+*INV:	   < ±o &lak3> [/] ±o &laak3.
+%mor:	    ctc sfp ctc sfp.
+*CHI:	   ±o &laak3.
+%mor:	    ctc sfp.
+%com:	 The investigator and the child are listening to the recording.
+*CHI:	   ¦n ¦h ¨® &aa3.
+%mor:	    advi adj nn sfp.
+%exp:	 The child repeats after the tape.
+*INV:	   ¦n ¦h ¨® &aa3.
+%mor:	    advi adj nn sfp.
+%com:	 long pause.
+*INV:	   Ãä ­Ó Á¿ Ï &aa3 ?
+%mor:	    wh cl vt nn sfp.
+*CHI:	   Á¿ Ï.
+%mor:	    vt nn.
+*INV:	   Ãä ­Ó Á¿ Ï &aa1 ?
+%mor:	    wh cl vt nn sfp.
+*CHI:	   < Á¿ Ï> [/] Á¿ Ï.
+%mor:	    vt nn vt nn.
+*CHI:	   ©O ¥» &e3.
+%mor:	    det cl ex.
+*INV:	   ©O ¥» &e3.
+%mor:	    det cl ex.
+*CHI:	   «Y.
+%mor:	    vf.
+%com:	 The child laughs.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*INV:	   &m4.
+%mor:	    ex.
+*CHI:	   ·d+/.
+%mor:	    vt.
+*INV:	   Ú» §¹ &lu3.
+%mor:	    vt advm sfp .
+*INV:	   Å¥ §¹ &lu3.
+%mor:	   vt advm sfp.
+*INV:	   ­ø ¦n Å¥ &lok4.
+%mor:	    neg adj vt sfp.
+*CHI:	   ­ø ¦n.
+%mor:	    neg adj.
+*INV:	"   ­ø ¦n Å¥ &lo3, ¦n ÉN &aa3 ?"
+%mor:	    neg adj vt sfp adj neg sfp.
+*INV:	   º¶ ÷ Ê\ &laa3.
+%mor:	    vt asp nnpr sfp.
+*INV:	   §A ­ø ¦n ©ñ ¸¨ ­Ó »ó «× ¦Ü ±o î.
+%mor:	    nnpr neg adj vd dir cl nn cl advf ctc sfp.
+*CHI:	   Å¥ §¹.
+%mor:	    vt advm.
+*INV:	   Å¥ §¹ &lu3.
+%mor:	    vt advm sfp.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*CHI:	   Å¥ §¹.
+%mor:	    vt advm.
+*INV:	   Å¥ §¹.
+%mor:	    vt advm.
+*CHI:	   À½ ¾÷.
+%mor:	    vd nn.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   ©ñ µf ¤J ¥h &lu3 &wo3.
+%mor:	    vd prt dir dir sfp sfp.
+*INV:	   ³Ş.
+%mor:	    ex .
+*INV:	   ­ø ¦n ¦A &caau3 &laak3.
+%mor:	    neg adj advf vt sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¤@ °} ¶¡ ¥Î ©O ­Ó.
+%mor:	    q cl nn vt det cl.
+*INV:	   ¦n ÉN?
+%mor:	    adj neg.
+*INV:	   ¤@ °} ¶¡.
+%mor:	    q cl nn.
+*CHI:	   < Å¥> [/] Å¥.
+%mor:	    vt vt.
+*INV:	   ©O ­Ó ÉN ±o Å¥ î ©O ­Ó.
+%mor:	    det cl neg ctc vt sfp det cl.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	   §Ú’] ¤£°± Ëİ Á¿ Ï Ê\ ¤@ °} «} ¥i¥H Å¥ µf &lo1.
+%mor:	   nnpr advs advs vt nn nnpr q cl neg aux vt prt sfp.
+*INV:	   ­ø ¦n ¼Ã &laak3.
+%mor:	    neg adj vt sfp.
+*INV:	   ­ø ­ã ¼Ã.
+%mor:	    neg vt vt.
+*CHI:	   < ¥¼> [/] ¥¼ °µ.
+%mor:	    neg neg vt.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ¥¼ °÷ &aa3.
+%mor:	    neg adj sfp.
+*INV:	   ¥¼ ¿ı §¹.
+%mor:	    neg vt advm.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ¥ò ¿ı ºò.
+%mor:	    advf vt asp .
+*INV:	   &laa4.
+%mor:	   sfp.
+*CHI:	   &laa4.
+%mor:	    ex.
+*INV:	   §A ¹ï ¦í Ê\ Á¿ Ï ¥ı &aa1.
+%mor:	    nnpr vt asp nnpr vt nn advf sfp.
+*INV:	   §A «Y Ãä ­Ó &aa1 ?
+%mor:	    nnpr vf wh cl sfp.
+*CHI:	   §Ú ©O ­Ó.
+%mor:	    nnpr det cl.
+*CHI:	   < ©O ­Ó> [>].
+%mor:	    det cl.
+*INV:	   < ©O ­Ó> [<].
+%mor:	    det cl .
+*INV:	   ©O ­Ó.
+%mor:	   det cl.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   «Y &lo1.
+%mor:	    vf sfp.
+*INV:	   Âà &lo1 ö «×.
+%mor:	    vi sfp prep cl.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   Âà.
+%mor:	    vi.
+*INV:	   < Âà> [/] Âà.
+%mor:	    vi vi.
+*INV:	   ¦ı §A ­ø ­ã ¼Ã Ø{.
+%mor:	    advs nnpr neg vt vt sfp.
+*INV:	   ¦¬ µf Ê\.
+%mor:	    vt prt nnpr.
+*INV:	   ·d Õi.
+%mor:	    vt adj.
+*CHI:	   ü¶ ¦í Ø{ &jaa3.
+%mor:	    vt asp sfp sfp.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*INV:	   ÉAÏ &aa3 ?
+%mor:	    wh sfp.
+*CHI:	   ü¶ ¦í &waa3.
+%mor:	    vt asp ex.
+*CHI:	   < ü¶ ¦í &waa3> [>].
+%mor:	    vt asp ex.
+*INV:	   < ü¶ ¦í> [<].
+%mor:	    vt asp.
+*CHI:	   ü¶ ¦í.
+%mor:	    vt asp.
+*INV:	   ­ø ¦n ·d &laak3 ©O ­Ó.
+%mor:	    neg adj vt sfp det cl.
+*INV:	   Á¾Á¾.
+%mor:	    nnpp.
+*CHI:	   < ü¶ ¦í> [/] ü¶ ¦í.
+%mor:	    vt asp vt asp.
+*CHI:	   ü¶ ¦í Ø{ &jek1 &jek1.
+%mor:	    vt asp sfp ex ex.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	"   ­Ú ±i ¬Û §A Ú» &aa1 Á¾Á¾, ¦n ÉN &aa3 ?"
+%mor:	   prep cl nn nnpr vt sfp nnpp adj neg sfp.
+*INV:	   ­Ú §A Ú» úï.
+%mor:	    prep nnpr vt prt.
+*INV:	   ©O «× ¤S ¦³ ­Ó ¤p ªB¤Í Ø{.
+%mor:	    det cl advf vf cl adj nn sfp.
+%com:	 The investigator shows the child a photo.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   «Y «} Á¾Á¾ ‘Á î?
+%mor:	    vf neg nnpp sfp sfp.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+*INV:	   ±o ­ø ±o·N &aa3 ?
+%mor:	    adj neg adj sfp.
+*CHI:	   ¦n ±o·N Ø{ &we3.
+%mor:	    advi adj sfp sfp.
+*CHI:	   ©O ­Ó &je3.
+%mor:	    det cl sfp.
+*CHI:	   < &je3> [>].
+%mor:	    ex.
+*INV:	   < ©O ­Ó> [<] ¦n ±o·N &aa4.
+%mor:	    det cl advi adj sfp.
+*INV:	   ©O ­Ó ©O.
+%mor:	    det cl sfp.
+*INV:	   ©O ­Ó ¦n ±o+/.
+%mor:	    det cl advi adj.
+*CHI:	   ±o·N.
+%mor:	    adj.
+*INV:	   ©O ­Ó ±o ­ø ±o·N &aa3 ?
+%mor:	    det cl adj neg adj sfp.
+*CHI:	   ¦n ±o·N ©O ­Ó &aa3.
+%mor:	    advi adj det cl sfp.
+*INV:	   ©O ­Ó ¦n ±o·N &aa4 ?
+%mor:	    det cl advi adj sfp.
+*INV:	   Á¾Á¾ ­ø ±o·N &aa3 Ëİ¼Ë?
+%mor:	    nnpp neg adj sfp advs.
+*CHI:	   ±o·N.
+%mor:	    adj.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   ±o·N.
+%mor:	    adj.
+*CHI:	   ©O ­Ó &aa3.
+%mor:	    det cl sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+%com:	 long pause.
+*CHI:	   ü¶ ¦í.
+%mor:	    vt asp.
+*INV:	   ¦n °Õ.
+%mor:	    adj sfp.
+*INV:	   §A ü¶ ¦í &laa1.
+%mor:	    nnpr vt asp sfp.
+*CHI:	   xxx.
+*CHI:	   xxx ¦í ÷ &aa3.
+%mor:	    asp asp sfp.
+*CHI:	   xxx &ze2.
+%mor:	     xx .
+*CHI:	   ³Ş &aa3.
+%mor:	    ex sfp.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*INV:	   §A ·Q ¶} ÷ Ê\ &aa4 ?
+%mor:	    nnpr vt vt asp nnpr sfp.
+*INV:	   ­ø ±o î.
+%mor:	    neg ctc sfp.
+*INV:	   §A ­n İ© ÷ ø ¯È ¥ı ±o î ¹À.
+%mor:	    nnpr vt vt asp cl nn advf ctc sfp sfp.
+*INV:	   §A İ© ÷ Ê\ &aa1.
+%mor:	    nnpr vt asp nnpr sfp.
+*INV:	   §Ú ­Ú §A İ© &aa1.
+%mor:	    nnpr prep nnpr vt sfp.
+%com:	 long pause.
+*INV:	   ¶ı«} ©O?
+%mor:	    nn sfp.
+*INV:	   ¥h ÷ Ãä &aa3 ?
+%mor:	    dir asp wh sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ¶ı«} ªğ ÷ ¤u ¥¼ &aa3 ?
+%mor:	    nn dir asp nn neg sfp.
+*CHI:	   ªğ ¤u &aa3.
+%mor:	    dir nn sfp.
+*INV:	   ª¨ª¨ ©O Ëİ¼Ë?
+%mor:	    nn sfp advs.
+*CHI:	   ªğ ¤u &e3.
+%mor:	    dir nn ex.
+*INV:	   ®a©j ©O?
+%mor:	    nn sfp.
+*CHI:	   ªğ ¾Ç.
+%mor:	    dir nn.
+*INV:	   ®a©j °µ ®Í ¥\½Ò ¥¼ &aa3 ?
+%mor:	    nn vt prt nn neg sfp.
+*CHI:	   0 [=! no response].
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   ¶^ ®Í ¥X ‘Á &laak3.
+%mor:	    vt prt dir dir sfp.
+*INV:	   ¥ò ¦³ ¶^ ÷ ¤@ ±i ¯È.
+%mor:	    advf vf vt asp q cl nn.
+*CHI:	   ¯È.
+%mor:	    nn.
+*INV:	   °õ µf ±i ¯È ¥ı.
+%mor:	    vt prt cl nn advf.
+*INV:	   ±i ¯È &aa3.
+%mor:	    cl nn sfp.
+*INV:	   ¦a¤U õ ±i.
+%mor:	    nnloc det cl.
+*INV:	   §A °¦ ¸} &jaai2 ¦í.
+%mor:	    nnpr cl nn vt asp.
+*INV:	   §A °õ µf ­Ú §Ú &aa1.
+%mor:	    nnpr vt prt prep nnpr sfp.
+*INV:	   ¶^ ÷ &aa3.
+%mor:	    vt asp sfp.
+*INV:	   §A ±² ¨ì &caau4 ®Í ï.
+%mor:	    nnpr vt ctc adj prt sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   §A ·Q ÂI &aa3 ?
+%mor:	    nnpr vt wh sfp.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   ­¬ ®I Ê\ &laak3.
+%mor:	    vt prt nnpr sfp.
+*INV:	   Ãä ­Ó< ü¶ ¦í> [>] &aa3 ?
+%mor:	    wh cl vt asp sfp.
+*CHI:	   < Á¾> [<] +/.
+%mor:	    nnpp.
+*INV:	   ÂI &aa3 ?
+%mor:	    wh sfp.
+*CHI:	   ¦n.
+%mor:	    adj.
+*INV:	   ğ.
+%mor:	    ex.
+*INV:	   &ji3 &aa3.
+%mor:	    ex sfp .
+*INV:	"   §A ¦P §Ú ü¶ ¦í &laak3, ¦n ÉN &aa3 ?"
+%mor:	   nnpr prep nnpr vt asp sfp adj neg sfp.
+*INV:	   ¦n ÉN?
+%mor:	    adj neg.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*CHI:	   ©O ­Ó &aa3.
+%mor:	    det cl sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+%com:	 The child tries to press a button on the recorder.
+*INV:	   < ­ø> [/] ­ø «Y.
+%mor:	    neg neg vf.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   ­ø ¼Ã ±o &zi6.
+%mor:	    neg vt ctc advs.
+*INV:	   ¥¼ ¿ı §¹ &aa3.
+%mor:	    neg vt advm sfp.
+*INV:	   Ú» úï - ?
+%mor:	    vt prt.
+*INV:	   ¥ò ¦³ Ëİ ¦h ³£ ¥¼ ¿ı §¹.
+%mor:	    advf vf advi adj advf neg vt advm.
+*CHI:	   ¥¼ ¿ı §¹.
+%mor:	    neg vt advm.
+*INV:	   ¦³ ±Æ ³£ ¥¼ ±o &aa3.
+%mor:	    vf cl advf neg ctc sfp.
+*INV:	   §A ©ñ §C ¥ı &laa1.
+%mor:	    nnpr vd dir advf sfp.
+*CHI:	   ©ñ §C &laak3 xxx.
+%mor:	    vd dir sfp.
+*INV:	   ¦n ÉN?
+%mor:	    adj neg.
+*INV:	   ©ñ §C &laa1.
+%mor:	    vd dir sfp.
+*CHI:	   ©ñ §C ©O «×.
+%mor:	    vd dir det cl.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   ©ñ ö ùØ«K &laa1.
+%mor:	    vd prep nnloc sfp.
+*INV:	   «Y &laak3.
+%mor:	    vf sfp.
+*INV:	   ¥{ &laak3.
+%mor:	    adj sfp.
+*INV:	   < ­ø «Y> [/] ­ø «Y.
+%mor:	    neg vf neg vf.
+*INV:	   < À½ ©O «×> [/] À½ ©O «×.
+%mor:	    vd det cl vd det cl.
+*INV:	   < Ëİ¼Ë À½> [/] Ëİ¼Ë À½.
+%mor:	    advs vd advs vd.
+*INV:	   À½ ©O «×.
+%mor:	    vd det cl.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*INV:	   À½ ¤J ¥h &aa1.
+%mor:	    vd dir dir sfp.
+*INV:	   ¸ò¦í R ®I Ê\.
+%mor:	    advs vt prt nnpr.
+*INV:	   ¸ò¦í ©j©j Â\ ®I ±i ¯È ¤J ¥h.
+%mor:	    advs nn vd prt cl nn dir dir.
+*INV:	   ·d Õi.
+%mor:	    vt adj.
+*CHI:	   ¦n µh.
+%mor:	    advi adj.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   §¨ ¿Ë °¦ ¤â¥J &aa4 ?
+%mor:	    vt prt cl nn sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   µh ­ø µh &aa3 ?
+%mor:	    adj neg adj sfp.
+*CHI:	   ÉN Ï.
+%mor:	    neg nn.
+*INV:	"   ­ø ­ã ¦A ·d &laa3, ¦n ÉN?"
+%mor:	    neg vt advf vt sfp adj neg.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	"   §Ú À½ µf ¤J ­Ó ³U ùØ«K ¥ı, ¦n ÉN?"
+%mor:	   nnpr vd prt dir cl nn nnloc advf adj neg.
+*CHI:	   xxx [=! whispers at the recorder].
+*INV:	   ­ø ­ã ¼Ã.
+%mor:	    neg vt vt.
+*CHI:	   ¼Ã.
+%mor:	    vt.
+*INV:	   ­ø ­ã ¼Ã.
+%mor:	    neg vt vt.
+*CHI:	   ·d.
+%mor:	    vt.
+*CHI:	   ¼Ã.
+%mor:	    vt.
+*CHI:	   ·d.
+%mor:	    vt.
+*CHI:	   ¼Ã.
+%mor:	    vt.
+*INV:	   ¼Ã &aa4 ?
+%mor:	    vt sfp.
+*INV:	   §A ¼Ã §Ú &aa4 ?
+%mor:	    nnpr vt nnpr sfp.
+*INV:	   §Ú ¥´ §A.
+%mor:	    nnpr vt nnpr.
+*CHI:	   ¥´.
+%mor:	    vt.
+*INV:	   ¥´.
+%mor:	    vt.
+*CHI:	   ¥´.
+%mor:	    vt.
+*CHI:	   &di3.
+%mor:	    ex.
+*CHI:	   ¥´.
+%mor:	    vt.
+*INV:	   §Ú ¥´ Á¾Á¾.
+%mor:	    nnpr vt nnpp.
+*INV:	   ¥´ ¦º Á¾Á¾.
+%mor:	    vt verg nnpp.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*CHI:	   ¥´ Á¾Á¾.
+%mor:	    vt nnpp.
+*CHI:	   ©j©j.
+%mor:	    nn.
+*INV:	   Ãä ­Ó ¥´ Á¾Á¾ &aa3 ?
+%mor:	    wh cl vt nnpp sfp.
+*CHI:	   ¥´ ÷.
+%mor:	    vt asp.
+*CHI:	   ¥´ ÷ Á¾Á¾.
+%mor:	    vt asp nnpp.
+*INV:	   ¥´ ÷ Á¾Á¾ &aa4 ?
+%mor:	    vt asp nnpp sfp.
+*INV:	   §A ¹L ‘Á §Ú ¦A ¥´ §A ¤@ úï.
+%mor:	    nnpr dir dir nnpr advf vt nnpr q cl.
+*INV:	   ³Ş.
+%mor:	    ex .
+*INV:	   ­ø «Y §A ¥´ §Ú.
+%mor:	   neg vf nnpr vt nnpr.
+*INV:	   §Ú ¥´ §A ¤@ úï.
+%mor:	    nnpr vt nnpr q cl.
+*CHI:	   &ji3.
+%mor:	    ex.
+*CHI:	   ¥´.
+%mor:	    vt.
+*INV:	   §A ¤S ¥´ §Ú &aa4 ?
+%mor:	    nnpr advf vt nnpr sfp.
+*INV:	   §Ú ¤S ¥´ §A.
+%mor:	    nnpr advf vt nnpr.
+*INV:	   §A ¹L ‘Á &laak3.
+%mor:	    nnpr dir dir sfp .
+*INV:	   &ei3.
+%mor:	   ex.
+*CHI:	   &ei3.
+%mor:	    ex.
+*INV:	   §Ú ®» ¦í §A °¦ ¤â¥J &laak3.
+%mor:	    nnpr vt asp nnpr cl nn sfp.
+*INV:	   &ji3 &aa3.
+%mor:	    ex sfp .
+*INV:	   ÉN ±o ¥´ &lu3.
+%mor:	   neg ctc vt sfp.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*CHI:	   &hei1.
+%mor:	    ex.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   ¦n µh &aa3.
+%mor:	    advi adj sfp.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   ¦º ÷ &laak3 ©j©j.
+%mor:	    verg asp sfp nn.
+*INV:	   ¦º ÷ &laak3 ©j©j.
+%mor:	    verg asp sfp nn.
+*INV:	   ¦º ÷.
+%mor:	    verg asp.
+%com:	 long pause.
+*INV:	   §A &dam2 ©U§£ ¸¨ §Ú ­Ó ¨­ «× &aa4 ?
+%mor:	    nnpr vt nn dir nnpr cl nn cl sfp.
+*INV:	   §A ¦³ ÉN ·d ¿ù &aa3 ?
+%mor:	    nnpr vf neg vt adj sfp.
+*INV:	   §A À° §Ú &dam2 ÷ Ê\ ¸¨ ©U§£±í ¥ı.
+%mor:	    nnpr vt nnpr vt asp nnpr dir nn advf.
+*INV:	   §Ö ø.
+%mor:	    adj com.
+*INV:	"   &ei3, &dam2 ¥h ©U§£±í."
+%mor:	    ex vt dir nn.
+*INV:	   &dam2 ¥h ©U§£±í ¤J ¼p©Ğ.
+%mor:	    vt dir nn dir nnloc.
+*INV:	   ¦æ &laa1.
+%mor:	    vi sfp.
+*INV:	   ¥h ©U§£±í.
+%mor:	    dir nn.
+*INV:	   < §Ö ø> [/] §Ö ø.
+%mor:	    adj com adj com.
+%com:	 The child goes to the kitchen and then returns.
+*INV:	   &dam2 ÷ ¥¼ &aa3 ?
+%mor:	    vt asp neg sfp.
+*CHI:	   &dam2 ÷ &laak3.
+%mor:	    vt asp sfp.
+*INV:	   úï?
+%mor:	    ex.
+*INV:	   &dam2 ÷ ¥¼?
+%mor:	    vt asp neg.
+*CHI:	   &dam2 ÷ &laa3.
+%mor:	    vt asp sfp.
+*INV:	   &dam2 ®I ©O ¨â ­Ó.
+%mor:	    vt prt det q cl.
+*INV:	   §Ö ø.
+%mor:	    adj com.
+*CHI:	   §Ö ø.
+%mor:	    adj com.
+%com:	 The child goes to the kitchen and then returns again.
+*CHI:	   &dam2 §¹.
+%mor:	    vt advm.
+*INV:	   &dam2 ÷ ¥¼ &aa3 ?
+%mor:	    vt asp neg sfp.
+*INV:	   < &dam2 §¹ &laa4> [>]?
+%mor:	    vt advm sfp.
+*CHI:	   < &dam2 ÷> [<].
+%mor:	    vt asp.
+*CHI:	   &dam2 ÷.
+%mor:	    vt asp.
+*INV:	   &dam2 ÷.
+%mor:	    vt asp.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   ÉN &lu3.
+%mor:	    neg sfp.
+*INV:	   §A ¨R ÷ ²D ¥¼ &aa3 §A ¤µ¤é?
+%mor:	    nnpr vi asp nn neg sfp nnpr advs.
+*CHI:	   ¨R ÷ ²D.
+%mor:	    vi asp nn.
+*INV:	   §A ¨R ÷ ²D &laa3 «§ §A ¤µ¤é?
+%mor:	    nnpr vi asp nn sfp sfp nnpr advs.
+*CHI:	   ¨R ÷ ¦­À\.
+%mor:	    vi asp nn.
+*INV:	   §A ¥´ ÷ §Ú ¤@ úï &aa4 ?
+%mor:	    nnpr vt asp nnpr q cl sfp.
+*INV:	   §Ú ¤S ¥´ µf §A ¤@ úï Ø{ ­n.
+%mor:	    nnpr advf vt prt nnpr q cl sfp vt.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*CHI:	   ­Ë [=! pretends to pour form the toy teapot].
+%mor:	    vt.
+*INV:	   < ­Ë > [/].
+%mor:	    vt .
+*INV:	   <­Ë> [/].
+%mor:	   vt .
+*INV:	   <­Ë> [/].
+%mor:	   vt .
+*INV:	   <­Ë.> [/]
+%mor:	   vt .
+*INV:	   ­Ë.
+%mor:	   vt.
+*INV:	   §A ­Ë ¯ù ­Ú §Ú ¶¼ &aa3.
+%mor:	    nnpr vt nn prep nnpr vt sfp.
+*INV:	   Ëİ ¨Ä &aa4 ?
+%mor:	    advi adj sfp.
+*INV:	   §A ©ğ ªM ¯ù ­Ú §Ú &aa1.
+%mor:	    nnpr vt cl nn prep nnpr sfp.
+*CHI:	   < ­Ë> [=! pours] - ?
+%mor:	    vt.
+*CHI:	   < ­Ë> [=! pours] - ?
+%mor:	    vt.
+*INV:	   ­Ë §¹ &laak3.
+%mor:	    vt advm sfp.
+*INV:	   ­Ë §¹.
+%mor:	    vt advm.
+*INV:	   §A ¹L ‘Á.
+%mor:	    nnpr dir dir.
+*INV:	   §A ¸Ü ­Ú §Ú Å¥ ¤µ¤é ¨R ÷ ¥Õ¥Õ ¥¼ &aa3 ?
+%mor:	    nnpr vt prep nnpr vt advs vi asp nn neg sfp.
+*INV:	   ¬~ ÷ ¥Õ¥Õ ¥¼ &aa3 ?
+%mor:	    vt asp nn neg sfp.
+*CHI:	   0 [=! no response].
+*INV:	   &m2 - ?
+%mor:	    ex.
+*INV:	   ¦³ ÉN ¥h ´Z©Ò ¨R ²D &aa3 §A?
+%mor:	    vf neg dir nnloc vi nn sfp nnpr.
+*CHI:	   xxx.
+*INV:	   °µ «§ ­ø µª §Ú &aa3 ?
+%mor:	    vt wh neg vt nnpr sfp.
+*CHI:	   ¨R ²D.
+%mor:	    vi nn.
+*CHI:	   ¶ı«}.
+%mor:	    nn.
+*INV:	   ¶ı«}.
+%mor:	    nn.
+*CHI:	   ¶ı«}.
+%mor:	    nn.
+*INV:	   Á¾Á¾ ¥¿ Ãa³J.
+%mor:	    nnpp advf nn.
+*CHI:	   Á¾+/.
+%mor:	    nnpp.
+*INV:	   ³J.
+%mor:	    nn.
+*CHI:	   ³J.
+%mor:	    nn.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*CHI:	   < Â\ ©O «×> [/] Â\ ©O «×.
+%mor:	    vd det cl vd det cl.
+%exp:	 The child wants the investigator to put down the recorder that she is holding.
+*INV:	   Â\ ©O «×.
+%mor:	    vd det cl.
+*CHI:	   Â\.
+%mor:	    vd.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   &dam2 ¿Ë ©j©j ­Ó »ó­ô &laa3.
+%mor:	    vt prt nn cl nn sfp.
+*INV:	   ¦n µh &aa3.
+%mor:	    advi adj sfp.
+*INV:	   °µ «§ &aa3 ?
+%mor:	    vt wh sfp .
+*INV:	   ¤S ¥´ ©j©j &aa4 ?
+%mor:	   advf vt nn sfp .
+*INV:	   «Y «} &aa3 ?
+%mor:	   vf neg sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ÂI ¥i¥H Ëİ î?
+%mor:	    wh aux advs sfp.
+*INV:	   ¦³ ÉN ¸¨ µó ª± &aa3 Á¾Á¾?
+%mor:	    vf neg dir nnloc vt sfp nnpp.
+*CHI:	   xxx.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   °µ ÉAÏ &aa3 ?
+%mor:	    vt wh sfp.
+*INV:	   §A ¸õ ‘Á ¸õ ¥h °µ ÉAÏ &aa3 ?
+%mor:	    nnpr vi dir vi dir vt wh sfp.
+*CHI:	   < ¿S> [/] ¿S.
+%mor:	    vt vt.
+*INV:	   ¿S «§ &aa3 ?
+%mor:	    vt wh sfp.
+*INV:	   ¿S ­m &lo1.
+%mor:	    vt nn sfp.
+*CHI:	   ¿S ­m &aa3.
+%mor:	    vt nn sfp.
+*INV:	   §A ¦³ ÉN ¿S ­m &aa3 ?
+%mor:	    nnpr vf neg vt nn sfp.
+*CHI:	   0 [=! no response].
+*INV:	   < ¨ì §Ú &laak3> [/] ¨ì §Ú &laak3.
+%mor:	    vt nnpr sfp vt nnpr sfp.
+%com:	 The child hits the investigator.
+*INV:	   < ­ø ¥´ &laa3> [/] ­ø ¥´ &laa3.
+%mor:	    neg vt sfp neg vt sfp.
+*INV:	   ­ø ª± &laa3.
+%mor:	    neg vt sfp.
+*CHI:	   ª± &bi1.
+%mor:	    vt ex.
+*INV:	   < ­ø ª± &laa3> [/] ­ø ª± &laa3.
+%mor:	    neg vt sfp neg vt sfp.
+*CHI:	   xxx.
+*INV:	   ­ø ¦n ¼Ã.
+%mor:	    neg adj vt.
+*INV:	   &aa3.
+%mor:	    sfp .
+*INV:	   ¦n &laa3.
+%mor:	    adj sfp.
+*INV:	   §Ú’] ­ø ¥´ &laa3.
+%mor:	    nnpr neg vt sfp.
+*INV:	   §Ú’] ´¤´¤ ¤â °µ ­Ó ¦n ªB¤Í ¦n ÉN?
+%mor:	    nnpr vt nn vt cl adj nn adj neg.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦n ÉN &aa3 ?
+%mor:	    adj neg sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   < ¦nÏ &aa4> [>]?
+%mor:	    ex sfp.
+*CHI:	   < &waa3> [<].
+%mor:	    ex.
+*INV:	   ğ.
+%mor:	    ex .
+*INV:	   ´¤´¤ ¤â °µ ­Ó ¦n ªB¤Í.
+%mor:	   vt nn vt cl adj nn.
+*INV:	   §A Ëİ ¦² ©j©j ­ø ¦P §A ª± î &laa3.
+%mor:	    nnpr advi adj nn neg prep nnpr vt sfp sfp.
+%com:	 long pause.
+*CHI:	   ¼M.
+%mor:	    ex.
+%com:	 The child jumps around and falls onto the floor.
+*CHI:	   ¶^ ÷ &laak3.
+%mor:	    verg asp sfp.
+*INV:	   §A ¶^ ¿Ë &lo1.
+%mor:	    nnpr verg prt sfp.
+*INV:	   «Y &o3.
+%mor:	    vf ex.
+*INV:	   ¦³ ÉN ¶^ ¿Ë &aa3 ?
+%mor:	    vf neg verg prt sfp.
+*CHI:	   0 [=! no response].
+*INV:	"   «u–ï, &dam2 ®Í ¸¨ ¦a¤U."
+%mor:	    ex vt prt dir nnloc.
+*INV:	   °õ µf Ê\.
+%mor:	    vt prt nnpr.
+*CHI:	   ¥´ [=! hits the investigator's bum].
+%mor:	    vt.
+*INV:	   §A ¥´ §Ú &pet1&pet1 &aa4 ?
+%mor:	    nnpr vt nnpr nn sfp.
+*CHI:	   ¥´ &pet1&pet1.
+%mor:	    vt nn.
+*INV:	   ¥´ &pet1&pet1.
+%mor:	    vt nn.
+*INV:	   §A ¹L ‘Á §Ú ¤S ¥´ §A &pet1&pet1.
+%mor:	    nnpr dir dir nnpr advf vt nnpr nn.
+*CHI:	   ­ø ¦n &aa3.
+%mor:	    neg adj sfp.
+*INV:	   §A ¹L ‘Á.
+%mor:	    nnpr dir dir.
+*CHI:	   < ¥´> [/].
+%mor:	    vt.
+*CHI:	   < ¥´> [/].
+%mor:	    vt.
+*CHI:	   < ¥´> [/].
+%mor:	    vt.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*INV:	   §A ¥´ §Ú «§Ï &aa3 ?
+%mor:	    nnpr vt nnpr wh sfp.
+*CHI:	   ¥´ &pet1&pet1.
+%mor:	    vt nn.
+*INV:	   ¥´ &pet1&pet1.
+%mor:	    vt nn.
+*INV:	   §A ¦³ ÉN &pet1&pet1 î?
+%mor:	    nnpr vf neg nn sfp.
+*CHI:	   < ­Ë> [/] ­Ë.
+%mor:	    vt vt.
+*INV:	   < Á¾Á¾ ¦³ ÉN &pet1&pet1 î> [>]?
+%mor:	    nnpp vf neg nn sfp.
+*CHI:	   < ­Ë> [<].
+%mor:	    vt.
+*CHI:	   < ­Ë> [<].
+%mor:	    vt.
+*CHI:	   < ­Ë> [<].
+%mor:	    vt.
+*INV:	   §A ¤S ­Ë - ?
+%mor:	    nnpr advf vt.
+*INV:	   < °÷ &laa3> [/] °÷ &laa3.
+%mor:	    vi sfp vi sfp.
+*INV:	   §A ­Ú §Ú ¶¼ &aa1.
+%mor:	    nnpr prep nnpr vt sfp.
+*INV:	   < §A ­Ú §Ú ¶¼ &aa1> [>].
+%mor:	    nnpr prep nnpr vt sfp.
+*CHI:	   < ­Ë> [<].
+%mor:	    vt.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   §A ©ğ ­Ú §Ú &aa1.
+%mor:	    nnpr vt prep nnpr sfp.
+*INV:	   õ ªM.
+%mor:	    det cl.
+*INV:	   §Ú ­n õ ªM.
+%mor:	    nnpr vt det cl.
+%com:	 The child hands the investigator a cup of tea.
+*INV:	   «§ ‘Á î ©O ø?
+%mor:	    wh sfp sfp det cl.
+*CHI:	   ¯ù.
+%mor:	    nn.
+*INV:	   &m4.
+%mor:	    ex.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   &aa1.
+%mor:	    ex.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ¶¼ §¹.
+%mor:	    vt advm.
+%com:	 long pause.
+@Situation:	 The child runs here and there.
+*INV:	   °Û ­ø °Û ºq &aa3 §Ú’]?
+%mor:	    vt neg vt nn sfp nnpr.
+*CHI:	   0 [=! no response].
+*INV:	"   &aa3, §Ú’] °Û ­ø °Û ºq ¦n &aa3 ?"
+%mor:	    ex nnpr vt neg vt nn adj sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   °Û ­ø °Û ºq &aa3 ?
+%mor:	    vt neg vt nn sfp.
+*INV:	   §A ­ø ¦n ¥´ §Ú &laa1.
+%mor:	    nnpr neg adj vt nnpr sfp.
+*INV:	   ¦n «§Ï ®A?
+%mor:	    adj wh sfp.
+%com:	 long pause.
+*INV:	   < ¤S ­Ë ¯ù> [>] §Ú &aa4 §A?
+%mor:	    advf vt nn nnpr sfp nnpr.
+*CHI:	   < ­Ë> [=! pours] [<].
+%mor:	    vt.
+*CHI:	   < ­Ë> [=! pours] [<].
+%mor:	    vt.
+*CHI:	   ¦hÁÂ.
+%mor:	    ex.
+*INV:	   ¦hÁÂ.
+%mor:	    ex.
+*CHI:	   Â\ ©O «×.
+%mor:	    vd det cl.
+*INV:	   Ëİ §Ú ©O?
+%mor:	    advs nnpr sfp.
+*INV:	"   §A Â\ ÷, §Ú Â\ Ãä &aa3 ?"
+%mor:	    nnpr vd asp nnpr vd wh sfp.
+*INV:	   §Ú Â\ ©O «×.
+%mor:	    nnpr vd det cl.
+%com:	 pause.
+*CHI:	   ­Ë - ?
+%mor:	    vt.
+*CHI:	   ­Ë - ?
+%mor:	    vt .
+*CHI:	   &aa3.
+%mor:	   ex.
+*INV:	   < °÷ &laak3> [/] °÷ &laak3.
+%mor:	    vi sfp vi sfp.
+*INV:	   < ­ø¸Ó> [/] ­ø¸Ó.
+%mor:	    ex ex.
+*CHI:	   ¦hÁÂ.
+%mor:	    ex.
+*INV:	   ¦hÁÂ.
+%mor:	    ex.
+%com:	 The child throws the toys.
+*INV:	   ¼M §A ­ø ¦n Ëİ¼Ë &dam2 Ï ¦Ü ±o &gaa2.
+%mor:	    ex nnpr neg adj advs vt nn advf ctc sfp.
+*INV:	"   &aa3, ¤£¦p §Ú’] ¥h Ú» ¬Û &aa1, ¦n ÉN &aa3 ?"
+%mor:	    sfp advs nnpr dir vt nn sfp adj neg sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   < §A ¹L ‘Á &aa1 Á¾Á¾> [>].
+%mor:	    nnpr dir dir sfp nnpp.
+*CHI:	   < ¦n> [<].
+%mor:	    adj.
+*CHI:	   < ¦n> [<].
+%mor:	    adj.
+%com:	 The investigator and the child go over to the cupboard where there are many photos.
+*CHI:	   ¬Û¬Û.
+%mor:	    nn.
+*INV:	   Ãä ­Ó «Y Á¾Á¾ &aa3 ©O «× Ëİ ¦h ­Ó?
+%mor:	    wh cl vf nnpp sfp det cl advi adj cl.
+*CHI:	   Ú» ¬Û &aa3 &aa3.
+%mor:	    vt nn sfp sfp.
+*INV:	   Ãä ­Ó «Y Á¾Á¾ &aa3 ?
+%mor:	    wh cl vf nnpp sfp.
+*CHI:	   < Ú» ¬Û> [/].
+%mor:	    vt nn.
+*CHI:	   < Ú» ¬Û> [/].
+%mor:	    vt nn.
+*CHI:	   < Ú» ¬Û> [/] Ú» ¬Û.
+%mor:	    vt nn vt nn.
+*CHI:	   < ¼M> [/].
+%mor:	    ex.
+*CHI:	   < ¼M> [/] ¼M.
+%mor:	    ex ex.
+*CHI:	   < ·d ¿ù &e3> [/] ·d ¿ù &e3.
+%mor:	    vt adj ex vt adj ex.
+*CHI:	   < ¦hÁÂ> [/] ¦hÁÂ.
+%mor:	    ex ex.
+*CHI:	   < ¦³ &aa1> [=! points to a picture of himself].
+%mor:	    vf sfp.
+*CHI:	   < ¦³ &aa1> [=! points to a picture of himself].
+%mor:	    vf sfp.
+*CHI:	   < ¦³ &aa1> [=! points to a picture of himself].
+%mor:	    vf sfp.
+*INV:	   ©O ­Ó Á¾Á¾ ‘Á î?
+%mor:	    det cl nnpp sfp sfp.
+*CHI:	   ©O ­Ó &e3.
+%mor:	    det cl ex.
+*INV:	   «Y «} Á¾Á¾ ²Ó ­Ó õ ®É ­Ó ¼Ë &aa3 ?
+%mor:	    vf neg nnpp adj cl det cl cl nn sfp.
+*CHI:	   < ª±> [/].
+%mor:	    vt.
+*CHI:	   < ª±> [/]
+%mor:	    vt .
+*CHI:	   ª±.
+%mor:	   vt.
+*CHI:	   xxx.
+*INV:	   «u–ï–ï.
+%mor:	    ex.
+*INV:	   ª± ÉAÏ ¦n &aa3 ?
+%mor:	    vt wh adj sfp.
+*CHI:	   ª± Ï.
+%mor:	    vt nn.
+*CHI:	   < éö -:> [>].
+%mor:	    vt.
+*INV:	   < éö -:> [>].
+%mor:	    vt.
+%exp:	 The investigator and the child tickle each other.
+*INV:	   §A ¬y ®Í ¤f¤ô &laa3.
+%mor:	    nnpr vt prt nn sfp.
+*CHI:	   ­Ë - ?
+%mor:	    vt .
+*CHI:	    ­Ë - ?
+%mor:	    vt.
+*INV:	   ­Ë ¥h Ãä ¦Ü ±o í?
+%mor:	    vt dir wh advf ctc sfp.
+*CHI:	   ­Ë ©O «× &aa3.
+%mor:	    vt det cl sfp.
+*INV:	   ¦n &laa3.
+%mor:	    adj sfp.
+*INV:	   °÷ &laa3.
+%mor:	    vi sfp.
+*CHI:	   < ­Ë - ? > [/]
+%mor:	    vt .
+*CHI:	   <­Ë - ?> [/]
+%mor:	   vt .
+*CHI:	   ­Ë - ?
+%mor:	   vt.
+*INV:	   §A ²O ªá &aa4 ?
+%mor:	    nnpr vt nn sfp.
+*CHI:	   ²O ªá &aa3.
+%mor:	    vt nn sfp.
+*INV:	"   ¤£¦p §Ú’] ¥X ¥h Ú» úï &aa1, ¦n ÉN &aa3 ?"
+%mor:	    advs nnpr dir dir vt prt sfp adj neg sfp.
+*INV:	   ¥X ‘Á &aa1.
+%mor:	    dir dir sfp.
+*CHI:	   ²O ªá &laa3.
+%mor:	    vt nn sfp.
+*CHI:	   ¼M.
+%mor:	    ex.
+%com:	 The investigator and the child go to the balcony.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*CHI:	   xxx.
+*INV:	   «§ ‘Á î õ ­Ó?
+%mor:	    wh sfp sfp det cl.
+*CHI:	   xxx.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	"   ¸¨ «B Ø{, ¼M."
+%mor:	    verg nn sfp ex.
+%exp:	 It is raining outside.
+*CHI:	   ¸¨ < «B> [>] +/.
+%mor:	    verg nn.
+*INV:	   < ¸¨ «B> [<] &aa3.
+%mor:	    verg nn sfp.
+*INV:	   ¦n ¤j «B &aa3.
+%mor:	    advi adj nn sfp.
+*CHI:	   ¦n ¤j «B.
+%mor:	    advi adj nn.
+*INV:	   õ ¬[ «Y «} ²î ‘Á î [=! points to a ship on the sea]?
+%mor:	    det cl vf neg nn sfp sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*CHI:	   ¬[ ¬[.
+%mor:	    cl cl.
+*INV:	   ¦³ ´X ¦h ¬[ ²î  &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   xxx ²O ªá &aa3.
+%mor:	    vt nn sfp.
+*INV:	   ²O ªá &aa4 ?
+%mor:	    vt nn sfp.
+*INV:	   Á¾Á¾ Ëİ ¨Ä &aa4 ö «× ²O ªá &aa4 ?
+%mor:	    nnpp advi adj sfp prep cl vt nn sfp.
+*INV:	   ¦³ ÉN ªá &aa3 §A Ú» úï - ?
+%mor:	    vf neg nn sfp nnpr vt prt.
+*INV:	"   ³Ş, õ «× ¤S ¦³ ¤@ ¦· ªá¥J Ø{."
+%mor:	    ex det cl advf vf q cl nn sfp.
+*INV:	   Ãä ­Ó ºØ î ø ªá?
+%mor:	    wh cl vt sfp cl nn.
+*INV:	   «Y «} ¶ı«} ºØ î?
+%mor:	    vf neg nn vt sfp.
+*CHI:	   0 [=! no response].
+*INV:	   °µ ÉA°­ ®A?
+%mor:	     vt wh sfp .
+*INV:	   &m2 - ?
+%mor:	   ex.
+%com:	 The investigator and the child are still in the balcony.
+*CHI:	   °µ ÉA ®A?
+%mor:	    vt wh sfp.
+*INV:	   °µ ÉA ®A?
+%mor:	    vt wh sfp.
+*CHI:	   ®A.
+%mor:	    ex.
+*INV:	   °µ ÉA ®A?
+%mor:	    vt wh sfp.
+*CHI:	   < ·d ¿ù &e3> [>].
+%mor:	    vt adj ex.
+*INV:	   < °µ ÉA ®A> [<]?
+%mor:	    vt wh sfp.
+*CHI:	   < ­Ë - ?> [/]
+%mor:	    vt .
+*CHI:	   <­Ë - ?> [/]
+%mor:	   vt .
+*CHI:	   <­Ë - ?> [/]
+%mor:	   vt .
+*CHI:	   <­Ë - ?> [/]
+%mor:	   vt .
+*CHI:	   ­Ë - ?
+%mor:	   vt.
+*INV:	   < §A ­Ë ¸¨> [>] §Ú ­Ó ÀY «× &aa4 ?
+%mor:	    nnpr vt dir nnpr cl nn cl sfp.
+*CHI:	   < ­Ë> [=! laughs] [<].
+%mor:	    vt.
+*INV:	   úï?
+%mor:	    ex.
+*INV:	   Ëİ ³£ ¦³ î.
+%mor:	    advs advf vf sfp.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   úï.
+%mor:	    ex.
+*INV:	   °µ ÉA ¦¨ ¤é ·d ¿ù ®A?
+%mor:	    vt wh q nn vt adj sfp.
+*INV:	   < ±ğ «Y ÉN ·d ¿ù &laa1> [>].
+%mor:	    advf vf neg vt adj sfp.
+*CHI:	   < ­Ë - ?> [<]
+%mor:	    vt .
+*CHI:	   <­Ë - ?> [<]
+%mor:	   vt .
+*CHI:	   <­Ë - ?> [<]
+%mor:	   vt .
+*CHI:	   <­Ë - ?> [<]
+%mor:	   vt .
+*CHI:	   <­Ë> [<] - ?
+%mor:	   vt.
+*INV:	   éö  -:.
+%mor:	    vt.
+*INV:	   < §A Ú» úï - ? > [>]
+%mor:	    nnpr vt prt .
+*INV:	   <©O ­Ó Ãä ­Ó ‘Á î? > [>]
+%mor:	   det cl wh cl sfp sfp .
+*INV:	   <³Ş> [>].
+%mor:	   ex.
+*CHI:	   < ­Ë - ? > [<]
+%mor:	    vt .
+*CHI:	   <­Ë> [<] - ?
+%mor:	   vt.
+*INV:	   §A Ú» úï ¶ô Ãè.
+%mor:	    nnpr vt prt cl nn.
+*INV:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   ©Ù.
+%mor:	    vt.
+*INV:	   ©Ù.
+%mor:	    vt.
+*INV:	   §A ­ø ¦n ©Ù &laa1.
+%mor:	    nnpr neg adj vt sfp.
+*INV:	   ¦ÃÁV Ãå»½.
+%mor:	    adj adj.
+%com:	 The investigator and the child go inside the house.
+*CHI:	   ¦ÃÁV &cyun3.
+%mor:	    adj  xx .
+@situation:	 Inside the room of the child's elder sister. The investigator and the child are looking at a calendar which has many pictures of animals on it.
+*INV:	   ¼M.
+%mor:	    ex .
+*INV:	   ¦n ¤j °¦ &aa3.
+%mor:	   advi adj cl sfp.
+*INV:	   < «§ ‘Á î> [=! points]?
+%mor:	    wh sfp sfp.
+*CHI:	   °¦ ¸}.
+%mor:	    cl nn.
+*INV:	   úï?
+%mor:	    ex.
+%com:	 The child takes out some of his sister's books.
+*CHI:	   Ú» ©O ø.
+%mor:	    vt det cl.
+*INV:	   Ú» &miu1&miu1 &aa3.
+%mor:	    vt nn sfp.
+*CHI:	   < Ú» ©O ø> [/] Ú» ©O ø.
+%mor:	    vt det cl vt det cl.
+*INV:	   §A Â\ µf §C &laa1.
+%mor:	    nnpr vd prt dir sfp .
+*INV:	   ­ø ¦n ·d Ê\ ø Ï.
+%mor:	   neg adj vt nnpr cl nn.
+*INV:	   §Ú’] ¥X ¥h &laa3.
+%mor:	    nnpr dir dir sfp.
+*CHI:	   < Ú» ¨® &waa3> [/] Ú» ¨® &waa3.
+%mor:	    vt nn ex vt nn ex.
+*INV:	   ­ø ¦n ·d &laak3.
+%mor:	    neg adj vt sfp.
+*INV:	   §Ú’] ¥X µf ¥h &laak3.
+%mor:	    nnpr dir prt dir sfp.
+*CHI:	   &e3.
+%mor:	    ex.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   Ú» &aa3.
+%mor:	    vt sfp.
+*CHI:	   ¦n.
+%mor:	    adj.
+*CHI:	   ¦n ±o·N Ëİ¼Ë.
+%mor:	    advi adj advs.
+*INV:	   ³Ş.
+%mor:	    ex.
+*INV:	   §Ú’] Ú» úï ©O ­Ó &aa1.
+%mor:	    nnpr vt prt det cl sfp.
+*INV:	   ¦n ÉN &aa3 ?
+%mor:	    adj neg sfp.
+*CHI:	   Ú» &miu1 &aa3.
+%mor:	    vt nn sfp.
+*INV:	   Ú» &miu1.
+%mor:	    vt nn.
+*CHI:	   < øø> [/].
+%mor:	    adj.
+*CHI:	   < øø> [/].
+%mor:	    adj.
+*CHI:	   < øø> [/].
+%mor:	    adj.
+*CHI:	   < øø> [/].
+%mor:	    adj.
+*CHI:	   < øø> [/].
+%mor:	    adj.
+*CHI:	   < øø> [/].
+%mor:	    adj.
+*CHI:	   < øø> [/] øø.
+%mor:	    adj adj.
+*INV:	   &wou1&wou1 &lo1.
+%mor:	    nn sfp.
+*CHI:	   øø.
+%mor:	    adj.
+*INV:	   øø «§?
+%mor:	    adj wh.
+*CHI:	   &wou1&wou1.
+%mor:	    nn.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*INV:	   ¦³ ÉN ·d ¿ù &e3 ?
+%mor:	    vf neg vt adj ex.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*INV:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*CHI:	   ·d ¿ù.
+%mor:	    vt adj.
+*CHI:	   ·d+/.
+%mor:	    vt.
+*INV:	   ·d ¿ù &la3 §A.
+%mor:	    vt adj sfp nnpr.
+*CHI:	   ·d ¿ù.
+%mor:	    vt adj.
+*CHI:	   ·d+/.
+%mor:	    vt.
+*INV:	"   &ei3, ­ø ¦n L."
+%mor:	    ex neg adj vt.
+*INV:	   ©ñ ¤â.
+%mor:	    vt nn.
+*CHI:	   ·d ¿ù &e3.
+%mor:	    vt adj ex.
+*INV:	   §Ú’] Ú» &aa1.
+%mor:	    nnpr vt sfp.
+*INV:	   Ú»Ú» &miu1&miu1 &aa1.
+%mor:	    vt nn sfp.
+*CHI:	   ·d ¿ù &laak3.
+%mor:	    vt adj sfp.
+*INV:	   ¦³ ÉN &miu1&miu1 &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   < ©O> [/] ©O ­Ó &e3.
+%mor:	    det det cl ex.
+*CHI:	   ©O ­Ó ¦³ &aa3 &aa3 &miu1.
+%mor:	    det cl vf sfp sfp nn.
+*INV:	   ©O ­Ó «Y &miu1&miu1 ‘Á ï «§?
+%mor:	    det cl vf nn sfp sfp sfp.
+*CHI:	   &miu1 .
+%mor:	    nn.
+*CHI:	   &wou1&wou1.
+%mor:	    nn.
+*INV:	   ©O ­Ó &wou1&wou1 &aa1 &maa3.
+%mor:	    det cl nn sfp sfp.
+*INV:	   §A ¹L ‘Á &aa1.
+%mor:	    nnpr dir dir sfp.
+*INV:	   §A ¹L ‘Á.
+%mor:	    nnpr dir dir.
+*CHI:	   &bam1.
+%mor:	     xx .
+*INV:	   §Ö ø §¤ §C.
+%mor:	    adj com vt dir .
+*INV:	   §¤ §C.
+%mor:	   vi dir.
+*INV:	   < ¨Ä¨Ä’]> [>].
+%mor:	    advm.
+*CHI:	   < ¨Ä ¥J &aa3> [<].
+%mor:	    adj nn sfp.
+*INV:	   ¨Ä ¥J &aa3.
+%mor:	    adj nn sfp.
+*INV:	   ¦³ ´X ¦h °¦ &miu1&miu1 &aa3 ©O+/.
+%mor:	    vf wh adj cl nn sfp det.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*CHI:	   ¨â +...
+%mor:	    q.
+*CHI:	   Äê ÷+/.
+%mor:	    verg asp.
+*INV:	   ¨â ­Ó «§ ¦Ü ±o í?
+%mor:	    q cl wh advf ctc sfp.
+%exp:	 There is one torn page in the calendar.
+*CHI:	   < Äê> [/] Äê ÷.
+%mor:	    verg verg asp.
+*CHI:	   Ú» &aa1.
+%mor:	    vt sfp.
+*INV:	   ¨â ­Ó ÉAÏ &aa1 ?
+%mor:	    q cl wh sfp.
+*INV:	   ¦³ ´X ¦h &miu1&miu1 &aa3 ?
+%mor:	    vf wh adj nn sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¨â ­Ó ÉAÏ &aa3 ?
+%mor:	    q cl wh sfp.
+*CHI:	   ¨â.
+%mor:	    q.
+*INV:	   ¨â ­Ó ÉAÏ Ï &aa3 ?
+%mor:	    q cl wh nn sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   ¤@ ­Ó.
+%mor:	    q cl.
+*CHI:	   ¤@ ­Ó.
+%mor:	    q cl.
+*CHI:	   ©O ­Ó &aa3.
+%mor:	    det cl sfp.
+*INV:	   ¨â ­Ó «§ ¦Ü ±o í Ëİ¼Ë?
+%mor:	    q cl wh advf ctc sfp advs.
+*INV:	   §A ³£ ¥¼ ¨ì µª §Ú.
+%mor:	    nnpr advf neg vt vt nnpr.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¨â ­Ó &miu1&miu1 «Y «}?
+%mor:	    q cl nn vf neg.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*INV:	   &wou1&wou1 ©O?
+%mor:	    nn sfp.
+*INV:	   ¦³ ´X ¦h ­Ó &wou1&wou1 &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   0 [=! no response].
+*INV:	   ¦³ ´X ¦h &wou1&wou1 &aa3 ?
+%mor:	    vf wh adj nn sfp.
+%com:	 The child turns to a torn page.
+*CHI:	   Äê ÷ &aa3 &aa3.
+%mor:	    verg asp sfp sfp.
+*CHI:	   < ·d ¿ù> [>].
+%mor:	    vt adj.
+*INV:	   < Ãä ­Ó İ© Äê> [<] Ëİ ¦² &aa3 ?
+%mor:	    wh cl vt verg advi adj sfp.
+*CHI:	   §Ú &aa3 ¦².
+%mor:	    nnpr sfp adj.
+*INV:	   «Y «} §A &aa3 ?
+%mor:	    vf neg nnpr sfp.
+*CHI:	"   < §A &aa1, §A &aa1> [=! points at himself]."
+%mor:	    nnpr sfp nnpr sfp.
+*INV:	   §A &laa1 ¹ê «Y.
+%mor:	    nnpr sfp advf vf.
+*CHI:	   §A &aa1.
+%mor:	    nnpr sfp.
+*CHI:	   §A &waa3.
+%mor:	    nnpr sfp.
+*INV:	   §A «ü ¦í ¦Û¤v ¤S ¸Ü §A ï.
+%mor:	    nnpr vt asp rfl advf vt nnpr sfp.
+*CHI:	   §A.
+%mor:	    nnpr.
+*CHI:	   §A &aa3.
+%mor:	    nnpr sfp.
+*CHI:	   §A &aa1.
+%mor:	    nnpr sfp.
+*INV:	   §A &laa1.
+%mor:	    nnpr sfp.
+*CHI:	   §A &aa1.
+%mor:	    nnpr sfp.
+*CHI:	   İ© Äê ï.
+%mor:	    vt verg sfp.
+*CHI:	   < §A> [>] +/.
+%mor:	    nnpr.
+*INV:	   < §Ú İ© Äê> [<] «§?
+%mor:	    nnpr vt verg wh.
+*CHI:	   İ© Äê &aa3.
+%mor:	    vt verg sfp.
+*INV:	   «Y «} §Ú İ© Äê &aa3 ?
+%mor:	    vf neg nnpr vt verg sfp.
+*CHI:	   &je3.
+%mor:	    ex.
+*INV:	   «Y §A İ© Äê.
+%mor:	    vf nnpr vt verg.
+*CHI:	   < İ© Äê> [/].
+%mor:	    vt verg.
+*CHI:	   < İ© Äê> [/].
+%mor:	    vt verg.
+*CHI:	   < İ© Äê> [/] İ© Äê.
+%mor:	    vt verg vt verg.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   §A İ© Äê &laa1 ¹ê «Y.
+%mor:	    nnpr vt verg sfp advf vf.
+*CHI:	   İ© Äê ¹ê «Y.
+%mor:	    vt verg advf vf.
+*INV:	   &wou1&wou1 ±o ­ø ±o·N &aa3 úï?
+%mor:	    nn adj neg adj sfp sfp.
+*CHI:	   < ·d> [/] ·d ¿ù.
+%mor:	    vt vt adj.
+*CHI:	   İ© Äê.
+%mor:	    vt verg.
+*CHI:	   §A İ© Äê.
+%mor:	    nnpr vt verg.
+*CHI:	   ·d ¿ù.
+%mor:	    vt adj.
+*INV:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   §A İ© Äê &laa1 ¹ê «Y.
+%mor:	    nnpr vt verg sfp advf vf.
+*CHI:	   İ© Äê ·d ¿ù &e3.
+%mor:	    vt verg vt adj ex.
+*CHI:	   < ·d ¿ù> [/] ·d ¿ù &je3.
+%mor:	    vt adj vt adj sfp.
+*INV:	    &zaak3 ¦º §Ú &laak3.
+%mor:	    vt verg nnpr sfp.
+*CHI:	   ·d ¿ù &jaa3 &jaa3.
+%mor:	    vt adj ex ex.
+*CHI:	   < ·d ¿ù &jaa3 &jaa3> [/].
+%mor:	    vt adj ex ex.
+*CHI:	   < ·d ¿ù &jaa3 &jaa3> [/].
+%mor:	    vt adj ex ex.
+*CHI:	   < ·d ¿ù &jaa3 &jaa3> [/] ·d ¿ù &jaa3 &jaa3.
+%mor:	    vt adj ex ex vt adj ex ex vt adj ex ex.
+*CHI:	   ·d ¿ù &jaa3 &jaa3.
+%mor:	    vt adj ex ex.
+*INV:	   ·d ¿ù &aa4 ?
+%mor:	    vt adj sfp.
+*INV:	   §Ú İ© Äê «§ ©O ­Ó?
+%mor:	    nnpr vt verg sfp det cl.
+*CHI:	   İ© Äê.
+%mor:	    vt verg.
+*INV:	   §A İ© Äê &laa1 < ¹ê «Y> [>].
+%mor:	    nnpr vt verg sfp advf vf.
+*CHI:	   < İ© Äê ÷> [<].
+%mor:	    vt verg asp.
+*CHI:	   ·d+/.
+%mor:	    vt.
+*INV:	   §A İ© Äê.
+%mor:	    nnpr vt verg.
+*INV:	   «Y §A.
+%mor:	    vf nnpr.
+%com:	 long pause.
+*INV:	   ¥´ ÷ &pet1&pet1 &laak3.
+%mor:	    vt asp nn sfp.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*CHI:	   ¥´ ÷ &laak3.
+%mor:	    vt asp sfp.
+*INV:	   ¥´ ÷ §A &pet1&pet1 &laak3 §Ú.
+%mor:	    vt asp nnpr nn sfp nnpr.
+*INV:	   < ÃÑ ­ø ÃÑ Åª &aa3> [>]?
+%mor:	    vt neg vt vt sfp.
+%exp:	 The investigator is looking at a book.
+*CHI:	   < ¶R Ï> [<].
+%mor:	    vt nn.
+*CHI:	   &aa3.
+%mor:	    ex.
+*INV:	   &ji2.
+%mor:	    ex.
+*INV:	   ¦³ °¦ ñô &aa3 §A Ú» úï [=! points to a spider on the book] - ?
+%mor:	    vf cl nn sfp nnpr vt prt.
+*INV:	   «Y «} &aa3 ?
+%mor:	    vf neg sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*CHI:	   ­ø ¦n Ú» &o3.
+%mor:	    neg adj vt ex.
+*INV:	   §A Åå &aa4 ?
+%mor:	    nnpr vt sfp.
+*INV:	"   §Ú ¦P §A ¥´ ¦º Ê\ &aa1, < ¦n ÉN &aa3> [>]?"
+%mor:	    nnpr prep nnpr vt verg nnpr sfp adj neg sfp.
+*CHI:	   < ¦n &aa3> [<].
+%mor:	    adj sfp.
+%com:	 The investigator hits the spider on the book.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¥´ ¦º.
+%mor:	    vt verg.
+*INV:	   ¦º ÷ &lu3.
+%mor:	    verg asp sfp.
+*CHI:	   < ¥´ &je3> [=! hits the spider on the book].
+%mor:	    vt sfp.
+*CHI:	   ¦º ÷ &laak3.
+%mor:	    verg asp sfp.
+*INV:	   ¦º ÷ &lu3.
+%mor:	    verg asp sfp.
+*INV:	   ¦n &laak3.
+%mor:	    adj sfp.
+*INV:	   Ú» ²Ä «× &laak3.
+%mor:	    vt det cl sfp.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   ñô - ?
+%mor:	    nn.
+*INV:	   ñô «§?
+%mor:	    nn sfp.
+*INV:	   µ§ ‘Á î.
+%mor:	    nn sfp sfp.
+*INV:	   ©O ­Ó ©O?
+%mor:	    det cl sfp.
+*CHI:	   &bi4&bi2.
+%mor:	    ex.
+*CHI:	   ÉN!
+%mor:	    neg.
+%exp:	 The child turns to the end of the book.
+%com:	 long pause.
+*CHI:	   < ­Ë &aa1> [=! pours from the toy teapot].
+%mor:	    vt sfp.
+*CHI:	   < ­Ë &aa1> [=! pours from the toy teapot].
+%mor:	    vt sfp.
+*INV:	   ­Ë &aa4 ?
+%mor:	    vt sfp.
+*CHI:	   < ­Ë> [/].
+%mor:	    vt.
+*CHI:	   < ­Ë> [/].
+%mor:	    vt.
+*CHI:	   < ­Ë> [/].
+%mor:	    vt.
+*CHI:	   < ­Ë> [/].
+%mor:	    vt.
+*CHI:	   < ­Ë> [/] ­Ë.
+%mor:	    vt vt.
+*INV:	   ­Ë.
+%mor:	    vt.
+*CHI:	   ­Ë.
+%mor:	    vt.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   ¶¼ §¹.
+%mor:	    vt advm.
+*CHI:	   < ­Ë> [/] ­Ë.
+%mor:	    vt ctc.
+*INV:	   ¶¼ §¹ &lo3.
+%mor:	    vt advm sfp.
+*INV:	   ­ø ¶¼.
+%mor:	    neg vt.
+*INV:	   Â\ §C &aa1.
+%mor:	    vd dir sfp.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+%exp:	 Recording stops and then continues.
+*INV:	"   ³Ş, §A Ç ­ø Ç î Á¾Á¾?"
+%mor:	    ex nnpr adj neg adj sfp nnpp.
+*CHI:	   ­Ë &aa3.
+%mor:	    vt sfp.
+*CHI:	   ­Ë.
+%mor:	    vt.
+%exp:	 The child is still playing with a pot.
+*INV:	   ©j©j ­Ë ¦n ÉN &aa3 Á¾Á¾?
+%mor:	    nn vt adj neg sfp nnpp.
+*CHI:	   ­Ë.
+%mor:	    vt.
+%exp:	 The child ignores the investigator.
+*INV:	"   Á¾Á¾, ©j©j ­Ë ¦n ÉN &aa3 ?"
+%mor:	    nnpp nn vt adj neg sfp.
+*CHI:	   xxx ­Ë.
+%mor:	    vt.
+*CHI:	   ­Ë &e3.
+%mor:	    vt ex.
+*CHI:	   xxx.
+%exp:	 The child plays by himself.
+*CHI:	   ­Ë &aa3.
+%mor:	    vt sfp.
+%com:	 long pause.
+*INV:	   ¦n &aa1.
+%mor:	    adj sfp.
+*INV:	   ü« ¥X ‘Á &aa1.
+%mor:	    vt dir dir sfp.
+*INV:	   «§ ‘Á î ©O ­Ó?
+%mor:	    wh sfp sfp det cl.
+*CHI:	0
+*INV:	   ©O ­Ó «§ ®Ñ ‘Á î?
+%mor:	    det cl wh nn sfp sfp.
+*CHI:	0
+*INV:	   Ú» ©O ¥» ¦n ÉN &aa3 ?
+%mor:	    vt det cl adj neg sfp.
+*CHI:	   Ú» ©O ¥» &aa3.
+%mor:	    vt det cl sfp.
+*CHI:	"   "" ¤­"" &aa3."
+%mor:	    q sfp.
+*INV:	"   "" ¤­"" &aa4 ?"
+%mor:	    q sfp.
+*INV:	"   "" ¤@"" ‘Á î ¤§ ¹À."
+%mor:	    q sfp sfp sfp sfp.
+*INV:	"   Ãä«× «Y "" ¤­"" ®A?"
+%mor:	    wh vf q sfp.
+*INV:	"   ¥ò ¦³ ÉN "" ¤­"" &aa3 ?"
+%mor:	    advf vf neg q sfp.
+*INV:	   §A Ú» úï - ?
+%mor:	    nnpr vt prt.
+*INV:	   Ëİ ©O ­Ó ©O?
+%mor:	    advs det cl sfp.
+*CHI:	   ¤G.
+%mor:	    q.
+*INV:	   ©O ­Ó «§ ¦r ‘Á î?
+%mor:	    det cl wh nn sfp sfp.
+*CHI:	   ¤G.
+%mor:	    q.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*CHI:	   ¹s.
+%mor:	    q.
+*INV:	   ¤T.
+%mor:	    q.
+*CHI:	"   <"" ¤T"" &aa3> [/] "" ¤T"" &aa3."
+%mor:	    q sfp q sfp.
+*INV:	   ¤T.
+%mor:	    q.
+*CHI:	   ¤G.
+%mor:	    q.
+*CHI:	   &miu1.
+%mor:	    nn.
+*CHI:	   &miu1.
+%mor:	    nn.
+*CHI:	   &miu1.
+%mor:	    nn.
+*INV:	   &miu1.
+%mor:	    nn.
+*CHI:	   &miu1.
+%mor:	    nn.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*CHI:	   xxx.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*CHI:	   ·d ¿ù.
+%mor:	    vt adj.
+%com:	 long pause.
+*INV:	   «§ ‘Á î Á¾Á¾ [=! shows the child a pen]?
+%mor:	    wh sfp sfp nnpp.
+*CHI:	   ªK µ§.
+%mor:	    cl nn.
+*CHI:	   < §Ú &je3> [/] §Ú &je3.
+%mor:	    nnpr sfp nnpr sfp.
+*INV:	   «§ ‘Á ï ¥ı?
+%mor:	    wh sfp sfp advf.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*INV:	   §A µª ¦h §Ú ¤@ ¦¸ ¥ı.
+%mor:	    nnpr vt adj nnpr q cl advf.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*INV:	   §A ¹L ‘Á &aa1.
+%mor:	    nnpr dir dir sfp.
+*INV:	   ¤J ‘Á &aa1.
+%mor:	    dir dir sfp.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*CHI:	   < §Ú &je3> [>].
+%mor:	    nnpr sfp.
+*CHI:	   < §Ú &je3> [>].
+%mor:	    nnpr sfp.
+*INV:	   < ¤J ‘Á &aa1> [<].
+%mor:	    dir dir sfp.
+*INV:	   < ¤J ‘Á ª±> [<].
+%mor:	    dir dir vt.
+*INV:	   < ­Ú §A> [<]
+%mor:	    vd nnpr.
+*INV:	   < ­Ú §A> [<]
+%mor:	    vd nnpr.
+*INV:	   < ğ> [<].
+%mor:	    ex.
+*INV:	   §Ú ­Ú ¦h ´X ªK §A &aa1.
+%mor:	    nnpr vd adj q cl nnpr sfp.
+*CHI:	   ©j©j - ?
+%mor:	    nn.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*CHI:	   µ§.
+%mor:	    nn.
+*INV:	   «§ ‘Á î ©O ø?
+%mor:	    wh sfp sfp det cl.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+%com:	 long pause.
+*INV:	   ¦³ ´X ¦h ªK µ§ &aa3 ©O «×?
+%mor:	    vf wh adj cl nn sfp det cl.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+*INV:	   ¦³ ´X ¦h ªK µ§ &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ¨â.
+%mor:	    q.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+*INV:	   &m2 - ?
+%mor:	    ex .
+*INV:	    ¦³ ´X ¦h ªK µ§ &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ø «Y «} µ§ ‘Á î?
+%mor:	    det cl vf neg nn sfp sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   «Y.
+%mor:	    vf.
+*INV:	   ©O ø «Y «§ ‘Á î?
+%mor:	    det cl vf wh sfp sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ø «§ ‘Á î ®A?
+%mor:	    det cl wh sfp sfp sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   ·f ­¸¾÷ &aa3.
+%mor:	    vt nn sfp.
+%exp:	 A plane flies past above the child's house.
+*INV:	   ·f ­¸¾÷ &o3.
+%mor:	    vt nn ex.
+*INV:	   ¦³ ´X ¦h ªK µ§ &aa3 §A Ú» úï - ?
+%mor:	    vf wh adj cl nn sfp nnpr vt prt.
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+*INV:	   ©O «× ¥| ªK Ø{.
+%mor:	    det cl q cl sfp.
+*INV:	   Ãä«× «Y ¨â ­Ó &aa3 ?
+%mor:	    wh vf q cl sfp.
+*INV:	   ¥| ªK.
+%mor:	    q cl.
+*CHI:	   Ú» ¹qµø.
+%mor:	    vt nn.
+*INV:	   ­ø Ú» ¹qµø.
+%mor:	    neg vt nn.
+*INV:	   ¥| ªK µ§.
+%mor:	    q cl nn.
+*CHI:	   Ú» µ§µ§.
+%mor:	    vt nn.
+*INV:	   ¥| ªK µ§.
+%mor:	    q cl nn.
+*CHI:	   xxx.
+*INV:	"   À½ µf ®I ¥h &laa1 Ëİ¼Ë, ¦n ÉN &aa3 ?"
+%mor:	    vd prt prt dir sfp advs adj neg sfp.
+%com:	 There is a stuffed dog in the room.
+*CHI:	   &wou1&wou1 &aa3.
+%mor:	    nn sfp.
+*CHI:	   < &wou1&wou1> [/] &wou1&wou1.
+%mor:	    nn nn.
+*INV:	   &wou1&wou1 &aa3.
+%mor:	    nn sfp.
+*CHI:	   &wou1&wou1 &aa3.
+%mor:	    nn sfp.
+*INV:	   &wou1&wou1 ±o ­ø ±o·N &aa3 ?
+%mor:	    nn adj neg adj sfp.
+*INV:	   ¦³ ´X ¦h °¦ &wou1&wou1 &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	0
+*INV:	   < §A ­Ú §Ú> [>] ª± &aa1.
+%mor:	    nnpr prep nnpr vt sfp.
+*CHI:	   < &wou1> [<] +/.
+%mor:	    nn.
+*INV:	   < §A ­Ú §Ú ª±> [>].
+%mor:	    nnpr prep nnpr vt.
+*CHI:	   < &wou1&wou1> [<].
+%mor:	    nn.
+%com:	 The investigator plays with the child.
+*INV:	"   ³Ş, §A «Y «} Á¾Á¾ &aa3 ?"
+%mor:	    ex nnpr vf neg nnpp sfp.
+*INV:	   Á¾Á¾.
+%mor:	    nnpp.
+%com:	 The child giggles.
+*INV:	   Á¾Á¾ &aa3.
+%mor:	    nnpp sfp.
+%com:	 The investigator and the child play for a while.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   ¨ì §A ¸Õ úï &laa1.
+%mor:	    vt nnpr vt prt sfp.
+*INV:	   ©O ø «§ ‘Á î Á¾Á¾ &aa4 ?
+%mor:	    det cl wh sfp sfp nnpp sfp.
+*CHI:	   < &wou1&wou1> [/].
+%mor:	    nn.
+*CHI:	   < &wou1&wou1> [/].
+%mor:	    nn.
+*CHI:	   < &wou1&wou1> [/] &wou1&wou1.
+%mor:	    nn nn.
+*INV:	   < &wou1&wou1> [/].
+%mor:	    nn.
+*INV:	   < &wou1&wou1> [/].
+%mor:	    nn.
+*INV:	   < &wou1&wou1> [/] &wou1&wou1.
+%mor:	    nn nn.
+%com:	" The investigator and the child continue to say the word ""&wou1"" for a while."
+*CHI:	   ¥X ¥h.
+%mor:	    dir dir.
+*INV:	   ¥X ¥h &aa4 ?
+%mor:	    dir dir sfp.
+%com:	 long pause.
+*CHI:	   &wou1&wou1 &wou1.
+%mor:	    nn nn.
+*INV:	   §A ¹L ‘Á.
+%mor:	    nnpr dir dir.
+*INV:	   §A ¹L ‘Á &aa1.
+%mor:	    nnpr dir dir sfp.
+*CHI:	   &aa1.
+%mor:	    ex.
+*CHI:	   xxx.
+*INV:	   ­ø ¦n &dam2.
+%mor:	    neg adj vt.
+*INV:	   ­ø ¦n &dam2 ®a©j °¦ &wou1&wou1.
+%mor:	    neg adj vt nn cl nn.
+*INV:	   À½ µf Ê\ Ğ.
+%mor:	    vd prt nnpr sfp.
+%com:	 long pause.
+*INV:	   Ú» ®Ñ ¦n ÉN &aa3 ?
+%mor:	    vt nn adj neg sfp.
+*CHI:	   ¿ú - ?
+%mor:	    nn .
+*CHI:	   ¿ú - ?
+%mor:	   nn .
+*CHI:	   ¿ú.
+%mor:	   nn.
+%exp:	 The child shows the investigator some coins.
+*INV:	   ¿ú &aa4 ?
+%mor:	    nn sfp.
+*INV:	   «§ ¿ú &aa3 ?
+%mor:	    wh nn sfp.
+*CHI:	   < ²@¤l> [/] ²@¤l.
+%mor:	    nn nn.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   ²@¤l &waa3.
+%mor:	    nn ex.
+*INV:	   ²@¤l &aa4 ?
+%mor:	    nn sfp.
+*INV:	   ¦³ ´X ¦h ²@¤l &aa3 ?
+%mor:	    vf wh adj nn sfp.
+*CHI:	   ²@¤l &waa3.
+%mor:	    nn ex.
+*CHI:	   ²@¤l ³Ş &aa3.
+%mor:	    nn ex sfp.
+*INV:	   ¤K ²@¤l &aa3.
+%mor:	    q nn sfp.
+*INV:	   ¥ò ¦³ ø «§Ï?
+%mor:	    advf vf cl wh.
+*CHI:	   ¿}.
+%mor:	    nn.
+*CHI:	   ¿} &aa3.
+%mor:	    nn sfp.
+*INV:	   ¦³ ´X ¦h ²É ¿} &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¤T ²É ¿}.
+%mor:	    q cl nn.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*CHI:	   < &gap &gap &gap> [/] &gap.
+%mor:	     xx  xx  xx  xx .
+*INV:	"   ""Johnny""."
+%mor:	    nnpp.
+*CHI:	   < &gap &gap> [/] &gap.
+%mor:	     xx  xx  xx .
+*INV:	   §Ú’] Ú» úï ©O ­Ó ¤p ªB¤Í.
+%mor:	    nnpr vt prt det cl adj nn.
+*INV:	   ¦³ ´X ¦h °¦ &aa3 ?
+%mor:	    vf wh adj cl sfp.
+*INV:	   §A Ú» úï Ê\.
+%mor:	    nnpr vt prt nnpr.
+*INV:	   §A Ú» úï Ê\ ¦³ ´X ¦h °¦ ¤â.
+%mor:	    nnpr vt prt nnpr vf wh adj cl nn.
+*INV:	   ¦³ ´X ¦h °¦ ¤â &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*INV:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¤@.
+%mor:	    q.
+*INV:	   ¤G.
+%mor:	    q.
+*INV:	   ¤T.
+%mor:	    q.
+*INV:	   ¥|.
+%mor:	    q.
+*CHI:	   < &aa3> [/] &aa3.
+%mor:	    ex ex.
+%exp:	 The child goes away.
+*CHI:	   < ¥´> [/].
+%mor:	    vt.
+*CHI:	   < ¥´> [/].
+%mor:	    vt.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*INV:	   ¥´ §¹.
+%mor:	    vt advm.
+*CHI:	   < ¥´> [/].
+%mor:	    vt.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*INV:	   ¥´ §¹.
+%mor:	    vt advm.
+*CHI:	   < ¥´> [/].
+%mor:	    vt.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*INV:	   ¥´ §¹ Ğ.
+%mor:	    vt advm sfp.
+%com:	 long pause.
+@Situation:	 The child goes inside his room and is looking into his toy box.
+*CHI:	   <xxx> [=! murmurs].
+*CHI:	   <xxx> [=! murmurs].
+*CHI:	   ü«.
+%mor:	    vt.
+*INV:	   ü« ¥X ‘Á &aa1.
+%mor:	    vt dir dir sfp.
+*INV:	   Á¾Á¾ ü« ¥X ‘Á ª± &aa1.
+%mor:	    nnpp vt dir dir vt sfp.
+%com:	 The child takes out a box.
+*CHI:	   < ü« ª±¨ã> [=! murmurs].
+%mor:	    vt nn.
+*CHI:	   xxx [=! murmurs].
+*CHI:	   < ª¯¥J> [=! murmurs].
+%mor:	    nn.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	   ª±¨ã.
+%mor:	    nn.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   xxx [=! murmurs].
+*INV:	   ©O ²° «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   ²°.
+%mor:	    nn.
+*INV:	   ©O ²° «§ ‘Á î?
+%mor:	    det cl wh sfp sfp.
+*CHI:	   ª±¨ã.
+%mor:	    nn.
+*INV:	   ª±¨ã &aa4 ?
+%mor:	    nn sfp.
+*INV:	   «Y «} ª±¨ã ‘Á î?
+%mor:	    vf neg nn sfp sfp.
+*CHI:	   ¼M [=! pours the toys from the box].
+%mor:	    ex.
+*INV:	   ¼M!
+%mor:	    ex .
+*INV:	   Ëİ ¦h &aa4 ?
+%mor:	   advi adj sfp.
+*CHI:	   ¦n ¦h &aa3.
+%mor:	    advi adj sfp.
+*INV:	   ¦n ¦h &aa3.
+%mor:	    advi adj sfp.
+*INV:	   §Ú’] ¬ä Ï &lok3 ¦n ÉN &aa3 ?
+%mor:	    nnpr vt nn sfp adj neg sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¬ä &lok3.
+%mor:	    vt sfp.
+*CHI:	   ¬ä.
+%mor:	    vt.
+*INV:	   ¬ä.
+%mor:	    vt.
+%exp:	 The investigator and the child play with the blocks.
+%com:	 long pause.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*INV:	   ·d ¿ù &aa4 ¤S?
+%mor:	    vt adj sfp advf.
+*SER:	   «Y «} ©j©j &aa3 ?
+%mor:	    vf neg nn sfp.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*SER:	"   ©O ­Ó «Y ©j©j &aa3, «Y «} &aa3 ?"
+%mor:	    det cl vf nn sfp vf neg sfp.
+*INV:	   Ê\ ©ğ ¥X ‘Á î?
+%mor:	    nnpr vt dir dir sfp.
+*SER:	   ­ø ª¾ &aa3.
+%mor:	    neg vt sfp.
+*INV:	   §Ú Ú» úï «Y «} ¥ı.
+%mor:	    nnpr vt prt vf neg advf.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ©O ­Ó §Ú î.
+%mor:	    det cl nnpr sfp.
+*INV:	   < §Ú ï> [/] §Ú ï.
+%mor:	    nnpr sfp nnpr sfp.
+*CHI:	   §Ú &e3.
+%mor:	    nnpr ex.
+*INV:	   ­ø¸Ó ®Í.
+%mor:	    ex prt.
+*SER:	   §Ú İ¯ ­Ë.
+%mor:	    nnpr vt ctc.
+*SER:	   ­ø ¨Ä.
+%mor:	    neg adj.
+*INV:	   §A ¬ä ºò ÉAÏ &aa3 ?
+%mor:	    nnpr vt asp wh sfp.
+*SER:	   ­¹ ­ø ­¹ Ï &aa3 ?
+%mor:	    vt neg vt nn sfp.
+%exp:	 The servant is asking the investigator.
+*INV:	   ­ø ¾p Ğ.
+%mor:	    neg aux sfp.
+*INV:	   ¬ä §¹ ¥¼ &aa3 ?
+%mor:	    vt advm neg sfp.
+%exp:	 The investigator is asking the child.
+*INV:	   ¬ä ÉAÏ &aa3 ?
+%mor:	    vt wh sfp.
+*CHI:	   ©O «× ¯Q &de4&de4 ¯Q &doeng1 <&doeng1> [>].
+%mor:	    det cl adj adj.
+*INV:	   < ¯Q&dek6> [<] &dek6.
+%mor:	    adj.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   Ëİ¼Ë ¬ä &aa4 ?
+%mor:	    advs vt sfp.
+*INV:	   ¤@»ô ¬ä &aa1 ¦n ¹À?
+%mor:	    advs vt sfp adj sfp.
+*INV:	   &laa3.
+%mor:	    ex.
+*INV:	   §Ú’] °« §Ö ¬ä.
+%mor:	    nnpr vt adj vt.
+*CHI:	   ©O «× ¬ä.
+%mor:	    det cl vt.
+*INV:	"   ¬ä ¬[ ¨® ¥X ‘Á  &aa1,  ¦n ÉN  &aa3 ?"
+%mor:	    vt cl nn dir dir sfp adj neg sfp.
+*CHI:	   < ¦n &e3> [/] ¦n &e3.
+%mor:	    adj ex adj ex.
+*INV:	   ¬ä ¬[ ¨® ¥X ‘Á  &lok3.
+%mor:	    vt cl nn dir dir sfp.
+*INV:	   ¬ä ¬[ ¨®.
+%mor:	    vt cl nn.
+*INV:	   ­ø «Y.
+%mor:	    neg vf.
+*INV:	   ¬ä ÷ °¦ ª¯.
+%mor:	    vt asp cl nn.
+*CHI:	   ª¯ &aa3.
+%mor:	    nn sfp.
+*INV:	   ¬ä ÷ °¦ &wou1&wou1 ª¯.
+%mor:	    vt asp cl nn nn.
+%exp:	 The child pours more Lego blocks out from the box.
+*INV:	   ³Ş.
+%mor:	    ex .
+*INV:	   §A ­ø ¦n ­Ë ®Í ¥X ‘Á ¦Ü ±o í.
+%mor:	   nnpr neg adj vt prt dir dir advf ctc sfp.
+*INV:	   ­ø¸Ó ®Í.
+%mor:	    ex prt.
+*INV:	   ¬ä ¬[ ¨®¥J &laa1 §Ú’].
+%mor:	    vt cl nn sfp nnpr.
+*CHI:	   < ¿ú> [/] ¿ú.
+%mor:	    nn nn.
+%exp:	 The child found a coin among the Lego blocks.
+*INV:	   ¦hÁÂ.
+%mor:	    ex.
+*CHI:	   ¦hÁÂ.
+%mor:	    ex.
+*CHI:	   < §Ú &jaa1> [/] §Ú &jaa1.
+%mor:	    nnpr ex nnpr ex.
+*INV:	   ­Ú §Ú &aa1.
+%mor:	    prep nnpr sfp.
+*CHI:	   < «u> [=! murmurs].
+%mor:	    ex.
+*CHI:	   < «u> [=! murmurs].
+%mor:	    ex.
+*CHI:	   < «u> [=! murmurs].
+%mor:	    ex.
+*CHI:	   < §Ú &ge3> [=! murmurs].
+%mor:	    nnpr sfp.
+*INV:	   ­Ú §Ú ±o ­ø ±o &aa3 ?
+%mor:	    vd nnpr ctc neg ctc sfp.
+*INV:	   §A ¦³ ¿ú.
+%mor:	    nnpr vf nn.
+*INV:	   ­Ú §Ú ±o ­ø ±o &aa3 ?
+%mor:	    vd nnpr ctc neg ctc sfp.
+*CHI:	   §Ú ¿ú.
+%mor:	    nnpr nn.
+*INV:	   ­Ú §Ú &aa1.
+%mor:	    vd nnpr sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   ÉN «§?
+%mor:	    neg sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	"   §A ¦¬ ®I ÷, «Y «}?"
+%mor:	    nnpr vt prt asp vf neg.
+*INV:	   ü« ¬[ ¨®¨® ¦P §A ´«  &aa1.
+%mor:	    vt cl nn prep nnpr vt sfp.
+*INV:	   ±o ­ø ±o?
+%mor:	    ctc neg ctc.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   ÉN &aa4 ?
+%mor:	    neg sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   Ëİ §Ú’] Ä~Äò ¬ä &lok3.
+%mor:	    advs nnpr vt vt sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   §Ú ü« ÷.
+%mor:	    nnpr vt asp.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*CHI:	   «u–ï.
+%mor:	    ex.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   ¶^ ®Í ø ¤H &laa3.
+%mor:	    vt prt cl nn sfp.
+*CHI:	   «u–ï.
+%mor:	    ex.
+%com:	 long pause.
+*INV:	   §A ¬ä ÷ ø ÉAÏ ¥X ‘Á &aa3 ?
+%mor:	    nnpr vt asp cl wh dir dir sfp.
+*CHI:	0
+*CHI:	   < ¼M> [/] ¼M.
+%mor:	    ex ex.
+*CHI:	   &ji3.
+%mor:	    ex.
+*INV:	   «§ ‘Á î §A ¬ä ø?
+%mor:	    wh sfp sfp nnpr vt cl.
+*CHI:	   0 [=! drops some blocks].
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   §A ¶^ ®Í Ğ.
+%mor:	    nnpr vt prt sfp.
+*INV:	   §Ö ø °õ µf Ê\.
+%mor:	    adj com vt prt nnpr.
+*INV:	   «u–ï.
+%mor:	    ex.
+*INV:	   < ¶^ ®Í Ğ> [/] ¶^ ®Í Ğ.
+%mor:	    vt prt sfp vt prt sfp.
+%exp:	 The investigator and the child pick up the blocks.
+*INV:	   «Y «} ­Ë ªdÀY ¨® &aa3 ?
+%mor:	    vf neg vt nn nn sfp.
+*CHI:	0
+*INV:	   «Y «} &aa3 ?
+%mor:	    vf neg sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*CHI:	   ­Ë ¨®¨®.
+%mor:	    vt nn.
+*INV:	   < ­Ë ¨®¨® &aa4 ? > [>]
+%mor:	    vt nn sfp .
+*INV:	   <«Y «}> [>] +/.
+%mor:	   vf neg.
+*CHI:	   < ­Ë - ?> [<]
+%mor:	    vt .
+*CHI:	   <­Ë - ?> [<]
+%mor:	   vt .
+*CHI:	   <­Ë> [<] - ?
+%mor:	   vt.
+*INV:	   < ­Ë - ? > [>]
+%mor:	    vt .
+*INV:	   <­Ë - ?> [>]
+%mor:	   vt .
+*INV:	   <­Ë> [>] - ?
+%mor:	   vt.
+*CHI:	   < ­Ë> [<] - ?
+%mor:	    vt.
+*INV:	   ­Ë ¥h Ãä &aa3 ?
+%mor:	    vt dir wh sfp.
+*CHI:	   < ­Ë> [/].
+%mor:	    vt.
+*CHI:	   < ­Ë> [/] ­Ë.
+%mor:	    vt vt.
+*INV:	   ­Ë ¥h Ãä«× ¦Ü ±o í?
+%mor:	    vt dir wh advf ctc sfp.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*CHI:	   ¨®.
+%mor:	    nn.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*CHI:	   < ­Ë - ?> [/]
+%mor:	    vt .
+*CHI:	   <­Ë - ?> [/]
+%mor:	   vt .
+*CHI:	   <­Ë - ?> [/]
+%mor:	   vt .
+*CHI:	   <­Ë - ?> [/]
+%mor:	   vt .
+*CHI:	   ­Ë - ?
+%mor:	   vt.
+%com:	 long pause.
+*INV:	   ¨® ¥h Ãä«× &aa3 §A ¬[ ¨®?
+%mor:	    nn dir wh sfp nnpr cl nn.
+*CHI:	   ©O «×.
+%mor:	    det cl.
+*INV:	   ©O «×.
+%mor:	    det cl.
+*INV:	   ¦³ Ëİ ¦h ¤H.
+%mor:	    vf advi adj nn.
+*INV:	   ·R ‘Á °µ «§ î ø ¤H?
+%mor:	    vt dir vt wh sfp cl nn.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ·R ‘Á °µ «§ î ø ¤H?
+%mor:	    vt dir vt wh sfp cl nn.
+*INV:	   ÂI ª± î?
+%mor:	    wh vt sfp.
+*CHI:	   < ­Ú ¿ú &aa3> [/] ­Ú ¿ú &aa3.
+%mor:	    vd nn sfp vd nn sfp.
+*CHI:	   xxx ¿ú.
+%mor:	    nn.
+*INV:	   ¦³ ÉN ¿ú &aa3 §A?
+%mor:	    vf neg nn sfp nnpr.
+*INV:	   §A ¦³ ÉN ¿ú &aa3 ?
+%mor:	    nnpr vf neg nn sfp.
+*INV:	   §A ­Ó ³U «Y «}< ¦³ ­Ó ¿ú î> [>]?
+%mor:	    nnpr cl nn vf neg vf cl nn sfp.
+*CHI:	   < ©O> [<] +/.
+%mor:	    det.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*INV:	   §Ú’] ¦© ¦í Ê\.
+%mor:	    nnpr vt asp nnpr.
+*CHI:	   < &hai1> [/] &hai1.
+%mor:	    ex ex.
+*INV:	   ­ø ±o Ğ §A.
+%mor:	    neg ctc sfp nnpr.
+*INV:	   < ¦© ¿ù ÷ Ğ> [/] ¦© ¿ù ÷ Ğ.
+%mor:	    vt adj asp sfp vt adj asp sfp.
+*CHI:	   xxx.
+*INV:	   ¦© ¿ù ÷.
+%mor:	    vt adj asp.
+*CHI:	   xxx.
+*INV:	   ¦© ¿ù ÷.
+%mor:	    vt adj asp.
+*INV:	   §A ¬[ ¨®¨® ¥h ÷ Ãä  &aa3 ?
+%mor:	    nnpr cl nn dir asp wh sfp.
+*CHI:	0
+*INV:	   ¨®¨® ©O?
+%mor:	    nn sfp.
+*CHI:	   Â\ ©O «×.
+%mor:	    vd det cl.
+*INV:	   °õ µf ¤W ‘Á ­¹ &lo1.
+%mor:	    vt prt dir dir vt sfp.
+*INV:	   xxx.
+%exp:	 The child drops the blocks again.
+*INV:	   ¤S ¶^ ®Í Ğ.
+%mor:	    advf vt prt sfp.
+*INV:	   §Ö ø °õ µf ¤W ‘Á.
+%mor:	    adj com vt prt dir dir.
+%com:	 long pause.
+*CHI:	   °õ.
+%mor:	    vt.
+*CHI:	   õ «×.
+%mor:	    det cl.
+*INV:	   °µ ÉAÏ?
+%mor:	    vt wh.
+*CHI:	   õ «× &aa3.
+%mor:	    det cl sfp.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*CHI:	   xxx.
+*INV:	   ­Ú §Ú &aa4 ?
+%mor:	    vd nnpr sfp.
+*CHI:	   ­Ú §A.
+%mor:	    vd nnpr.
+*INV:	   ­Ú §Ú &aa4 ?
+%mor:	    vd nnpr sfp.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   §A ¬ä ºò «§ &aa3 ?
+%mor:	    nnpr vt asp wh sfp.
+*CHI:	   xxx.
+*CHI:	   &aa1.
+%mor:	    ex.
+*CHI:	   ¨®¨® &aa3.
+%mor:	    nn sfp.
+*CHI:	   ª± ¤d¬î &aa3.
+%mor:	    vt nn sfp.
+*INV:	   ¥´ ¤d¬î &aa4 ?
+%mor:	    vt nn sfp.
+*CHI:	   ¼M!
+%mor:	    ex.
+*CHI:	   ª± ¤d¬î &aa3.
+%mor:	    vt nn sfp.
+*CHI:	   ª± &e1.
+%mor:	    vt ex.
+*CHI:	   ª± ¤d¬î &aa3.
+%mor:	    vt nn sfp.
+*CHI:	   ª± &e3.
+%mor:	    vt ex.
+*CHI:	   ª± ¤d¬î &aa3.
+%mor:	    vt nn sfp.
+*INV:	   ¥h Ãä«× ª± &aa3 ?
+%mor:	    dir wh vt sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¥h õ «× &aa3.
+%mor:	    dir det cl sfp.
+*INV:	   ª± &aa4 ?
+%mor:	    vt sfp.
+*INV:	   ÂI ª± &aa3 ?
+%mor:	    wh vt sfp.
+*INV:	   ª± ¤d¬î &aa3.
+%mor:	    vt nn sfp.
+*CHI:	   xxx.
+*CHI:	   ª± xxx.
+%mor:	    vt.
+*INV:	   ª± ¤d¬î.
+%mor:	    vt nn.
+*CHI:	   < &hi1> [/].
+%mor:	    ex.
+*CHI:	   < &hi1> [/] &hi1.
+%mor:	    ex ex.
+*INV:	   ª± §¹ ¥¼ &aa3 ?
+%mor:	    vt advm neg sfp.
+*CHI:	   ª± §¹.
+%mor:	    vt advm.
+*INV:	   ª± §¹.
+%mor:	    vt advm .
+*INV:	   ¥ò ª± ­ø ª±?
+%mor:	   advf vt neg vt.
+*CHI:	   ª±.
+%mor:	    vt.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ª±.
+%mor:	    vt.
+*CHI:	   ª±.
+%mor:	    vt.
+*CHI:	    &ji3: &dap3.
+%mor:	    ex  xx .
+*CHI:	   ª± §¹.
+%mor:	    vt advm.
+*INV:	   ª± §¹.
+%mor:	    vt advm.
+*CHI:	   ª± §¹.
+%mor:	    vt advm.
+*INV:	   ª± §¹.
+%mor:	    vt advm.
+*INV:	   ·d ¿ù &aa3.
+%mor:	    vt adj sfp.
+*CHI:	   ·d # ¿ù &aa3 &aa3.
+%mor:	    vt adj sfp sfp.
+*INV:	   ·d ¿ù.
+%mor:	    vt adj.
+*INV:	   §A Ú» úï.
+%mor:	    nnpr vt prt.
+*INV:	   ¦³ ºw ¤ô Ø{.
+%mor:	    vf cl nn sfp.
+*INV:	   ¦³ ¤ô &aa3.
+%mor:	    vf nn sfp.
+*INV:	   «Y «} ¦³ ºw ¤ô &aa3 ?
+%mor:	    vf neg vf cl nn sfp.
+*CHI:	   &jit3.
+%mor:	    ex.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+*CHI:	0
+%com:	 long pause.
+*INV:	"   §Ú’] # ¤J ¥h ª± &aa1, ¦n ÉN &aa3 ?"
+%mor:	    nnpr dir dir vt sfp adj neg sfp.
+%exp:	 The investigator goes into the child's room.
+*INV:	   < ¤J ‘Á &aa1 > [/].
+%mor:	    dir dir sfp .
+*INV:	   <¤J ‘Á &aa1> [/].
+%mor:	   dir dir sfp .
+*INV:	   <¤J ‘Á &aa1> [/].
+%mor:	   dir dir sfp .
+*INV:	   <¤J ‘Á &aa1> [/] ¤J ‘Á &aa1.
+%mor:	   dir dir sfp dir dir sfp.
+%exp:	 The child follows the investigator.
+*INV:	   ¦º ®Í.
+%mor:	    verg prt.
+*CHI:	   ¦º ®Í.
+%mor:	    verg prt.
+*INV:	   Ãä ­Ó Á¿ ºò ¹q¸Ü &aa3 ?
+%mor:	    wh cl vt asp nn sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   Ãä ­Ó Á¿ ºò ¹q¸Ü &aa3 ö ¥X«K?
+%mor:	    wh cl vt asp nn sfp vf nnloc.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   «Y «} ¨È¥P &aa3 ?
+%mor:	    vf neg nnpp sfp.
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.
+%mor:	    det cl det cl.
+*INV:	   ©O ­Ó «§ ®A?
+%mor:	    det cl wh sfp.
+*CHI:	   ¥´ - ?
+%mor:	    vt.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*CHI:	   ¨â ­Ó &e1.
+%mor:	    q cl ex.
+*CHI:	   xxx [=! murmurs].
+*INV:	   §A ¸ò §Ú Á¿ &aa1 &laa4.
+%mor:	    nnpr vt nnpr vt sfp sfp.
+*CHI:	   xxx.
+*CHI:	   ³Ş.
+%mor:	    ex.
+*CHI:	   < ¥[ ªo> [/] ¥[ ªo.
+%mor:	    vt nn vt nn.
+*INV:	   ¥[ ªo  &aa4 ?
+%mor:	    vt nn sfp.
+*INV:	   §A ¸ò §Ú Á¿.
+%mor:	    nnpr vt nnpr vt.
+*INV:	   ¤@ ¤G ¤T ¥| ¤­ ¤».
+%mor:	    q q q q q q.
+*CHI:	   ¤».
+%mor:	    q.
+*INV:	   §A ¸ò §Ú Á¿ &aa1.
+%mor:	    nnpr vt nnpr vt sfp.
+*INV:	   ¤@ ¤G ¤T ¥| ¤­ ¤».
+%mor:	    q q q q q q.
+*CHI:	   ¤T # ¤­ ¤».
+%mor:	    q q q.
+*INV:	   §A ·Q ÂI &aa3 ?
+%mor:	    nnpr vt wh sfp.
+*INV:	   ¥´ î &laa3.
+%mor:	    vt sfp sfp.
+*CHI:	   < ¥´> [/] ¥´.
+%mor:	    vt vt.
+*INV:	   < éö > [/].
+%mor:	    vt .
+*INV:	   <éö> [/].
+%mor:	   vt .
+*INV:	   <éö> [/] éö.
+%mor:	       vt vt.
+*CHI:	   < éö> .
+%mor:	    vt.
+*CHI:	   < éö> [/] éö.
+%mor:	    vt vt.
+*INV:	   < ³Ş> [/] ³Ş.
+%mor:	    ex ex.
+*INV:	   ­ø ­ã ·d.
+%mor:	    neg vt vt.
+*INV:	   Ãä ­Ó Ô ©O «× î?
+%mor:	    wh cl vi det cl sfp.
+*CHI:	   §Ú &je3.
+%mor:	    nnpr sfp.
+*INV:	"   ¨ÈÁ¾Á¾ &aa3, Ãä ­Ó Ô ©O «× &aa3 ?"
+%mor:	    nnpp sfp wh cl vi det cl sfp.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*CHI:	   < ¦n è°> [=! gets excited reading a car catalogue]!
+%mor:	    advi adj.
+*CHI:	   < ¦n è°> [/] ¦n è° [=! gets excited reading a car catalogue]!
+%mor:	    advi adj advi adj.
+*INV:	   ¦n è° &aa4 ?
+%mor:	    advi adj sfp.
+*INV:	   Ú» úï è° ­ø è° ¥ı.
+%mor:	    vt prt adj neg adj advf.
+*INV:	   ¦³ ÉN ñF &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   ©O ­Ó [=! points].
+%mor:	    det cl.
+*INV:	   ¦³ ´X ¦h ­Ó ¨®ñF &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+%com:	 The child ignores the investigator.
+*INV:	   ¤S İ¯ ÉAÏ &aa3 ¤µ ¦¸?
+%mor:	    advf vt wh sfp det cl.
+*CHI:	   ª± ª±¨ã.
+%mor:	    vt nn.
+*CHI:	   ª± ª±¨ã &aa3.
+%mor:	    vt nn sfp.
+*CHI:	   xxx.
+*INV:	   ¥h ÷ Ãä &aa3 ùØ«K ø Ï?
+%mor:	    dir asp wh sfp nnloc cl nn.
+*INV:	   ª± ©O ­Ó &aa1 ¦n ÉN &aa3 ?
+%mor:	    vt det cl sfp adj neg sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¥ò ¦³ ÉN &aa3 ¨ä¥L õ ø?
+%mor:	    advf vf neg sfp adj det cl.
+*INV:	   ÉN ®Í ï - ?
+%mor:	    neg prt sfp.
+*INV:	   §A İ¯ úï ¥ò ¦³ ÉN ¨ä¥L.
+%mor:	    nnpr vt prt advf vf neg adj.
+%exp:	 The child searches for the keys.
+*CHI:	   xxx.
+*INV:	   §A ¤J ¸¨ ¥h &aa1.
+%mor:	    nnpr dir dir dir sfp.
+*CHI:	   ¤J.
+%mor:	    dir.
+*INV:	   §A ÃÑ ­ø ÃÑ &aa1 ?
+%mor:	    nnpr vt neg vt sfp.
+%exp:	 The investigator inserts one.
+*INV:	   ¨ì §A Ğ.
+%mor:	    vt nnpr sfp.
+*CHI:	   < ¨ì ©j©j> [/] ¨ì ©j©j.
+%mor:	    vt nn vt nn.
+*CHI:	   < ¨ì> [>] +/.
+%mor:	    vt.
+*INV:	   < ¨ì Ãä ­Ó> [<] &aa3 ?
+%mor:	    vt wh cl sfp.
+*INV:	   ¨ì Ãä ­Ó ª± &aa3 ?
+%mor:	    vt wh cl vt sfp.
+*CHI:	   < ¨ì ©j©j> [/] ¨ì ©j©j.
+%mor:	    vt nn vt nn.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   §Ú ª± &laa1.
+%mor:	    nnpr vt sfp.
+*CHI:	   §A ª±.
+%mor:	    nnpr vt.
+*INV:	"   &ji3, ­ø ±o ï."
+%mor:	    ex neg ctc sfp.
+*INV:	   < &ji3> [/] &ji3.
+%mor:	    ex ex.
+*INV:	   ­ø ±o Ø{.
+%mor:	    neg ctc sfp.
+*CHI:	   < ±o> [/] ±o.
+%mor:	    ctc ctc.
+*INV:	"   ¤£¦p §Ú’] µe µe &aa1, ¦n ÉN &aa3 ?"
+%mor:	    advs nnpr vt nn sfp adj neg sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*CHI:	   µe.
+%mor:	    vt.
+*INV:	   µe µe.
+%mor:	    vt nn.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ¦n &aa3.
+%mor:	    adj sfp.
+*CHI:	   µe.
+%mor:	    vt.
+*CHI:	   Äê ÷ xxx.
+%mor:	    verg asp.
+*INV:	   ­ø ºò­n ï.
+%mor:	    neg adj sfp.
+*INV:	   ¾ã ¤@ ¾ã ´N ±o î Ğ.
+%mor:	    vt q vt advf ctc sfp sfp.
+*INV:	   ÉN ¨Æ.
+%mor:	    neg nn.
+*CHI:	   ÉN ¨Æ.
+%mor:	    neg nn.
+*INV:	   µe µe ­n ¥Î «§ µe &aa3 ?
+%mor:	    vt nn vt vt wh vt sfp.
+*INV:	   ©O ªK «Y «§ ‘Á î?
+%mor:	    det cl vf wh sfp sfp.
+*CHI:	   ªK µ§.
+%mor:	    cl nn.
+*INV:	   ªK µ§.
+%mor:	    cl nn.
+*INV:	   ¦³ ´X ¦h ªK &aa3 ?
+%mor:	    vf wh adj cl sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¨â ­Ó «§ &aa3 ?
+%mor:	    q cl wh sfp.
+*CHI:	   ¨â ­Ó &aa3.
+%mor:	    q cl sfp.
+*INV:	   ¨â ­Ó «§Ï ¦Ü ±o í?
+%mor:	    q cl wh advf ctc sfp.
+*INV:	   ¨â ­Ó ªK µ§.
+%mor:	    q cl cl nn.
+%com:	 The investigator draws.
+*CHI:	   &e1.
+%mor:	    ex.
+*CHI:	   &e1.
+%mor:	    ex.
+*CHI:	   µe.
+%mor:	    vt.
+*INV:	   ¦n Ğ.
+%mor:	    adj sfp.
+*INV:	   ¸ò¦í µe ÉAÏ ¦n &aa3 ?
+%mor:	    advs vt wh adj sfp.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   µe ©O ¬[.
+%mor:	    vt det cl.
+*INV:	   Äê ÷ &aa3.
+%mor:	    verg asp sfp.
+*INV:	   µe ©O «× &aa1.
+%mor:	    vt det cl sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	   ¯º.
+%mor:	    vi.
+*CHI:	   &tiu3.
+%mor:	    vi.
+*CHI:	   §Ú &tiu3.
+%mor:	    nnpr vi.
+%exp:	" ""¯º"" is pronounced as ""&tiu3"" by the child."
+*INV:	   ¦n¯º.
+%mor:	    adj.
+*INV:	   «Y «} Á¾Á¾ ‘Á î?
+%mor:	    vf neg nnpp sfp sfp.
+*CHI:	0
+*INV:	   Á¾Á¾ ‘Á ï.
+%mor:	    nnpp sfp sfp.
+*CHI:	   Á¾Á¾ ‘Á.
+%mor:	    nnpp sfp.
+*INV:	   Á¾Á¾ ‘Á ï.
+%mor:	    nnpp sfp sfp.
+*INV:	   Á¾Á¾.
+%mor:	    nnpp.
+*CHI:	   Á¾Á¾.
+%mor:	    nnpp.
+*INV:	   ¦A µe ÉAÏ ¦n &aa3 ?
+%mor:	    advf vt wh adj sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   < ¨ì §A µe> [>].
+%mor:	    vt nnpr vt.
+*CHI:	   < µe> [<] +/.
+%mor:	    vt.
+*CHI:	   ©j©j - ?
+%mor:	    nn.
+%exp:	 The child draws.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ¦n Ğ.
+%mor:	    adj sfp.
+*INV:	   ¨ì+...
+%mor:	    ctc.
+*INV:	   ¦Ó®a µe ÉAÏ ¦n &aa3 ?
+%mor:	    advs vt wh adj sfp.
+*CHI:	   ©j©j.
+%mor:	    nn.
+*INV:	   µe ÉAÏ ¦n &aa3 ?
+%mor:	    vt wh adj sfp.
+*CHI:	   µe< ¤Ú> [/] ¤Ú¤h.
+%mor:	    vt nn nn.
+*INV:	   µe ¤Ú¤h.
+%mor:	    vt nn.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*CHI:	   µe.
+%mor:	    vt.
+*CHI:	   µe ñF.
+%mor:	    vt nn.
+*INV:	   ¨®ñF.
+%mor:	    nn.
+*CHI:	   ñF.
+%mor:	    nn.
+*INV:	   «Y «} ¤Ú¤h &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   ¤Ú¤h µe.
+%mor:	    nn vt.
+*INV:	   < ¸ò¦í µe> [>] +/.
+%mor:	    advs vt.
+*CHI:	   < ¨®> [<].
+%mor:	    nn.
+*INV:	   ­ø ¦n µe ¤Ú¤h Ğ.
+%mor:	    neg adj vt nn sfp.
+*INV:	   µe ­Ó # «§ ¦n &aa3 ?
+%mor:	    vt cl wh adj sfp.
+*CHI:	   ¨®.
+%mor:	    nn.
+*INV:	   µe ­Ó ¨ß¥J &aa1.
+%mor:	    vt cl nn sfp.
+*CHI:	   ¨ß¥J &aa1.
+%mor:	    nn sfp.
+*CHI:	   &miu1 &aa3.
+%mor:	    nn sfp.
+*INV:	   µe ¨ß¥J &aa1 Ğ.
+%mor:	    vt nn sfp sfp.
+*CHI:	   < ªº¤h - ? > [<]
+%mor:	    nn .
+*CHI:	   <ªº¤h - ?> [<]
+%mor:	   nn .
+*CHI:	   <ªº¤h> [<] ªº¤h - ?
+%mor:	   nn nn.
+%exp:	 The child wants the investigator to draw a taxi.
+*INV:	   ­ø µe ªº¤h.
+%mor:	    neg vt nn.
+*INV:	   µe ¨ß¥J.
+%mor:	    vt nn.
+*CHI:	   µe xxx.
+%mor:	    vt.
+%exp:	 The investigator draws.
+*INV:	   «Y «} ¨ß¥J &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   xxx [=! mumbles].
+*INV:	   ¸ò¦í µe ÉAÏ &aa3 ?
+%mor:	    advs vt wh sfp.
+*CHI:	   xxx [=! mumbles].
+*INV:	   ¨ì §A µe Ğ.
+%mor:	    vt nnpr vt sfp.
+*INV:	   §A ¥Î ©O °¦ ¤â ü¶ &aa1.
+%mor:	    nnpr vt det cl nn vt sfp.
+*INV:	   ©O °¦ ¤â ü¶.
+%mor:	    det cl nn vt.
+%exp:	 The child draws.
+*CHI:	   ¼M.
+%mor:	    ex.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦nÏ.
+%mor:	    ex.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   µe ÷ &laa1.
+%mor:	    vt asp sfp.
+*INV:	   ¦A µe &aa1.
+%mor:	    advf vt sfp.
+*CHI:	   µe ÷.
+%mor:	    vt asp.
+*INV:	   µe ­Ó ¶ê§Î ±o ­ø ±o?
+%mor:	    vt cl nn ctc neg ctc.
+*CHI:	   ±o.
+%mor:	    ctc.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*CHI:	   µe ÷.
+%mor:	    vt asp.
+*INV:	   < §A µe> [>] ©j©j &aa1.
+%mor:	    nnpr vt nn sfp.
+*CHI:	   < µe> [<] +/.
+%mor:	    vt.
+%exp:	 The child draws.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   «Y «} ©j©j &aa3 ©O ­Ó?
+%mor:	    vf neg nn sfp det cl.
+*CHI:	   ©j©j.
+%mor:	    nn.
+*INV:	   < «Y Ğ> [>].
+%mor:	    vf sfp.
+*CHI:	   < Á¾Á¾> [<].
+%mor:	    nnpp.
+*INV:	   µe Á¾Á¾ &aa1 ¸ò¦í.
+%mor:	    vt nnpp sfp advs.
+*INV:	   µe §¹ ¥¼?
+%mor:	    vt advm neg.
+*CHI:	0
+*INV:	   ¤@«Y< µe °¦> [/] µe °¦ &miu1&miu1 &aa1.
+%mor:	    advs vt cl vt cl nn sfp.
+*INV:	   §Ú ‘Á.
+%mor:	    nnpr sfp.
+*INV:	   §Ú ‘Á &aa1.
+%mor:	    nnpr sfp sfp.
+*CHI:	   &ji3:.
+%mor:	    ex.
+*CHI:	   xxx.
+*INV:	   ÉN ®Í.
+%mor:	    neg prt.
+*CHI:	   ÉN.
+%mor:	    neg.
+*CHI:	   µe.
+%mor:	    vt.
+*CHI:	   µe ©j©j.
+%mor:	    vt nn.
+*INV:	   Ãä ­Ó µe &aa3 ?
+%mor:	    wh cl vt sfp.
+*CHI:	   µe ©j©j.
+%mor:	    vt nn.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   §A µe ©j©j &aa1.
+%mor:	    nnpr vt nn sfp.
+*CHI:	   ©j©j - ?
+%mor:	    nn.
+*CHI:	   ªº¤h.
+%mor:	    nn.
+*INV:	   §Ú µe ªº¤h &aa4 ?
+%mor:	    nnpr vt nn sfp.
+*CHI:	   µe.
+%mor:	    vt.
+*INV:	   §A µe ªº¤h &aa1.
+%mor:	    nnpr vt nn sfp.
+%com:	 long pause.
+*CHI:	   < &miu1> [/] &miu1.
+%mor:	    nn.
+*INV:	"   ¤£¦p §Ú’] ¼Æ úï ©O «× ¦³ ´X ¦h ­Ó ÁK &aa1, ¦n ÉN &aa3 ?"
+%mor:	    advs nnpr vt prt det cl vf wh adj cl nn sfp adj neg sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   ¤S ¨â ­Ó - ?
+%mor:	    advf q cl.
+*INV:	   ©O «× ±o ¨â ­Ó.
+%mor:	    det cl vt q cl.
+%exp:	 The child draws again.
+*INV:	   µe §¹ ¥¼?
+%mor:	    vt advm neg.
+*CHI:	   µe §¹.
+%mor:	    vt advm.
+*INV:	   ¨ì Ãä ­Ó µe ¤µ¦¸?
+%mor:	    vt wh cl vt advs.
+*INV:	   Ãä ­Ó µe?
+%mor:	    wh cl vt.
+*CHI:	0
+*INV:	   Á¾Á¾ µe ©w ©j©j µe?
+%mor:	    nnpp vt conj nn vt.
+*CHI:	   ©j©j µe.
+%mor:	    nn vt.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   ©j©j µe «§ ¦n &aa3 ?
+%mor:	    nn vt wh adj sfp.
+*CHI:	   ¨®.
+%mor:	    nn.
+*CHI:	   ªº¤h - ?
+%mor:	    nn.
+*INV:	   ªº¤h - ?
+%mor:	    nn.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*CHI:	   ªº¤h.
+%mor:	    nn.
+*INV:	   ªº¤h.
+%mor:	    nn.
+*CHI:	   ÉN ñF.
+%mor:	    neg nn.
+*INV:	   &m2 - ?
+%mor:	    ex.
+*CHI:	   Äê ÷ &je3.
+%mor:	    verg asp sfp.
+*INV:	   Äê ÷ &aa4 ?
+%mor:	    verg asp sfp.
+*INV:	   Ãä«× Äê ÷ &aa3 ?
+%mor:	    wh verg asp sfp.
+*INV:	   ªº¤h.
+%mor:	    nn.
+%exp:	 The investigator draws a taxi.
+*CHI:	   < ªº¤h> [/] ªº¤h.
+%mor:	    nn nn.
+*INV:	   «Y «} ªº¤h &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   < ©O ¬[> [=! points].
+%mor:	    det cl.
+*CHI:	   < ªº¤h> [=! points].
+%mor:	    nn.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   ±o Ğ.
+%mor:	    ctc sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¸ò¦í Ãä ­Ó µe?
+%mor:	    advs wh cl vt.
+*CHI:	   &e3.
+%mor:	    ex.
+*INV:	   Á¾Á¾ µe ©w ©j©j µe?
+%mor:	    nnpp vt conj nn vt.
+*CHI:	   < &e3> [/] &e3.
+%mor:	    ex ex.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	   Á¾Á¾ µe ¦n ÉN?
+%mor:	    nnpp vt adj neg.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	   Á¾Á¾ µe.
+%mor:	    nnpp vt.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	   Á¾Á¾ µe ¤Ú¤h &aa1.
+%mor:	    nnpp vt nn sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	"   &laa4, §Ú ü¶ ¦í §A °¦ ¤â ¤@»ô µe Ğ, ¦n ¹À?"
+%mor:	    ex nnpr vt asp nnpr cl nn advs vt sfp adj sfp.
+%exp:	 The investigator holds the child's hand and draws.
+*CHI:	   &ji3.
+%mor:	    ex.
+*INV:	   ­ø «Y Ëİ¼Ë.
+%mor:	    neg vf advs.
+*INV:	   ¤Ú¤h õ ¨­ &aa1.
+%mor:	    nn det nn sfp.
+*INV:	   «Y «} &aa3 ?
+%mor:	    vf neg sfp.
+*INV:	   µe ­Ó ñF.
+%mor:	    vt cl nn.
+*INV:	   ¤@ ­Ó ñF.
+%mor:	    q cl nn.
+*INV:	   ¥ò ¦³ ©O?
+%mor:	    advf vf sfp.
+*INV:	   ¨â ­Ó ñF.
+%mor:	    q cl nn.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	   ñF «Y «} Ëİ¼Ë î?
+%mor:	    nn vf neg advs sfp.
+*INV:	   Ëİ ï.
+%mor:	    advs sfp.
+*INV:	   ¦n Ğ.
+%mor:	    adj sfp.
+*INV:	   µe ­Ó ªù.
+%mor:	    vt cl nn.
+*INV:	   «Y «} ¤Ú¤h &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   ¤Ú¤h µe.
+%mor:	    nn vt.
+*INV:	   §Ú ¾ã &laa1.
+%mor:	    nnpr vt sfp.
+*INV:	   §A ¾ã.
+%mor:	    nnpr vt.
+*INV:	   ±o Ğ.
+%mor:	    ctc sfp.
+*INV:	   ©j©j À° §A ¾ã ¦n ÉN &aa3 ?
+%mor:	    nn vt nnpr vt adj neg sfp.
+%exp:	 The investigator helps the child wipe off the drawings.	
+*INV:	   ±o Ğ.	
+%mor:	    ctc sfp.	
+*CHI:	   ©O ­Ó.	
+%mor:	    det cl.	
+*INV:	   Äê ÷ &lo1	.
+%mor:	    verg asp sfp.	
+*CHI:	   < ©O ­Ó> [/] ©O ­Ó.	
+%mor:	    det cl det cl.	
+*CHI:	   ªº¤h - ?	
+%mor:	    nn.	
+*INV:	   ¤S ªº¤h - ?
+%mor:	    advf nn.
+*INV:	   µe ²Ä ¼Ë &laa1.
+%mor:	    vt det cl sfp.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	   µe ²Ä ¼Ë.
+%mor:	    vt det cl.
+*CHI:	   &e3.
+%mor:	    ex.
+*CHI:	   µe ©j©j.
+%mor:	    vt nn.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	"   µe ¤ë¥ú¥ú &aa1, ÃÑ ­ø ÃÑ &aa3 ?"
+%mor:	    vt nn sfp vt neg vt sfp.
+*CHI:	0
+*CHI:	   < µe ¨®¨®> [/] µe ¨®¨®.
+%mor:	    vt nn vt nn.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   µe ¨®¨® &laa1.
+%mor:	    vt nn sfp.
+%com:	 long pause.
+*CHI:	   «§ &aa3 ?
+%mor:	    wh sfp.
+*INV:	   ­ø «Y ï.
+%mor:	    neg vf sfp.
+*INV:	   ³£ ­ø «Y ¨®¨® ‘Á ï.
+%mor:	    advf neg vf nn sfp sfp.
+*CHI:	   ü¶ ¨® &aa3.
+%mor:	    vt nn sfp.
+*INV:	   ü¶ ¨®.
+%mor:	    vt nn.
+*INV:	   §A ÃÑ ­ø ÃÑ ü¶ ¨® &aa3 ?
+%mor:	    nnpr vt neg vt vt nn sfp.
+*CHI:	   ü¶ ¨®.
+%mor:	    vt nn.
+*INV:	   &ji3.
+%mor:	    ex.
+*CHI:	   ü¶ ¨®.
+%mor:	    vt nn.
+*INV:	   §A ÃÑ ­ø ÃÑ &aa1 ?
+%mor:	    nnpr vt neg vt sfp.
+%exp:	 The child tries to wipe off the drawings.
+*INV:	   ­ø ¾p Ëİ ¤j ¤O î.
+%mor:	    neg aux advi adj nn sfp.
+*INV:	   &laa4 [=! helps the child wipe off the drawings].
+%mor:	    ex.
+*CHI:	   ±o.
+%mor:	    ctc.
+*INV:	   ±o.
+%mor:	    ctc.
+*CHI:	   ±o.
+%mor:	    ctc.
+*INV:	   ±o «§?
+%mor:	    ctc sfp.
+*INV:	   §A µe ¤ë¥ú¥ú ÃÑ ­ø ÃÑ &aa3 ?
+%mor:	    nnpr vt nn vt neg vt sfp.
+*CHI:	   &ji3.
+%mor:	    ex.
+*INV:	   ÃÑ ­ø ÃÑ µe ¤ë¥ú¥ú &aa3 ?
+%mor:	    vt neg vt vt nn sfp.
+*CHI:	   µe ¤ë¥ú¥ú &aa3.
+%mor:	    vt nn sfp.
+*INV:	   &m4.
+%mor:	    ex.
+*INV:	   Ãä ­Ó µe &aa3 ?
+%mor:	    wh cl vt sfp.
+*INV:	   §Ú µe &aa4 ?
+%mor:	    nnpr vt sfp.
+*CHI:	   §Ú µe.
+%mor:	    nnpr vt.
+*INV:	   §Ú µe &aa4 ?
+%mor:	    nnpr vt sfp.
+*CHI:	   ¤ë¥ú¥ú &aa3.
+%mor:	    nn sfp.
+*INV:	   ¤ë¥ú¥ú.
+%mor:	    nn.
+*INV:	   Ëİ¼Ë &laa1.
+%mor:	    advs sfp.
+*INV:	   ¤ë¥ú¥ú «}+...
+%mor:	    nn neg.
+*INV:	   «Y «}?
+%mor:	    vf neg.
+*INV:	   ¦³®É Ê\ ·| «Y Ëİ¼Ë.
+%mor:	    advs nnpr aux vf advs.
+*CHI:	   ¤ë¥ú¥ú.
+%mor:	    nn.
+*INV:	   ¤ë¥ú¥ú.
+%mor:	    nn.
+*INV:	   Ëİ¼Ë &gaa1 ¹À.
+%mor:	    advs sfp sfp.
+*CHI:	   ¤ë¥ú &jaa1 &jaa3.
+%mor:	    nn ex sfp.
+*CHI:	   ¤ë¥ú¥ú &aa3.
+%mor:	    nn sfp.
+*INV:	   ¤Ó¶§ ©O?
+%mor:	    nn sfp .
+*INV:	   ÃÑ ­ø ÃÑ &aa3 ?
+%mor:	   vt neg vt sfp.
+*CHI:	   ¤Ó¶§.
+%mor:	    nn.
+*INV:	   ÃÑ ­ø ÃÑ?
+%mor:	    vt neg vt.
+*CHI:	   < ¤Ó¶§> [/] ¤Ó¶§.
+%mor:	    nn nn.
+*INV:	   ¤Ó¶§.
+%mor:	    nn.
+*INV:	   ¬P¬P ©O?
+%mor:	    nn sfp.
+*CHI:	   ¨®¨® ©O «×.
+%mor:	    nn det cl.
+*INV:	   ÉN ¨®¨® &aa3.
+%mor:	    neg nn sfp.
+*INV:	   ¬P¬P.
+%mor:	    nn.
+*CHI:	   ÉN ¨®¨®.
+%mor:	    neg nn.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	   ­ø µe.
+%mor:	    neg vt.
+*INV:	   µe ¬P¬P.
+%mor:	    vt nn.
+*CHI:	   µe ¬P¬P.
+%mor:	    vt nn.
+*INV:	"   µe ±ø ³½ &aa1 ¤£¦p, ¦n ÉN &aa3 ?"
+%mor:	    vt cl nn sfp advs adj neg sfp.
+*CHI:	   ³½ - ?
+%mor:	    nn.
+*INV:	   ¦n ÉN &aa3 ?
+%mor:	    adj neg sfp.
+%com:	 pause.
+*CHI:	   ³½.
+%mor:	    nn.
+*INV:	   «§ ‘Á î?
+%mor:	    wh sfp sfp.
+%com:	 pause.
+*CHI:	   ª¾.
+%mor:	    vt.
+*CHI:	   ªº¤h.
+%mor:	    nn.
+*INV:	   ªº¤h - ?
+%mor:	    nn.
+*INV:	   ©O ø «§ ‘Á ï ¥ı?
+%mor:	    det cl wh sfp sfp advf.
+*INV:	   §Ú µe ÷ ø «§Ï.
+%mor:	    nnpr vt asp cl wh.
+*CHI:	   ³½.
+%mor:	    nn.
+*INV:	   ³½ «Y «} &aa3 ?
+%mor:	    nn vf neg sfp.
+*CHI:	   ªº¤h - ?
+%mor:	    nn.
+*INV:	   ­ø µe ªº¤h.
+%mor:	    neg vt nn.
+*CHI:	   µe.
+%mor:	    vt.
+*INV:	   µe °¦ # ¤K¤ö³½ ¦n ÉN?
+%mor:	    vt cl nn adj neg.
+*CHI:	   ¤ö³½.
+%mor:	    nn.
+*INV:	   ¤K¤ö³½.
+%mor:	    nn.
+%com:	 long pause.
+*INV:	   ¤K¤ö³½.
+%mor:	    nn.
+*CHI:	   ª¾.
+%mor:	    vt.
+*INV:	   µe °¦ ÃÉ ¦n ÉN &aa3 ?
+%mor:	    vt cl nn adj neg sfp.
+*CHI:	   ½¼.
+%mor:	    nn.
+*INV:	   < ÃÉ> [/] ÃÉ.
+%mor:	    nn nn.
+*CHI:	   ÃÉ &wo3.
+%mor:	    nn sfp.
+%com:	 long pause.
+*CHI:	   ¶R ©O ¬[.
+%mor:	    vt det cl.
+*INV:	   ¤S ¶R õ ¬[ - ?
+%mor:	    advf vt det cl.
+*INV:	   ­ø ¶R Ğ.
+%mor:	    neg vt sfp.
+*INV:	   ÉN ¿ú &aa3.
+%mor:	    neg nn sfp.
+*INV:	   ÃÉ.
+%mor:	    nn.
+*CHI:	   xxx.
+*INV:	   µe ¦h ±ø ³½ ¦n ÉN &aa3 ?
+%mor:	    vt adj cl nn adj neg sfp.
+*CHI:	   &je3.
+%mor:	    ex.
+*INV:	   ¦n ÉN &aa3 ?
+%mor:	    adj neg sfp.
+*CHI:	   ³½ - ?
+%mor:	    nn.
+*INV:	   µe ¦h ¤@ ±ø ³½.
+%mor:	    vt adj q cl nn.
+*CHI:	   ³½ - ?
+%mor:	    nn.
+*INV:	   ¦³ ´X ¦h ±ø ³½ &aa3 ?
+%mor:	    vf wh adj cl nn sfp.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   ¨â ­Ó.
+%mor:	    q cl.
+%com:	 long pause.
+*CHI:	   xxx.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   ÉN ®Í.
+%mor:	    neg prt.	
+*CHI:	   µe ©j©j.	
+%mor:	    vt nn.	
+*INV:	   §A µe &aa1.	
+%mor:	    nnpr vt sfp.	
+*CHI:	   µe ©j©j.	
+%mor:	    vt nn.	
+*INV:	   §A µe &lo1	.
+%mor:	    nnpr vt sfp.	
+*CHI:	   µe ©j©j.	
+%mor:	    vt nn.
+*INV:	   ©j©j µe ©w «Y µe ©j©j &aa3 ?
+%mor:	    nn vt conj vf vt nn sfp.
+*CHI:	   µe ©j©j.
+%mor:	    vt nn.
+*INV:	   µe ©j©j &aa4 ?
+%mor:	    vt nn sfp.
+*INV:	   ©j©j µe ©j©j &aa4 ?
+%mor:	    nn vt nn sfp.
+*CHI:	   µe ©j©j.
+%mor:	    vt nn.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   µe ©j©j.
+%mor:	    vt nn.
+*INV:	   µe è° ø ï.
+%mor:	    vt adj com sfp.
+*CHI:	   µe.
+%mor:	    vt.
+*CHI:	   µe ©j©j.
+%mor:	    vt nn.
+*CHI:	   ©j©j.
+%mor:	    nn.
+*INV:	   «Y «} ©j©j &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*CHI:	   ©j©j.
+%mor:	    nn.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   ÉN.
+%mor:	    neg.
+*INV:	   µe ­ø µe Á¾Á¾ &aa3 ?
+%mor:	    vt neg vt nnpp sfp.
+*CHI:	   Ï.
+%mor:	    nn.
+*CHI:	   µe Á¾Á¾.
+%mor:	    vt nnpp.
+*INV:	   µe Á¾Á¾ &aa4 ?
+%mor:	    vt nnpp sfp.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+%com:	 Long pause while the investigator draws.
+*INV:	   «Y «} Á¾Á¾ &aa3 ?
+%mor:	    vf neg nnpp sfp.
+*CHI:	   Á¾Á¾.
+%mor:	    nnpp.
+*CHI:	   ÉN [=! wipes off the drawing].
+%mor:	    neg.
+*INV:	   ÉN.
+%mor:	    neg.
+*CHI:	   ö Ãä Ãä.
+%mor:	    vf wh cl.
+*CHI:	   ªº +...
+%mor:	    nn.
+*CHI:	   ¤Ú¤h.
+%mor:	    nn.
+*INV:	   ¤S µe ¤Ú¤h &aa4 ?
+%mor:	    advf vt nn sfp.
+*INV:	   ¦n &laa1.
+%mor:	    adj sfp.
+*INV:	   <¤£> [/] ¤£¦p µe ©O ¬[ ¨® &aa1.
+%mor:	    advs advs vt det cl nn sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦n ÉN &aa3 ?
+%mor:	    adj neg sfp.
+*INV:	   ¹ï ¦í Ê\ µe.
+%mor:	    vt asp nnpr vt.
+%com:	 Long pause while the investigator draws.
+*INV:	   Äê ÷ &jaa3.
+%mor:	    verg asp sfp.
+*INV:	   ­ø ©È ï.
+%mor:	    neg vt sfp.
+*INV:	   µe µf Ê\ «} ±o &lo1.
+%mor:	    vt prt nnpr neg ctc sfp.
+*CHI:	   ©È.
+%mor:	    vt.
+*INV:	   ­ø ©È [=! draws].
+%mor:	    neg vt.
+*CHI:	   ñF.
+%mor:	    nn.
+*INV:	   ¨®ñF.
+%mor:	    nn.
+*CHI:	   ¨®ñF.
+%mor:	    nn.
+*INV:	   ¤@ ­Ó ¨®ñF.
+%mor:	    q cl nn.
+*INV:	   ¨â ­Ó ¨®ñF.
+%mor:	    q cl nn.
+*INV:	   ¸ò¦í ©O.
+%mor:	    advs sfp.
+*INV:	   ´N«Y ø µ¡ Ğ.
+%mor:	    advf cl nn sfp.
+*INV:	   «Y «} ¨®¨® &aa3 ?
+%mor:	    vf neg nn sfp.
+*CHI:	   ¨®.
+%mor:	    nn.
+*CHI:	   ¶R.
+%mor:	    vt.
+*CHI:	   ¤@¼Ë.
+%mor:	    adj.
+*INV:	   ¤@¼Ë &aa3.
+%mor:	    adj sfp.
+*INV:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   §Ú µe ¨ì ¦P õ ¬[ ¨® ¤@¼Ë  &aa3.
+%mor:	    nnpr vt ctc vt det cl nn adj sfp.
+*CHI:	   &e3.
+%mor:	    ex.
+*INV:	   ¤@¼Ë.
+%mor:	    adj.
+*INV:	   è° ­ø è° &aa3 ?
+%mor:	    adj neg adj sfp.
+*CHI:	   < è°> [/] è°.
+%mor:	    adj adj.
+*CHI:	   xxx.
+*CHI:	   è°.
+%mor:	    adj.
+*CHI:	   ­¬ ªù.
+%mor:	    vt nn.
+*INV:	   ­¬ ªù.
+%mor:	    vt nn.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   ª± §¹ Ğ.
+%mor:	    vt advm sfp.
+*INV:	"   §A Ô Ä± Ğ, ¦n ÉN &aa3 ?"
+%mor:	    nnpr vi nn sfp adj neg sfp.
+*CHI:	   ÉN.
+%mor:	    neg.
+*INV:	   §A Ô Ä± &lok3.
+%mor:	    nnpr vi nn sfp.
+*INV:	   ²´Ô ¥¼ &aa3 ?
+%mor:	    adj neg sfp.
+*INV:	   ©j©j ¨« Ğ.
+%mor:	    nn vi sfp.
+*CHI:	   ¦nÏ.
+%mor:	    ex.
+*INV:	   ¦nÏ &aa4 ?
+%mor:	    ex sfp.
+*INV:	   ©j©j ¨« §A ¸Ü ¦nÏ &aa4 ?
+%mor:	    nn vi nnpr vt ex sfp.
+*CHI:	   ¨«.
+%mor:	    vi.
+*INV:	   §A ¥O §Ú Ëİ ¶Ë¤ß ï.
+%mor:	    nnpr vt nnpr advi adj sfp.
+*CHI:	   ©j©j ¨«.
+%mor:	    nn vi.
+*INV:	   §A ¦P Ê\ Á¿ «ô«ô &laa1 ¤S ­n.
+%mor:	    nnpr prep nnpr vt ex sfp advf vt.
+%exp:	" ""Ê\"" refers to the cassette recorder."
+*CHI:	   «ô«ô.
+%mor:	    ex.
+*INV:	   §A ¸Ü ¿ı §¹ Ğ.
+%mor:	    nnpr vt vt advm sfp.
+*CHI:	   ¿ı §¹ Ğ.
+%mor:	    vt advm sfp.
+*INV:	   ¤U ¦¸ ¦A ¿ı.
+%mor:	    det cl advf vt.
+*CHI:	   ¿ı.
+%mor:	    vt.
+*INV:	   ¤U ¦¸ ¦A ¿ı.
+%mor:	    det cl advf vt.
+*INV:	   §A Ëİ Á¿ &aa1.
+%mor:	    nnpr advs vt sfp.
+*CHI:	   ¦A ¿ı.
+%mor:	    advf vt.
+*CHI:	   «ô«ô.
+%mor:	    ex.
+*INV:	   §A ¸Ü ¤U ¦¸.
+%mor:	    nnpr vt det cl.
+*CHI:	   ¤U ¦¸.
+%mor:	    det cl.
+*INV:	   ¦A ¿ı.
+%mor:	    advf vt.
+*CHI:	   ¦A ¿ı.
+%mor:	    advf vt.
+*INV:	   ¤U ¦¸ ¦A ¿ı.
+%mor:	    det cl advf vt.
+*CHI:	   ¦A ¿ı.
+%mor:	    advf vt.
+*INV:	   §A À° §Ú º¶ ©O ­Ó ´w &aa1 &laa4.
+%mor:	    nnpr vt nnpr vt det cl nn sfp sfp.
+*INV:	   ¼Ã ©O ­Ó.
+%mor:	    vt det cl.
+*INV:	   ¹jÂ÷+...
+%mor:	    nnloc.
+*INV:	   < ³Ì ¶} õ ­Ó> [/] ³Ì ¶} õ ­Ó.
+%mor:	    advi adj det cl advi adj det cl.
+*INV:	   < ­ø «Y> [/] ­ø «Y.
+%mor:	    neg vf neg vf.
+@End
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

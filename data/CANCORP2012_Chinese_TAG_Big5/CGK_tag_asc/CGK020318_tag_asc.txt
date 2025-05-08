@@ -1,0 +1,1127 @@
+@Begin	
+@Name of CHI:	         Cheung Ga-kei
+@Birth of CHI:	         2-Jun-1989
+@Sex of CHI:	            Female
+@Tape location:	11
+@Date:	                  20-Sep-1991
+@Age of CHI:	            2;3.18
+@Participants:	"          CHI child, INV investigator, MOT mother"
+@Transcriber:	           Patricia Yuk-hing Man
+@situation:	 At the child's home. The child is looking at a bag of toy bowlings that she had played with in the earlier sessions.
+*INV:	"   &aa3, ©O ø «OÄÖ²y &aa3 úï, ©O ø &aa3, «O -:ÄÖ -:²y  -:."
+%mor:	    ex det cl nn sfp sfp det cl sfp nn .
+*INV:	   °O ­ø °O ±o °Ú?
+%mor:	   vt neg vt ctc sfp.
+*CHI:	   ¥´ ªiªi.
+%mor:	    vt nn.
+*INV:	"   «Y §c, ¥´ ªiªi."
+%mor:	    vf sfp vt nn .
+*INV:	   §Ú’] ¬ä ¦n Ê\ &aa1.
+%mor:	   nnpr vt adj nnpr sfp .
+*INV:	   §Ú’] ¬ä ¦n Ê\ ¥´ ªi.
+%mor:	   nnpr vt adj nnpr vt nn.
+%com:	 The investigator and the child starts putting the bowlings on the floor.
+*CHI:	"   &m5:, ÂI ¬ä ©O ­Ó?"
+%mor:	    ex wh vt det cl.
+*CHI:	   ¶^ # ÷  -:.
+%mor:	    verg asp.
+%exp:	 One of the bowling bottles falls down.
+*INV:	   0 [=! laughs].
+*INV:	   ¶^ ÷ Ø{.
+%mor:	    verg asp sfp.
+@situation:	 Some bowlings fall again.
+*INV:	   ¤S ¶^ ÷ Ø{ ?
+%mor:	    advf verg asp sfp.
+*CHI:	"   ®aµa, ¬ä ­ø ­Ë &aa3."
+%mor:	    nnpp vt neg ctc sfp.
+*INV:	   ¬ä ­ø ­Ë §r?
+%mor:	    vt neg ctc sfp.
+*CHI:	   ¤S+/.
+%mor:	    advf.
+*INV:	"   Ëİ §r ±o ğ, Ëİ §r ±o ğ, «Y ­ø «Y §r?"
+%mor:	    advs sfp adj sfp advs sfp adj sfp vf neg vf sfp.
+*INV:	   Ëİ ±o Ğ +/.
+%mor:	   advs adj sfp.
+%exp:	 The investigator makes the bottles upright again.
+*CHI:	"   ğ, §Ú À° ©p ü« ¹À."
+%mor:	    ex nnpr vt nnpr vt sfp.
+*INV:	"   ¦n, ©p À° §Ú ü« &aa1, ¦n."
+%mor:	    adj nnpr vt nnpr vt sfp adj.
+*CHI:	   < ğ> [/] ğ [=! gives investigator a bowling].
+%mor:	    ex ex.
+*INV:	"   ­ø¸Ó ®Í, ®aµa."
+%mor:	    ex prt nnpp.
+*CHI:	   «u–ï ¦³ ­Ó «}.
+%mor:	    ex vf cl nn.
+%exp:	 The child found a toy microphone in the investigator's bag.
+*INV:	   ¦³ ­Ó «} °Ú.
+%mor:	    vf cl nn sfp .
+*INV:	   «Y °Ú.
+%mor:	   vf sfp .
+*INV:	   < ·R ‘Á °Û ºq î> [/] ·R ‘Á °Û ºq î.
+%mor:	   vt dir vt nn sfp vt dir vt nn sfp.
+*CHI:	"   &ji2, ¶} ´w Ø{."
+%mor:	    ex vt nn sfp.
+%com:	 The child wants to turn on the microphone.
+*INV:	   ©p ·Q ÂI¼Ë ¶} °Ú?
+%mor:	    nnpr vt wh vt sfp.
+*CHI:	   ÂI ¶} ´w.
+%mor:	    wh vt nn.
+*INV:	"   ´N Ëİ ¶} ±o î °Õ, ´N Ëİ °Û ±o î °Õ."
+%mor:	    advf advs vt ctc sfp sfp advf advs vt ctc sfp sfp.
+%com:	 The child sings first and the investigator joins her later.
+@situation:	 The child wants to play bowlings again.
+*CHI:	   < ¥´ ªi &si2 ¥ı> [/] ¥´ ªiªi.
+%mor:	    vt nn ex advf vt nn.
+*INV:	   < ¦n §c > [/].
+%mor:	    adj sfp .
+*INV:	   <¦n §c> [/] ¦n §c.
+%mor:	   adj sfp adj sfp.
+@situation:	 The child kicks down the bowling bottles.
+*INV:	"   &aa1, ¦nÏ Ø{, Ëİ ³£ ­Ú ©p # ¾ã ¶^ Ø{ ¥i¥H úï - ?"
+%mor:	    ex ex sfp advs advf prep nnpr vt verg sfp aux ex.	
+*CHI:	   §Ú ­Ó ªiªi ©O?	
+%mor:	    nnpr cl nn sfp.	
+*INV:	"   ©O, ö «× Åo."	
+%mor:	    ex vf cl sfp.	
+*INV:	   ğ. [=! gives child the ball]	
+%mor:	    ex.	
+@situation:	 The investigator suggests that she stands the bottles upright and the child rolls them down. The investigator then tells the child how to roll down the bowlings.	
+*INV:	"   Ëİ¼Ë ¸L, ğ, ©p Ú» ¦í °Õ Ø{, Ëİ¼Ë ¸L."	
+%mor:	    advs vt ex nnpr vt asp sfp sfp advs vt.	
+*INV:	   &aa1	 .
+%mor:	    ex .	
+*INV:	   Ëİ «} ¶^ ÷ Åo.	
+%mor:	   advs neg verg asp sfp .	
+*INV:	   «¢.	
+%mor:	   ex .	
+*INV:	   «¢.	
+%mor:	   ex .	
+*INV:	   ¨ì ©p ¸L &aa1.	
+%mor:	   vt nnpr vt sfp.	
+*CHI:	   §Ú ¦P ©p ¬ä ¦n ø # &aa1.	
+%mor:	    nnpr prep nnpr vt adj com sfp.
+*INV:	   ©p ¦P §Ú ¬ä ¦n §r?
+%mor:	    nnpr prep nnpr vt adj sfp .
+*INV:	   ¦n &aa1.
+%mor:	   adj sfp.
+*INV:	   < ‘Á &aa1> [/] ‘Á &aa1.
+%mor:	    dir sfp dir sfp.
+*INV:	   < ©p À° §Ú ¬ä &aa1> [/] ©p ¦P §Ú ¬ä ¦n &aa1.
+%mor:	    nnpr vt nnpr vt sfp nnpr prep nnpr vt adj sfp.
+*INV:	   ©p ¦P §Ú ¬ä ¦n ÉAÏ °Ú?
+%mor:	    nnpr prep nnpr vt adj wh sfp.
+*CHI:	   &e3: §Ú ©ç ¤â ¹À.
+%mor:	    ex nnpr vt nn sfp .
+*CHI:	"   &e3, §Ú ¬ä ¦n ©ç ¤â."
+%mor:	   ex nnpr vt adj vt nn.
+*INV:	   «Y.
+%mor:	    vf.
+@situation:	 The investigator and the child are putting the bottles upright.
+*CHI:	   < &e2> [>].
+%mor:	    ex.
+*INV:	   < ¬ä ®I ©O ­Ó> [<].
+%mor:	    vt prt det cl.
+*CHI:	   ¬ä ®I ©O ¤ä.
+%mor:	    vt prt det cl.
+@situation:	 The fan in the dining room always blows down the spongy bottles.
+*INV:	"   ¤j ­· ±oº¢ °Ú, §Ú’] ¬ä ®I ø &aa1."
+%mor:	    adj nn advf sfp nnpr vt prt com sfp.
+*CHI:	   «× # ¬ä ®I ø ©O «×.
+%mor:	    cl vt prt com det cl.
+@situation:	 There are altogether six bowlings bottles but the child has rolled down only one.
+*INV:	   ¶^ ÷ ¤@ ­Ó ©Q Ø{.
+%mor:	    vt asp q cl sfp sfp .
+*INV:	    õ ø ©O?
+%mor:	    det cl sfp .
+*INV:	   ­ø ¶^ ï?
+%mor:	   neg verg sfp.
+*CHI:	   ¤S ­ø ¶^.
+%mor:	    advf neg verg.
+*INV:	   µ¥ Ê\ ¶^ ®I ¥ı ­n.
+%mor:	    vt nnpr vt prt advf vt.
+*INV:	   ¶^ ®I Ê\ ¥ı [=! laughs].
+%mor:	    vt prt nnpr advf.
+*INV:	   ¶^ ®I ¤@ ½ &laau6 ³£ ¦³ ï?
+%mor:	    vt prt q cl cl advf vf sfp.
+%exp:	 The ball and the bottles are stacked together.
+*INV:	"   ¶^ ®I ¤@ ½ &lau6, §Ú’] ¤À¶} ø Â\ ¥ı."
+%mor:	    vt prt q cl cl nnpr vt com vd advf.
+*CHI:	"   &e6, &e6, &e6."
+%mor:	    ex ex ex.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   &e6 õ ­Ó ªiªi ¤S ¶^ ®I ©O ­Ó Ø{.
+%mor:	    ex det cl nn advf verg prt det cl sfp.
+*INV:	   õ ­Ó ªiªi ¤S ºP ®I ©O ­Ó?
+%mor:	    det cl nn advf vt prt det cl .
+*INV:	   ÂI¸Ñ?
+%mor:	   wh.
+*CHI:	   «Y °Ú.
+%mor:	    vf sfp .
+*CHI:	   &zaak3 ¦í ÷ ­Ó ªiªi.
+%mor:	   vt asp asp cl nn.
+*INV:	   «Y °Ú.
+%mor:	    vf sfp .
+*INV:	   &zaak3 ¦í ÷ ­Ó ªiªi °Ú ÀY¥ı.
+%mor:	   vt asp asp cl nn sfp advs.
+*INV:	"   ¦n, < ¥ø «á ø ¸L &aa1> [/] ¥ø «á ø ¸L."
+%mor:	    adj vi adj com vt sfp vi adj com vt.
+@situation:	 The investigator asks the child to roll again but the child now asks for some keys.
+*INV:	   «Y §r.
+%mor:	    vf sfp .
+*INV:	   ¦A ¸L ¹L &laa1.
+%mor:	   advf vt prt sfp.
+*CHI:	   ­ø «Y Âê°Í.
+%mor:	    neg vf nn.
+*CHI:	   §Ú İ¯ Âê°Í.
+%mor:	    nnpr vt nn.
+*INV:	   ©p İ¯ Âê°Í §r?
+%mor:	    nnpr vt nn sfp .
+*INV:	"    Âê°Í ¦© [!], «Y ­ø «Y °Ú?"
+%mor:	    nn nn vf neg vf sfp .
+*INV:	   Âê°Í ¦©.
+%mor:	   nn nn.
+%com:	 The investigator thinks that the child is asking for the keyholders that had been shown to her in the previous sessions.
+*CHI:	   < Âê°Í ©O> [>]?
+%mor:	    nn sfp.
+*INV:	   < ¨£ ¹L ¥¼ §r ©O ø Âê°Í> [<] +/.
+%mor:	    vt asp neg sfp det cl nn.
+*CHI:	   Âê°Í ©O?
+%mor:	    nn sfp.
+@situation:	 The child is still asking for the keys instead of the keyholders.
+*INV:	"   ÉN °Ú, Âê°Í."
+%mor:	    neg sfp nn .
+*INV:	   ÉN Âê°Í.
+%mor:	   neg nn .
+*INV:	    ©p ·Q ­n Âê°Í §r?
+%mor:	    nnpr vt vt nn sfp.
+*CHI:	   §Ú ·Q ­n Âê°Í.
+%mor:	    nnpr vt vt nn.
+*INV:	"   ÉN Ø{, §Ú ÉN Âê°Í °Ú."
+%mor:	    neg sfp nnpr neg nn sfp.
+@situation:	 The child is holding a little purse which is taken from the investigator's bag.
+*CHI:	   &m4 §Ú ­n ªğ ¤u °Ú.
+%mor:	    ex nnpr vt dir nn sfp.
+*INV:	   ©p ªğ ¤u §r?
+%mor:	    nnpr dir nn sfp .
+*INV:	"   ¼M, ¼M ©p ¥h Ãä«× ªğ ¤u °Ú?"
+%mor:	   ex ex nnpr dir wh dir nn sfp.
+*CHI:	   §Ú ¥h ¶R µæ °Ú.
+%mor:	    nnpr dir vt nn sfp .
+*CHI:	   ªğ ¤u °Ú.
+%mor:	   dir nn sfp.
+*INV:	   ¶R µæ ©w ªğ ¤u °Ú?
+%mor:	    vt nn conj dir nn sfp.
+*CHI:	   ­ø «Y ¶R µæ °Ú.
+%mor:	    neg vf vt nn sfp.
+*INV:	   ­ø «Y ¶R µæ §r ?
+%mor:	    neg vf vt nn sfp.
+*CHI:	   «Y ªğ ¤u °Ú.
+%mor:	    vf dir nn sfp.
+*INV:	   Ëİ «Y ªğ ¤u «Y ­ø «Y °Ú?
+%mor:	    advs vf dir nn vf neg vf sfp.
+*CHI:	   ­ø «Y ªğ.
+%mor:	    neg vf dir.
+*INV:	   Ëİ «Y «§ °Ú?
+%mor:	    advs vf wh sfp.
+*CHI:	   ¶R Ï ¹À.
+%mor:	    vt nn sfp.
+*INV:	   ¥h ¶R Ï §r?
+%mor:	    dir vt nn sfp .
+*INV:	   ®@.
+%mor:	   ex.
+@situation:	 The child kicks the ball into the room.
+*CHI:	"   «u–ï, ¨« ÷ °Õ."
+%mor:	    ex vi asp sfp.
+*INV:	   ¨« ÷ °Õ.
+%mor:	    vi asp sfp .
+*INV:	"   ©p &deu6 ÷ Ê\ ¨« Ø{, ¥h ÷ Ãä«× °Ú?"
+%mor:	   nnpr vt asp nnpr vt sfp dir asp wh sfp.
+*CHI:	   ¥h -: ÷ õ ±ø µó.
+%mor:	    dir asp det cl nn.
+*INV:	   Ãä«× °Ú?
+%mor:	    wh sfp.
+*CHI:	   Ô Ä±.
+%mor:	    vi nn.
+*INV:	   < ¥h> [/] ¥h ÷ õ ±ø µó Ô Ä±.
+%mor:	    dir dir asp det cl nn vi nn .
+*INV:	"   ­Ó ªiªi Ô Ä±, «Y ­ø «Y °Ú?"
+%mor:	   cl nn vi nn vf neg vf sfp.
+*INV:	   «Y ­ø «Y ­Ó ªiªi Ô Ä± °Ú?
+%mor:	    vf neg vf cl nn vi nn sfp.
+*CHI:	   ½ğ.
+%mor:	    vt .
+*CHI:	   «u–ï.
+%mor:	    ex.
+*INV:	   «Y ­ø «Y ­Ó ªiªi Ô Ä± °Ú?
+%mor:	    vf neg vf cl nn vi nn sfp.
+*CHI:	   < «u–ï> [/] «u–ï.
+%mor:	    ex ex.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   ¨« ÷ õ «×.
+%mor:	    vi asp det cl.
+*INV:	"   «u, ¨« ÷ õ «× §r?"
+%mor:	    ex vi asp det cl sfp.
+*CHI:	   ®aµa ½ğ ÷ ªi &n2 ö õ «× ©O.
+%mor:	    nnpp vt asp nn ex vf det cl sfp .
+*CHI:	"   &bam4, &n5, ¨« ÷ Ø{."
+%mor:	   ex ex vi asp sfp.
+@situation:	 The child is still holding the little purse.
+*INV:	   ©p «Y ­ø «Y ¶R –R °Ú?
+%mor:	    nnpr vf neg vf vt nn sfp.
+*CHI:	   ­Ú ¿ú ©p ¥ı [=! gives investigator some imaginary money].
+%mor:	    vd nn nnpr advf.
+*INV:	   ­Ú ¿ú §Ú §r?
+%mor:	    vd nn nnpr sfp .
+*INV:	"   §Ú ¤S ­ø «Y ¨û¨û, §Ú ÉN Ï ½æ ­Ú ©p î."
+%mor:	   nnpr advf neg vf nn nnpr neg nn vt prep nnpr sfp.
+*CHI:	   ­Ú ¿ú ¹À.
+%mor:	    vd nn sfp.
+*INV:	   ­Ú ¿ú §r?
+%mor:	    vd nn sfp .
+*INV:	   ©p +/.
+%mor:	   nnpr.
+*CHI:	   §Ú ­n ­Ú +/.
+%mor:	    nnpr vt vd.
+*INV:	   ­Ú «§ °Ú?
+%mor:	    vd wh sfp.
+*CHI:	   &n3 §Ú ­n ­Ú ¿ú ¹À.
+%mor:	    ex nnpr vt vd nn sfp.
+*INV:	"   ¦n, ­Ú ¿ú, ­Ú ¿ú."
+%mor:	    adj vd nn vd nn.
+*CHI:	   ğ.
+%mor:	    ex.
+*INV:	"   ¦n, ­Ú ¿ú §Ú."
+%mor:	    adj vd nn nnpr.
+*CHI:	   ü« ­Ó ³U ¥ı.
+%mor:	    vt cl nn advf.
+*CHI:	   ©O ­Ó ³U [=! points at the tape-recorder].
+%mor:	    det cl nn.
+*INV:	   ©O ­Ó §r?
+%mor:	    det cl sfp .
+*INV:	   ©O ­Ó ­ø ½æ î ©O ­Ó.
+%mor:	   det cl neg vt sfp det cl.
+*CHI:	   ©O ­Ó °Ú.
+%mor:	    det cl sfp.
+*INV:	   ­ø ½æ ï.
+%mor:	    neg vt sfp.
+*CHI:	   ¿ı.
+%mor:	    vt.
+*INV:	   ©O ­Ó ­ø ½æ î.
+%mor:	    det cl neg vt sfp.
+*CHI:	   ¿ı&sam1:¾÷.
+%mor:	    nn.
+*INV:	   < ¿ı ­µ> [>].
+%mor:	    vt nn.
+*CHI:	   < ¿ı&sam1:¾÷> [<].
+%mor:	    nn.
+*INV:	   ¿ı­µ¾÷.
+%mor:	    nn.
+*INV:	   < ­µ> [>].
+%mor:	    nn.
+*CHI:	   < ¿ı­µ¾÷ -:> [<].
+%mor:	    nn.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*CHI:	"   «Y Ğ, ¦nÏ."
+%mor:	    vf sfp ex.
+*INV:	   < ¦nÏ ¦nÏ> [/] ¦nÏ.
+%mor:	    ex ex ex.
+*CHI:	   ü« ³U³U.
+%mor:	    vt nn.
+*INV:	   ü« ³U³U?
+%mor:	    vt nn.
+*CHI:	   «Y °Ú.
+%mor:	    vf sfp.
+*INV:	"   ©O ­Ó ³U, ­ø ½æ í."
+%mor:	    det cl nn neg vt sfp.
+*CHI:	   ´¦ ¶}.
+%mor:	    vt vt.
+*CHI:	   ü« ³U³U.
+%mor:	    vt nn.
+*INV:	"   ®@, &e6, ¿ı §¹ ­µ, ­Ú ©p ­Ó ³U, ¦n ­ø ¦n °Ú?"
+%mor:	    ex ex vt vi nn vd nnpr cl nn adj neg adj sfp.
+*CHI:	   ¦n.
+%mor:	    adj.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*INV:	   ¿ı §¹ ­µ ­Ú ©p ­Ó ³U.
+%mor:	    vt vi nn vd nnpr cl nn.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   < ¿ı §¹ ­µ ­Ú ©p> [/] ¿ı §¹ ­µ ­Ú ©p.
+%mor:	    vt vi nn prep nnpr vt vi nn prep nnpr.
+*CHI:	   ¿ı §¹ ­µ ¥ı.
+%mor:	    vt vi nn advf.
+@situation:	 The child is holding a fifty-cent coin.
+*INV:	   °µ «§ °Ú?
+%mor:	    vt wh sfp.
+*CHI:	   &m3.
+%mor:	    ex.
+*INV:	   ­Ú §Ú §r?
+%mor:	    vd nnpr sfp .
+*INV:	   ­ø ­n §r?
+%mor:	   neg vt sfp.
+*CHI:	   ¦n ²Ó °Ú.
+%mor:	    advi adj sfp.
+*INV:	   «§ ¦n ²Ó?
+%mor:	    wh advi adj.
+*CHI:	   ²Ó °Ú.
+%mor:	    adj sfp.
+*INV:	   ©O ­Ó +/.
+%mor:	    det cl.
+*CHI:	   ¦n ²Ó.
+%mor:	    advi adj.
+*INV:	   ©O ­Ó ¿ú ¦n ²Ó.
+%mor:	    det cl nn advi adj.
+*INV:	   < «Y ­ø «Y §r> [>]?
+%mor:	    vf neg vf sfp.
+*CHI:	   < ©O ­Ó ¿ú ¦n ²Ó> [<].
+%mor:	    det cl nn advi adj.
+*CHI:	   ü« ¹L &a1 # ²Ä ¤G ¼Ë ­Ú §Ú &aa1.
+%mor:	    vt prt sfp det q cl vd nnpr sfp.
+*INV:	   ü« ¹L ²Ä +/.
+%mor:	    vt prt det.
+*CHI:	   ¤j ¿ú °Ú.
+%mor:	    adj nn sfp.
+*INV:	"   ®@, ü« ¹L ²Ä ¤G ¼Ë ­Ú ©p ¤J, ©p ­n ­Ó ¤j ø ï, «Y ­ø «Y °Ú?"
+%mor:	    ex vt prt det q cl prep nnpr dir nnpr vt cl adj com sfp vf neg vf sfp.
+*CHI:	   ­Ó ¤j ø.
+%mor:	    cl adj com.
+@situation:	 The investigator puts a two-dollar coin into the little purse that the child is holding.
+*CHI:	   ¥ò ¤J.
+%mor:	    advf dir.
+*INV:	   ¥ò ¤J §r?
+%mor:	    advf dir sfp.
+%com:	 The investigator then gives the child a twenty-cent coin.
+@situation:	 The child reminds the investigator to wind up the zip of the her bag.
+*CHI:	   ­ø &zoe2.
+%mor:	    neg vt.
+*INV:	   ©p ·Q Ú» «§?
+%mor:	    nnpr vt vt sfp.
+*CHI:	   ­ø &zoe2 µf ¦n # ¥ı.
+%mor:	    neg vt prt adj advf.
+*INV:	   «§ ªğ ¾Ç °Ú?
+%mor:	    wh dir nn sfp.
+*CHI:	   ­ø &zoe2 µf ¦n §r.
+%mor:	    neg vt prt adj sfp.
+*INV:	"   ®@, ¾ã µf ¦n §r ¹À."
+%mor:	    ex vt prt adj sfp sfp.
+*INV:	"   ®@, •Ú Ğ."
+%mor:	    ex adj sfp .
+*INV:	"   «u–ï, ­ø¸Ó ®Í."
+%mor:	   ex vt prt.
+*CHI:	   ­ø¸Ó.
+%mor:	    ex.
+*INV:	   •Ú Ğ.
+%mor:	    adj sfp .
+*INV:	   ©p ¯u «Y +/.
+%mor:	   nnpr advf vf.
+*CHI:	   ­ø ¦n ¨« °Ú.
+%mor:	    neg adj vi sfp.
+*INV:	   ­ø ¨« ¦í.
+%mor:	    neg vt asp.
+@situation:	 The primary school next to the child's home just rand the bell.
+*INV:	"   &ji2, ¹jÂ÷ ¾Ç®Õ ¥´ &laang1ÄÁ, «Y ­ø «Y §r?"
+%mor:	    ex nnloc nn vt nn vf neg vf sfp .
+*INV:	   ¤W°ó °Ú.
+%mor:	   vi sfp.
+*CHI:	   Ú» úï ¥ı.
+%mor:	    vt prt advf.
+*INV:	   Ú» úï ¥ı.
+%mor:	    vt prt advf.
+*INV:	   ¦n §c.
+%mor:	    adj sfp.
+*INV:	   ¥h Ú» úï ¥ı.
+%mor:	    dir vt prt advf.
+@situation:	 The investigator follows the child to the window through which they can see the primary school.
+*INV:	   ­ô­ô «Y ­ø «Y ¤W°ó °Ú?
+%mor:	    nn vf neg vf vi sfp.
+*CHI:	   ¥´ &laang1ÄÁ Ø{.
+%mor:	    vt nn sfp.
+*INV:	"   «Y Åo, ¥´ &laang1ÄÁ §Y«Y ÂI °Ú?"
+%mor:	    vf sfp vt nn vf wh sfp .
+*INV:	   ¤W°ó Åo.
+%mor:	   vi sfp.
+*CHI:	   ¤W°ó Åo.
+%mor:	    vi sfp.
+*INV:	   «Y Åo.
+%mor:	    vf sfp.
+*INV:	   < ¤W°ó °Ú> [>].
+%mor:	    vi sfp.
+*CHI:	   < ­ô­ô ©j©j> [<] ¤@ °} Ú» &laa1.
+%mor:	    nn nn q cl vt sfp.
+*CHI:	   < ¤@ °} Ú» &aa3> [>].
+%mor:	    q cl vt sfp.
+*INV:	"   < ¦n §c, ¤@ °} ¶¡ Ú»> [<]."
+%mor:	    adj sfp q cl nn vt.
+*INV:	"   «Y Ğ, Ú» ÷ ¥» ®Ñ ¥ı."
+%mor:	    vf sfp vt asp cl nn advf.
+@situation:	" Reading a magazine. In a page, there is a group of models dressed like supermen."
+*INV:	   ìÜ­±¶W¤H §Ú’] ÀY¥ı Ú» ¨ì Ãä«× §r?
+%mor:	    nnpp nnpr advs vt vt wh sfp.
+*CHI:	   Ú» úï ¥ı °Õ.
+%mor:	    vt prt advf sfp.
+*INV:	"   ¦n, < §A Ú» úï> [/] §A Ú» úï."
+%mor:	    adj nnpr vt prt nnpr vt prt.
+*CHI:	   Ú» ¹qµø.
+%mor:	    vt nn.
+*CHI:	"   ¦n §r, ¤@ °} ¶¡ Ú»."
+%mor:	    adj sfp q cl nn vt.
+*CHI:	   ¬~ ¤â ¥ı.
+%mor:	    vt nn advf .
+*CHI:	"   ÀY¥ı ©O, ÅÍ ¹L ¿ß¿ß °Ú."
+%mor:	   advs sfp vt asp nn sfp.
+*INV:	   §Y«Y ÂI °Ú?
+%mor:	    vf wh sfp.
+*CHI:	   ¬~ ¤â ¥ı.
+%mor:	    vt nn advf.
+*INV:	"   ®@, ¬~ ¤â."
+%mor:	    ex vt nn.
+*INV:	   < ÀY¥ı> [>] +/.
+%mor:	    advs.
+*CHI:	"   < ÀY¥ı> [<] ©O, ÅÍ ¹L ¿ß¿ß."
+%mor:	    advs sfp vt asp nn.
+*INV:	"   úï,< ©Ò¥H> [/] ©Ò¥H ¬~ ¤â."
+%mor:	    ex advs advs vt nn.
+*CHI:	   ü« ÆPÆP °Ú.
+%mor:	    vt nn sfp.
+*INV:	"   ®@, ¦n °Ú."
+%mor:	    ex adj sfp.
+*CHI:	   ¬~.
+%mor:	    vt.
+%com:	 The investigator laughs.
+*CHI:	   ğ.
+%mor:	    ex.
+*MOT:	   ­¹ ¶º ¥ı ¦n ­ø ¦n §r?
+%mor:	    vt nn advf adj neg adj sfp.
+*INV:	   ­ø¸Ó.
+%mor:	    ex.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*CHI:	   §Ú ¬~ ¤â ¥ı.
+%mor:	    nnpr vt nn advf.
+*INV:	   ¦n §c.
+%mor:	    adj sfp.
+*CHI:	"   ğ, ¸ò ¦í §Ú &aa3."
+%mor:	    ex vt asp nnpr sfp.
+*INV:	   ¸ò ¦í ©p §r?
+%mor:	    vt asp nnpr sfp .
+*INV:	   ¦n &aa1.
+%mor:	   adj sfp.
+*CHI:	   ¸ò ¦í ‘Á &aa3.
+%mor:	    vt asp dir sfp.
+*INV:	   ¦n §c.
+%mor:	    adj sfp.
+*CHI:	   úï.
+%mor:	    ex.
+*INV:	   úï.
+%mor:	    ex.
+*CHI:	   ö ¦a¤U ¬~ &aa3.
+%mor:	    prep nnloc vt sfp.
+*INV:	   ö ¦a¤U ¬~ §r?
+%mor:	    prep nnloc vt sfp .
+*INV:	   ¦n §c.
+%mor:	   adj sfp.
+*CHI:	   ¬~ # ¤â # ¸¨ # ÆP.
+%mor:	    vt nn dir nn.
+*INV:	   ©p ü« ÷ ÆP ¥¼ &aa3 ?
+%mor:	    nnpr vt asp nn neg sfp.
+*CHI:	   ü« ¤ò¤y ¥ı.
+%mor:	    vt nn advf.
+@situation:	 The child goes to her bedroom to get a towel.
+*INV:	   ¤S ü« ¤ò¤y.
+%mor:	    advf vt nn.
+*CHI:	   ©Ù ¤â.
+%mor:	    vt nn.
+*INV:	"   ¦n §c, &ei3, ­ø¸Ó ®Í."
+%mor:	    adj sfp ex vt prt.
+*CHI:	   §Ú ©Ù §¹ ¤â.
+%mor:	    nnpr vt vi nn.
+*INV:	   ©O ±ø ¤ò¤y «§ ¦â °Ú?
+%mor:	    det cl nn wh nn sfp.
+*CHI:	"   ¤ò¤y, R ³Q."
+%mor:	    nn vt nn.
+%exp:	 The towel is large enough to be like a blanket.
+*INV:	   ¾í ¦â.
+%mor:	    adj nn .
+*INV:	   < ¾í ¦â> [>].
+%mor:	   adj nn.
+*CHI:	   < ¾í ¦â> [<].
+%mor:	    adj nn.
+*INV:	   ¾í ¦â.
+%mor:	    adj nn.
+*INV:	   ­ø¸Ó ®Í.
+%mor:	    vt prt.
+@situation:	 The investigator wants to put the towel back.
+*INV:	   Â\ ö Ãä î ©O ±ø ¤ò¤y?
+%mor:	    vd prep wh sfp det cl nn.
+*CHI:	   ¤@ °} ¥ı &aa1.
+%mor:	    q cl advf sfp.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   µ¥ §Ú &laa1.
+%mor:	    vt nnpr sfp.
+*INV:	   ¤@ °} ¶¡ ¥ı Â\ §r?
+%mor:	    q cl nn advf vd sfp.
+*INV:	   ¬~ §¹ ¤â ğ §Ú’]?
+%mor:	    vt vi nn sfp nnpr.
+*CHI:	   ¬~ §¹ ¤â.
+%mor:	    vt vi nn.
+@situation:	 The child is folding the paper cover of the tape-recorder.
+*CHI:	   &kam2 µf ¦n ¥ı.
+%mor:	    vt prt adj advf.
+*INV:	   «Y &laa1 R µf ¦n.
+%mor:	    vf sfp vt prt adj .
+*INV:	   &e3 &e3.
+%mor:	   ex ex.
+*INV:	"   ­ø ¾p ¼Ã î °Õ,< ±o î °Õ> [/] ±o î °Õ."
+%mor:	    neg aux vt sfp sfp ctc sfp sfp ctc sfp sfp.
+*INV:	   «Y.
+%mor:	    vf .
+*INV:	    ±o î °Õ.
+%mor:	    ctc sfp sfp.
+*INV:	   ¾p ­ø ¾p Â\ ®I Ê\ °Ú?
+%mor:	    aux neg aux vd prt nnpr sfp.
+%exp:	 The investigator refers to the towel.
+*CHI:	   ¾p.
+%mor:	    aux.
+%com:	 The child gets the towel from the investigator.
+*INV:	   ­ø¸Ó.
+%mor:	    ex.
+*CHI:	   §á §¹ ¥ı.
+%mor:	    vt vi advf.
+%com:	 The child is twisting the towel.
+*INV:	   §á ¤ò¤y §r?
+%mor:	    vt nn sfp .
+*INV:	     ¼M [=! laughs].
+%mor:	     ex.
+@situation:	 The child and the investigator go to the bedroom. There are several stuffed animals on child's bed.
+*INV:	   Ê\ ¦P ¨ä¥L ¿ß¿ß ¤@»ô Ô î ¨ş [=! holding one of child's stuffed cats].
+%mor:	    nnpr prep adj nn advs vi sfp sfp.
+*CHI:	   &m4 ¦n.
+%mor:	    ex adj.
+*CHI:	   ¦n -: ¦h ¿ß¿ß Ô Ä± &aa3.
+%mor:	    advi adj nn vi nn sfp.
+*INV:	"   «Y Åo, Ëİ +/."
+%mor:	    vf sfp advs.
+*CHI:	   ­ø ¦n ¸¨ ¥h &aa3.
+%mor:	    neg adj dir dir sfp.
+*INV:	"   ®@, ¦n Ğ, ­ø+/."
+%mor:	    ex adj sfp neg.
+*CHI:	"   &n3 ¶^ ÷ ¸¨ ¥h ©O, ¦n µh °Ú."
+%mor:	    ex verg asp dir dir sfp advi adj sfp.
+*INV:	   ¦n µh î ¶^ ÷ ¸¨ ¥h?
+%mor:	    advi adj sfp verg asp dir dir.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   «Y §r? [=! laughs]
+%mor:	    vf sfp.
+*CHI:	   ­ø ¦n ÅÍ ¦í ¥ı &laa1.
+%mor:	    neg adj vt asp advf sfp.
+*INV:	"   ¦n &laa1, Ëİ §Ú’] ¥h+/."
+%mor:	    adj sfp advs nnpr dir.
+*CHI:	    ¬~ ¬~ ¬~.
+%mor:	    vt vt vt .
+*CHI:	   §Ú ­n ¬~ ¬~ ¬~.
+%mor:	   nnpr vt vt vt vt.
+*INV:	   ÀY¥ı «}< ¬~ §¹ Åo> [>].
+%mor:	    advs neg vt vi sfp.
+*CHI:	   < ©p ¬~ §¹ °Õ> [<].
+%mor:	    nnpr vt vi sfp.
+*INV:	   ¬~ §¹ ğ?
+%mor:	    vt vi sfp.
+*CHI:	   ®aµa ¬~ &aa3.
+%mor:	    nnpp vt sfp.
+*INV:	   ®@ ©p ¦Û¤v ¬~.
+%mor:	    ex nnpr rfl vt.
+*CHI:	"   &e3, &e3, §Ú."
+%mor:	    ex ex nnpr.
+*INV:	"   ®@, ü« ÆPÆP ­Ú ©p."
+%mor:	    ex vt nn prep nnpr .
+*INV:	   ğ.
+%mor:	   ex.
+*CHI:	   §Ú ¦Û¤v ü«.
+%mor:	    nnpr rfl vt .
+*CHI:	   &e2.
+%mor:	   ex.
+*INV:	"   &e2, < ©p ¦Û¤v ü«> [/] ©p ¦Û¤v ü«."
+%mor:	    ex nnpr rfl vt nnpr rfl vt.
+*CHI:	   &e2 ©p ¤â ¦ÃÁV Ãå»½ &aa3.
+%mor:	    ex nnpr nn adj adj sfp.
+*CHI:	   ÅÍ ¹L ø ÆP.
+%mor:	    vt asp cl nn.
+*INV:	   §Ú ÅÍ ¹L ø «§ ¦ÃÁV Ãå»½ §r?
+%mor:	    nnpr vt asp cl wh adj adj sfp.
+*CHI:	   &e6 ÅÍ ÆP ø.
+%mor:	    ex vt nn cl.
+*CHI:	   ¦ÃÁV Ãå»½ ©O.
+%mor:	    adj adj sfp.
+*CHI:	"   &e, ñô «r ©p # ­Ó ¤â °Ú."
+%mor:	    ex nn vt nnpr cl nn sfp.
+*INV:	   ñô «r ¤â¤â §r ¦ÃÁV Ãå»½?
+%mor:	    nn vt nn sfp adj adj.
+*CHI:	   ­ø ü« &aa3.
+%mor:	    neg vt sfp.
+*CHI:	    ©p ÀY¥ı ©O.
+%mor:	    nnpr advs sfp .
+*CHI:	   ¬~ ¹L ø ¤â.
+%mor:	   vt asp cl nn .
+*CHI:	   ü« ­Ë ÷ ø ¤ô &aa3.
+%mor:	   vt ctc asp cl nn sfp.
+*INV:	"   ÀY¥ı §Ú ¬~ ÷ ø ¤â, ©p ­Ë ÷ ø ¤ô Ê\ §r?"
+%mor:	    advs nnpr vt asp cl nn nnpr vt asp cl nn nnpr sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	"   Ëİ ¦Ó®a ­n ¸Ë ¤ô Åo, «Y ­ø «Y °Ú?"
+%mor:	    advs advs vt vt nn sfp vf neg vf sfp.
+*INV:	"   °Ú ¸Ë ¤ô, ¶} ¤ô³ï."
+%mor:	   ex vt nn vt nn.
+%com:	 The investigator is turning on the imaginary tap.
+*CHI:	   ¶} ÷ ¤ô &laa1.
+%mor:	    vt asp nn sfp .
+*CHI:	     ­ø ¦n À¾ &aa3.
+%mor:	     neg adj vt sfp.
+*INV:	   ¦n §c.
+%mor:	    adj sfp.
+*CHI:	   Àã ®Í ­Ó ¦a ©O &e6.
+%mor:	    adj prt cl nn sfp ex.
+@situation:	 The child has put the ball into the foam cover which is used as the washing basin.
+*INV:	   Â\ ­Ó ªiªi ö ¬~¤â¬Ö ï?
+%mor:	    vd cl nn prep nn sfp .
+*INV:	   Ëİ ±o·N ï?
+%mor:	   advi adj sfp.
+*CHI:	   ­ø «Y &aa3.
+%mor:	    neg vf sfp.
+*INV:	   «§ °Ú?
+%mor:	    wh sfp .
+*INV:	   «Y «§ °Ú Ëİ?
+%mor:	   vf wh sfp advs .
+*INV:	   «Y +/.
+%mor:	   vf.
+*CHI:	   Ú» ¥» ®Ñ &laa1.
+%mor:	    vt cl nn sfp.
+*INV:	"   ¦n,< ‘Á &aa1> [/] ‘Á &aa1."
+%mor:	    adj dir sfp dir sfp.
+*INV:	   ¥ò ¦³ î ùØ«K.
+%mor:	    advf vf sfp nnloc.
+%exp:	 The investigator refers to the bag.
+*CHI:	   ¥ò ¦³.
+%mor:	    advf vf.
+*INV:	   ¥ò ¦³ î.
+%mor:	    advf vf sfp.
+*CHI:	   ¥ò ¦³ ¦n ¦h ¨ä<¥L Ï> [>].
+%mor:	    advf vf advi adj adj nn.
+*INV:	   < «Y &laa1> [<].
+%mor:	    vf sfp.
+*INV:	   ¥ò ¦³ ¦n ¦h ¨ä¥L Ï.
+%mor:	    advf vf advi adj adj nn .
+*INV:	    < ¼M> [/] ¼M.
+%mor:	    ex ex.
+*CHI:	   §Ú °¦ ³U &aa1.
+%mor:	    nnpr cl nn sfp.
+*INV:	   ü« °¦ ³U - ?
+%mor:	    vt cl nn.
+@situation:	 The investigator and the child are looking at the pictures in a magazine.
+*CHI:	"   «u–ï, «u–ï, ¿ö¿ö °Ú."
+%mor:	    ex ex nn sfp.
+*INV:	"   «Y Åo, Ëİ ¤j ­Ó ¿ö Ø{."
+%mor:	    vf sfp advi adj cl nn sfp.
+*CHI:	   Ëİ ¤j ­Ó ¿ö¿ö.
+%mor:	    advi adj cl nn.
+*INV:	"   ®aµa, õ ­Ó «Y ÉAÏ °Ú [=! points at the clock on the wall]?"
+%mor:	    nnpp det cl vf wh sfp.
+*CHI:	   ÄÁÄÁ Åo.
+%mor:	    nn sfp.
+*INV:	"   «Y Ğ, õ ­Ó ÄÁÄÁ."
+%mor:	    vf sfp det cl nn.
+*CHI:	   §Ú ÀY¥ı Ú» ¹L ­Ó ÄÁÄÁ # ®@.
+%mor:	    nnpr advs vt prt cl nn ex.
+*INV:	   ´X ¦h ÂI °Ú õ °}?
+%mor:	    wh adj cl sfp det cl .
+*INV:	   ´X ¦h ÂI §r Ú» ­Ë # õ ÄÁÄÁ?
+%mor:	   wh adj cl sfp vt ctc det nn.
+*CHI:	"   «u–ï,< ­ø ª¾> [/] ­ø ª¾ &aa3."
+%mor:	    ex neg vt neg vt sfp.
+*INV:	   < ¤Q ÂI ¤T> [/] ¦Ó®a ¤Q ÂI ¤T.
+%mor:	    q cl q advs q cl q.
+@situation:	 The child is looking at the ball of the bowling set.
+*CHI:	   ©O ­Ó Ëİ &dai2.
+%mor:	    det cl advi adj .
+*CHI:	   ©O ­Ó Ëİ # &e6 +/.
+%mor:	   det cl advi ex.
+*INV:	   úï?
+%mor:	    ex.
+*CHI:	   ­Ó ­Ó ªiªi # ¦n ²Ó ­Ó.
+%mor:	    cl cl nn advi adj cl.
+@situation:	 The child shows the investigator a balloon got from her bedroom.
+*CHI:	   ¤j ±oº¢ &aa3.
+%mor:	    adj advf sfp.
+*INV:	   ®@ ©p Áé·N ©O ­Ó ªiªi §r [=! laughs]?
+%mor:	    ex nnpr vt det cl nn sfp.
+*CHI:	   &m5.
+%mor:	    ex.
+@situation:	 The child is now holding a magazine.
+*CHI:	   õ ¥» ®Ñ ¤j ±oº¢ &aa3.
+%mor:	    det cl nn adj advf sfp.
+*INV:	   ©O ¥» ®Ñ ¤j?
+%mor:	    det cl nn adj.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   Ëİ # ÂI °Ú?
+%mor:	    advs wh sfp .
+*INV:	   ¤J ­ø ­Ë ¸¨ ¥h ­Ó ³U «× §r?
+%mor:	   dir neg ctc dir dir cl nn cl sfp .
+*INV:	   ¤J ­ø ¤J ­Ë °Ú?
+%mor:	   dir neg dir ctc sfp.
+*CHI:	   ¦n.
+%mor:	    adj.
+*INV:	   ¤J ­ø ¤J ­Ë °Ú?
+%mor:	    dir neg dir ctc sfp.
+*CHI:	   ¤J ­Ë &aa3.
+%mor:	    dir ctc sfp.
+*INV:	   ¤J ­Ë §r?
+%mor:	    dir ctc sfp.
+*CHI:	   &n4 Ú» §¹ &laa1.
+%mor:	    ex vt vi sfp.
+@situation:	" The investigator is holding two balls, one in each hand."
+*INV:	   < ®aµa §r Ãä ­Ó ªi ¤j ø °Ú> [/] Ãä ­Ó ªi ¤j ø °Ú?
+%mor:	    nnpp sfp wh cl nn adj com sfp wh cl nn adj com sfp.
+*CHI:	   ©O ­Ó ªi ¤j ø &aa1.
+%mor:	    det cl nn adj com sfp.
+*INV:	   Ãä ­Ó &aa3 ?
+%mor:	    wh cl sfp.
+*CHI:	   õ ­Ó ªi &le1.
+%mor:	    det cl nn sfp.
+*INV:	   ©O ­Ó ¤j.
+%mor:	    det cl adj.
+*CHI:	   ©O ­Ó ¤j.
+%mor:	    det cl adj.
+*INV:	   < ©O ­Ó ¤j ø &aa4> [>]?
+%mor:	    det cl adj com sfp.
+*CHI:	   < õ ­Ó ²Ó> [<].
+%mor:	    det cl adj.
+*INV:	"   ©O ­Ó ¤j, õ ­Ó ²Ó §r ?"
+%mor:	    det cl adj det cl adj sfp.
+*CHI:	   «Y.
+%mor:	    vf.
+*INV:	   ¼M.
+%mor:	    ex.
+*CHI:	   §Ú ÀY¥ı+/.
+%mor:	    nnpr advs.
+*INV:	   ©O ­Ó ¤S ü« ¥h §r?
+%mor:	    det cl advf vt dir sfp.
+%com:	 The investigator giggles.
+*INV:	   ·| ­ø ·|+...
+%mor:	    aux neg aux.
+*INV:	   ·| Äê î.
+%mor:	    aux verg sfp.
+*INV:	"   ©O ­Ó ªi ¤J ÷ ¸¨ ¥h< ·|, ·|> [/] ·| Ãz î."
+%mor:	    det cl nn dir asp dir dir aux aux aux vt sfp.
+*CHI:	   &maau3.
+%mor:	     xx .
+*INV:	   < õ ø ­ø ­n §r> [/] õ ø ­ø ­n §r?
+%mor:	    det cl neg vt sfp det cl neg vt sfp.
+*INV:	   < õ ø ­ø ­n §r> [>]?
+%mor:	    det cl neg vt sfp.
+*CHI:	   < §Ú ¨« °Õ> [<].
+%mor:	    nnpr vi sfp.
+*INV:	   ¨« ğ?
+%mor:	    vi sfp .
+*INV:	   ¨« ¥h Ãä °Ú?
+%mor:	   vi dir wh sfp.
+*CHI:	   ­ø ¦n ¨«.
+%mor:	    neg adj vi.
+*INV:	   §Ú ÉN ¸Ü ¨« §c.
+%mor:	    nnpr neg vt vi sfp.
+@situation:	 The investigator rolls the balloon towards the bowlings.
+*CHI:	"   &ei3, ¶Â&mang1&mang1 Ø{."
+%mor:	    ex adj sfp.
+%exp:	 The child refers to the ball.
+*INV:	"   «Y Åo, ¶Â&mang1&mang1 Ø{."
+%mor:	    vf sfp adj sfp adj sfp .
+*INV:	   < ¦ÃÁV Åo> [/] ¦ÃÁV Åo.
+%mor:	   adj sfp.
+*CHI:	   ©p ¾ã ¹L ¦a¤U ¦ÃÁV Åo.
+%mor:	    nnpr vt asp nnloc adj sfp.
+*INV:	"   Ëİ ¤S «Y, ¤£¹L Ê\ # ¦Û¤v ³£ ¦ÃÁV °Ú."
+%mor:	    advs advf vf advs nnpr rfl advf adj sfp.
+@situation:	 The child wants the toy teleophone. The investigator brings it to her.
+*CHI:	"   ¤@ °} ¥ı, ¤J ÷ ¿ú ¥ı &aa3."
+%mor:	    q cl advf dir asp nn advf sfp.
+@Situation:	     [side B].
+@situation:	 Playing with the toy phone.
+*INV:	   ¤J ¿ú ¥´ ¹q¸Ü.
+%mor:	    dir nn vt nn.
+*INV:	"   ¤J ¤­ ²@¤l ±o î °Õ, ­ø ¾p ¤J Ëİ ¦h î, ¤J ²Ó õ ­Ó ±o î °Õ."
+%mor:	    dir q cl ctc sfp sfp neg aux dir advi adj sfp dir adj det cl ctc sfp sfp.
+*INV:	   Ëİ ¤j ­Ó §r?
+%mor:	    advi adj cl sfp.
+*CHI:	   ¦n ²Ó ­Ó ¤J.
+%mor:	    advi adj cl dir.
+*INV:	   «Y §r?
+%mor:	    vf sfp.
+@situation:	 The child tries to take the coins out of the telephone. She can only take out some of them.
+*CHI:	   &aa5 ¥ò ¦³ ¤@ ­Ó ©O.
+%mor:	    ex advf vf q cl sfp.
+*CHI:	   &n4 ü« &aa3.
+%mor:	    ex vt sfp.
+@situation:	 The investigator helps the child take out the last coin in the telephone.
+*INV:	   &e1 ü« ­Ë Åo.
+%mor:	    ex vt ctc sfp .
+*INV:	   «Y «}?
+%mor:	   vf neg.
+*CHI:	   ¤S ü« ­Ë.
+%mor:	    advf vt ctc.
+*CHI:	   &ei5 ¥É­ë ©j©j ©p ü« ­Ë °Õ.
+%mor:	    ex nnpp nn nnpr vt ctc sfp.
+*CHI:	   ©p ¦n ¥{ °Õ.
+%mor:	    nnpr advi adj sfp.
+@situation:	 The child inserts the coins into the phone again.
+*INV:	   ¤S ¤J ©O ­Ó §r?
+%mor:	    advf dir det cl sfp .
+*INV:	   ¦n Ãø ü« î Ø{.
+%mor:	   advi adj vt sfp sfp.
+*INV:	   ¦n Ãø ü«.
+%mor:	    advi adj vt.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*INV:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*INV:	   < ©O ­Ó ¤j ­Ó ø> [>].
+%mor:	    det cl adj cl com.
+*CHI:	   < ©O ­Ó ¦n ²Ó> [<].
+%mor:	    det cl advi adj.
+*INV:	   ©O ­Ó ¦n ¤j.
+%mor:	    det cl advi adj.
+*CHI:	   ©O ­Ó.
+%mor:	    det cl.
+*INV:	   ©O ­Ó ²Ó.
+%mor:	    det cl adj.
+*CHI:	   ¦n Ãø &e3.
+%mor:	    advi adj ex.
+*INV:	"   «Y °Ú, ©O ­Ó ¦n Ãø ü«."
+%mor:	    vf sfp det cl advi adj vt.
+*CHI:	   ©O ­Ó ¦n Ãø ü«.
+%mor:	    det cl advi adj vt.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*CHI:	   õ ­Ó ²Ó¸ô # ¦n -: Ãø.
+%mor:	    det cl nn advi adj.
+*INV:	   0 [=! laughs].
+*INV:	   ¦n Ãø.
+%mor:	    advi adj.
+*INV:	"   «u–ï, xx °_ ¨­ ğ Ø{."
+%mor:	    ex nn vi nn sfp sfp.
+*INV:	   xx °_ ¨­.
+%mor:	    nn vi nn.
+%com:	 The child's grandmother comes out from her bedroom.
+*CHI:	"   «u–ï, §Ú Âê ¦í ¥ı."
+%mor:	    ex nnpr vt asp advf.
+*INV:	   < ¦n §c> [/] ¦n §c.
+%mor:	    adj sfp adj sfp.
+*CHI:	   < Âê ¦í ­Ó ªù ¥ı> [/] Âê ¦í ­Ó ªù ¥ı.
+%mor:	    vt asp cl nn advf vt asp cl nn advf.
+%com:	 The child goes to shut the door of her grandmother's bedroom.
+@situation:	 The child's grandmother is sitting on the sofa.
+*CHI:	   xx ¦­±á.
+%mor:	    nn ex.
+*INV:	   «Y Ğ.
+%mor:	    vf sfp.
+*CHI:	   < ­Ú xx ¥ı> [/] ­Ú xx ¥ı.
+%mor:	    prep nn advf prep nn advf.
+*CHI:	   §Ú ­Ú xx ¤J ¥h Ø{.
+%mor:	    nnpr prep nn dir dir sfp.
+*CHI:	   ¶} ªù ­Ú xx ¤J ¥h Ø{.
+%mor:	    vt nn prep nn dir dir sfp.
+*CHI:	   ´X ¿ô¥Ø.
+%mor:	    advi adj.
+*INV:	"   ´X ¿ô¥Ø Ø{ ©p, «Y ­ø «Y?"
+%mor:	    advi adj sfp nnpr vf neg vf .
+*INV:	   ¶} ªù ­Ú xx ¤J ¥h.
+%mor:	   vt nn prep nn dir dir.
+@situation:	" After playing with the phone for a while, the child turns away."
+*INV:	   ®aµa ­ø ¥´ ¹q¸Ü ğ?
+%mor:	    nnpp neg vt nn ex.
+*CHI:	   ¥´ §¹ °Õ.
+%mor:	    vt vi sfp.
+*INV:	   ¥´ §¹ ğ?
+%mor:	    vt vi sfp .
+*INV:	   Ëİ ©p ­ø ü« µf ø ¿ú ¥X ‘Á §r?
+%mor:	   advs nnpr neg vt prt cl nn dir dir sfp.
+*INV:	    ü« µf ø ¿ú ¥X ‘Á &aa1.
+%mor:	   vt prt cl nn dir dir sfp.
+*CHI:	   < &e3 &e3> [/] &e3.
+%mor:	    ex ex ex.
+*CHI:	   ¥´ ¹q¸Ü ­ø ¦n ü« &laa1.
+%mor:	    vt nn neg adj vt sfp.
+*CHI:	   «u ½×ºÉ.
+%mor:	    ex adj.
+*INV:	   ©p ¤S ¸Ü ¥´ §¹.
+%mor:	    nnpr advf vt vt vi.
+*CHI:	   &n4 ­ø «Y °Ú.
+%mor:	    ex neg vf sfp.
+*INV:	"   Ëİ ©p ¥´ ¦h ¦¸ &aa1, ¥´ ­Ú Ãä ­Ó °Ú?"
+%mor:	    advs nnpr vt adj cl sfp vt prep wh cl sfp.
+*CHI:	   ¥´ ­Ú ª¨ª¨ &aa3.
+%mor:	    vt prep nn sfp.
+*INV:	   ¥´ ¦h ¦¸ &aa1.
+%mor:	    vt adj cl sfp .
+*INV:	   ¥´ ¦h ¦¸ &aa1.
+%mor:	   vt adj cl sfp.
+*CHI:	   ¯R’] ¨« ÷ &aa3.
+%mor:	    nn vi asp sfp.
+@situation:	 There are some pictures inside the dialing panel of the toy phone. The child wants to tear away the dialing panel so that she can see the pictures more clearly.
+*CHI:	   < ¶}> [/] §Ú ·Q ¶} &aa3.
+%mor:	    vt nnpr vt vt sfp.
+*INV:	   ©p ·Q ¶} ÷ Ê\?
+%mor:	    nnpr vt vt asp nnpr .
+*INV:	   Ãä«× ¶} ­Ë î.
+%mor:	   wh vt ctc sfp.
+@situation:	 The child wants to take the coins out of the toy telephone again.
+*CHI:	   ¥ò ¦³ ¤@ ­Ó.
+%mor:	    advf vf q cl.
+*INV:	"   ¦n Ãø ü«, «Y ­ø «Y §r?"
+%mor:	    advi adj vt vf neg vf sfp.
+*CHI:	   &m3 ¦n Ãø ü« Ø{.
+%mor:	    ex advi adj vt sfp.
+@situation:	" The child puts her hands into the foam cover of the tape recorder which she takes as the ""washing basin""."
+*CHI:	   ¬~ ¤â &aa3.
+%mor:	    vt nn sfp.
+*CHI:	   ÅÍ ¹L &aa3 ¤@ ¦¸ # ¬~ ¤â &laa1 .
+%mor:	    vt asp sfp q cl vt nn sfp.
+*INV:	"   ®@, ÅÍ ¹L ¤@ ¦¸ ´N ­n ¬~ ¤â."
+%mor:	    ex vt asp q cl advf vt vt nn.
+*CHI:	   ÅÍ ¹L ¥» ®Ñ.
+%mor:	    vt asp cl nn.
+*INV:	"   ÅÍ ¹L ¥» ®Ñ, ¤S ­n ¬~ ¤â."
+%mor:	    vt asp cl nn advf vt vt nn.
+*INV:	   < ¦n §r ¦n §r> [/] ¦n §r.
+%mor:	    adj sfp adj sfp adj sfp .
+*INV:	   ¦n.
+%mor:	   adj.
+@situation:	 The investigator asks the child about the weather.
+*INV:	"   ¤µ¤é ¦n ­ø ¦n ¤Ñ °Ú, ®aµa?"
+%mor:	    advs adj neg adj nn sfp nnpp.
+*CHI:	   < ®aµa ªı ¦í> [/] ®aµa ªı ¦í.
+%mor:	    nnpp vt asp nnpp vt asp.
+*INV:	   ¤µ¤é ¦³ ÉN ¤Ó¶§ °Ú?
+%mor:	    advs vf neg nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	    neg sfp.
+*INV:	"   ®aµa, ©p ªı ¦í õ ø Ï §r?"
+%mor:	    nnpp nnpr vt asp det cl nn sfp.
+*CHI:	   ­ø «Y &aa3.
+%mor:	    neg vf sfp.
+*INV:	   õ ø Ï ªı ¦í ©p.
+%mor:	    det cl nn vt asp nnpr.
+*CHI:	   ung2 ¶} &aa3.
+%mor:	    vt vt sfp.
+*INV:	   úï ?
+%mor:	    ex.
+*CHI:	   §Ú ung2 ¶} õ ­Ó &aa3.
+%mor:	    nnpr vt vt det cl sfp.
+*INV:	"   ung2 &aa ¶}, ung2 ¶} õ ø Ï."
+%mor:	    vt sfp vt vt vt det cl nn.
+*CHI:	   ung2 ¶} ø Ï &aa3.
+%mor:	    vt vt cl nn sfp.
+*INV:	   ÂI¸Ñ °Ú?
+%mor:	    wh sfp.
+*CHI:	"   ®aµa ¶^ ¿Ë ©O, ¦n µh &aa3."
+%mor:	    nnpp verg prt sfp advi adj sfp.
+*INV:	   ø Ï ªı ¦í ©p «Y ­ø «Y °Ú?
+%mor:	    cl nn vt asp nnpr vf neg vf sfp.
+*CHI:	"   «Y °Ú, §Ú ©Ò¥H ©O, ung2 ¶} ø Ï °Ú."
+%mor:	    vf sfp nnpr advs sfp vt vt cl nn sfp.
+*INV:	"   ®@, ©Ò¥H ung2 ¶} ø Ï §r?"
+%mor:	    ex advs vt vt cl nn sfp.
+*CHI:	   «Y &aa3.
+%mor:	    vf sfp.
+*INV:	   ¼M &haai2.
+%mor:	    ex ex.
+@situation:	 The child has got a wound on her finger.
+*CHI:	"   ®aµa, «u–ï, ·g ÷ # ÃÄ."
+%mor:	    nnpp ex vt asp nn.
+*INV:	"   «Y Åo, < ÂI¸Ñ ·l ÷ °Ú> [>]?"
+%mor:	    vf sfp wh verg asp sfp.
+*CHI:	   < ¦n µh> [<].
+%mor:	    advi adj.
+*INV:	   ÂI¸Ñ ·l ÷ ï ?
+%mor:	    wh verg asp sfp.
+*CHI:	   «§ &aa3.
+%mor:	    wh sfp .
+*CHI:	   < İ© İ©> [/] İ© &aa3.
+%mor:	   vt vt vt sfp.
+*INV:	   ©p İ© ÉAÏ °Ú?
+%mor:	    nnpr vt wh sfp.
+*CHI:	   &e6 ¦n µh.
+%mor:	    ex advi adj.
+*INV:	   İ© ÉAÏ ¦n µh ®A?
+%mor:	    vt wh advi adj sfp.
+*CHI:	   ®aµa İ© ¤â«ü ¦n µh &aa3.
+%mor:	    nnpp vt nn advi adj sfp.
+*INV:	"   «u–ï, ©p ¦Û¤v İ© ·l ÷ §r?"
+%mor:	    ex nnpr rfl vt verg asp sfp.
+*CHI:	"   «Y &aa3, ¶ı«} ·g ÃÄ &aa3."
+%mor:	    vf sfp nn vt nn sfp.
+*INV:	   ¶ı«} ·g ÃÄ §r?
+%mor:	    nn vt nn sfp.
+*INV:	   < À°>[/] À° Ãä ­Ó ·g °Ú?
+%mor:	    vt vt wh cl vt sfp.
+*CHI:	   À° ®aµa ·g Åo.
+%mor:	    vt nnpp vt sfp.
+*INV:	   «Y.
+%mor:	    vf.
+*CHI:	   ®aµa ·g ÷ ¸¨ ­Ó # ¦n.
+%mor:	    nnpp vt asp dir cl adj.
+*INV:	   ·g ÷ ÃÄ «Y ­ø «Y ¦n µf §r ·|?
+%mor:	    vt asp nn vf neg vf adj prt sfp aux.
+*CHI:	   ¦n µf Åo.
+%mor:	    adj prt sfp.
+*INV:	   ¦n µf Åo.
+%mor:	    adj prt sfp .
+*INV:	"   ­ø µh Åo, «Y ­ø «Y °Ú?"
+%mor:	   neg adj sfp vf neg vf sfp.
+@situation:	 The child turned on the TV a few minutes ago.
+*CHI:	   ÉN ÉA # Ï Ú».
+%mor:	    neg wh nn vt.
+*INV:	"   «Y Åo, ÉN ÉAÏ Ú»."
+%mor:	    vf sfp neg wh vt .
+*INV:	   º¶ ÷ Ê\ Åo.
+%mor:	   vt asp nnpr sfp.
+%com:	 The child then goes to turn off the TV.
+@situation:	 The investigator asks the child where her microphone is.
+*INV:	   ©p ­Ó «} ©O?
+%mor:	    nnpr cl nn sfp.
+*CHI:	   ®Î õ «×.
+%mor:	    vf det cl.
+*INV:	   ®Î õ «× °Ú ¨ş.
+%mor:	    vf det cl sfp sfp.
+%com:	 The child then goes to bring the microphone to the investigator.
+@situation:	 The investigator and the child are reading a magazine.
+*INV:	   ö «× °µ «§?
+%mor:	    prep cl vt wh .
+*INV:	   ¯º ©w ³Û?
+%mor:	   vi conj vi.
+%exp:	 The investigator points at a model which is smiling.
+*CHI:	   &jaa6 ­ø «Y ¯º &aa3.
+%mor:	    ex neg vf vi sfp.
+*CHI:	"   ­ø «Y ³Û &aa3, ¯º ¯º &aa3."
+%mor:	    neg vf vi sfp vi vi sfp.
+*INV:	   «Y Ğ ¯º ¯º.
+%mor:	    vf sfp vi vi.
+@situation:	 The bowlings are in three different colours. The investigator teaches the child how to recognize them.
+*INV:	   §Ú ±Ğ ©p ¤À ÃC¦â &aa1.
+%mor:	    nnpr vt nnpr vt nn sfp.
+*CHI:	   §Ú ±Ğ ©p ¤À ÃC¦â &aa1.
+%mor:	    nnpr vt nnpr vt nn sfp.
+*INV:	   0 [=! laughs].
+*CHI:	   À½ ‘Á ©O «K.
+%mor:	    vd dir det cl.
+*CHI:	"   ©O ­Ó ÃC¦â, õ ­Ó ÃC¦â [=! holdging bowlings in the same colour]."
+%mor:	    det cl nn det cl nn.
+@End	

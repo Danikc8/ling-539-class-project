@@ -1,0 +1,807 @@
+@Begin	
+@Name of CHI:	   Chan Chun Yat
+@Birth of CHI:	  14-Apr-1990
+@Sex of CHI:	    Male
+@Tape location:	" 2,3a"
+@Date:	  14-Mar-1992
+@Time duration:	10:30-12:00
+@Age of CHI:	    1;11.0
+@Participants:	"        CHI child, INV investigator, MOT mother"
+@Transcriber:	   Kitty Ka-sinn Szeto
+@situation:	"     At Kowloon Park. The child, the child's mother and the investigator are standing beside a pond in which there is no fish."
+*MOT:	   ¦³ ÉN ²î²î &aa3 ?
+%mor:	   vf neg nn sfp.
+*MOT:	   ¦³ ÉN?
+%mor:	   vf neg.
+*MOT:	   ¦³ ÉN ¤ô¤ô?
+%mor:	   vf neg nn.
+*CHI:	   xxx.
+*MOT:	   úï?
+%mor:	   ex.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+*MOT:	   ¤ô¤ô ©O?
+%mor:	   nn sfp.
+*CHI:	   ³½ ÉN &aa3.
+%mor:	   nn neg sfp.
+*MOT:	   ³½ ÉN &aa4.
+%mor:	   nn neg sfp.
+*MOT:	   ¦³ ÉN ²î²î?
+%mor:	   vf neg nn.
+*CHI:	   ¿O¿O.
+%mor:	   nn.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+*CHI:	   ÉN.
+%mor:	   neg.
+%com:	   pause.
+*CHI:	   ³½ &aa3.
+%mor:	   nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ³½ &aa3.
+%mor:	   nn sfp.
+*CHI:	   ³½ &aa3.
+%mor:	   nn sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ÉN &aa4.
+%mor:	   neg sfp.
+*MOT:	   ÉN ÉN &aa3 ?
+%mor:	   neg neg sfp.
+*MOT:	   ¦³ ÉN ³½³½ &aa3 ?
+%mor:	   vf neg nn sfp.
+*MOT:	   ¦³ ÉN?
+%mor:	   vf neg.
+*CHI:	0
+@New episode:	
+*INV:	   ¦³ ÉN ³½³½ &aa3 ?
+%mor:	   vf neg nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+*INV:	   ÉN &aa3.
+%mor:	   neg sfp.
+*CHI:	   ÉN.
+%mor:	   neg.
+@New episode:	
+*CHI:	   << ¿O¿O &aa3> [/] ¿O¿O &aa3> [=! points to some lights].
+%mor:	   nn sfp nn sfp.
+@New episode:	
+*CHI:	   Õi ©O ­Ó.
+%mor:	   vt det cl.
+%exp:	   The child wants to put his hand in the water.
+*INV:	   Õi ©O ­Ó &aa4 ?
+%mor:	   vt det cl sfp.
+*CHI:	   «Y &aa3.
+%mor:	   vf sfp.
+@Situation:	"     New episode.   investigator, child and mother are going towards the children's playground."
+*CHI:	   ¶ı¶ı ©ì.
+%mor:	   nn vt.
+%exp:	   The child wants his mother to hold his hand.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   < ¶ı¶ı ©ì > [/].
+%mor:	   nn vt .
+*MOT:	    <¶ı¶ı ©ì> [/] ¶ı¶ı ©ì.
+%mor:	    nn vt nn vt.
+%exp:	   The child's mother holds the child's hand.
+*MOT:	   ÂI¼Ë ¦æ &aa3 ?
+%mor:	   wh vi sfp.
+*MOT:	   ­ø ±o.
+%mor:	   neg ctc.
+*MOT:	   ­ø ±o Ëİ¼Ë ü¶ ¥D·N.
+%mor:	   neg ctc advs vt nn.
+*MOT:	   §Ú’] ¥h +...
+%mor:	   nnpr dir .
+*MOT:	   ¥h ¨àµ£¹C¼Ö õ «× ª±.
+%mor:	   dir nn det cl vt.
+*MOT:	   ¦æ.
+%mor:	   vi.
+*INV:	   ğ.
+%mor:	   ex.
+*INV:	   §Ú’] ¤W ¥h ¨àµ£ +...
+%mor:	   nnpr dir dir nn .
+*INV:	   ¹C¼Ö³õ «× ª±.
+%mor:	   nn cl vt.
+*INV:	   ¦n ÉN &aa3 ?
+%mor:	   adj neg sfp.
+*MOT:	   ¦n ÉN?
+%mor:	   adj neg.
+*CHI:	   < ¶^ &aa3> [=! falls on the ground].
+%mor:	   verg sfp.
+*INV:	   ¶^ &aa4.
+%mor:	   verg sfp.
+*INV:	   µh ­ø µh &aa3 ?
+%mor:	   adj neg adj sfp.
+*MOT:	   µh ­ø µh?
+%mor:	   adj neg adj.
+*CHI:	   µh &aa3.
+%mor:	   adj sfp.
+*INV:	   µh &aa4.
+%mor:	   adj sfp.
+@Situation:	     New episode.   The child stops at some trees.
+*CHI:	   < ªá &aa3> [=! points at the flowers].
+%mor:	   nn sfp.
+*MOT:	   úï?
+%mor:	   ex.
+*MOT:	   «Y «§ &aa3 ?
+%mor:	   vf sfp sfp.
+*CHI:	   ªá.
+%mor:	   nn.
+*MOT:	   è° ­ø è° &aa3 ?
+%mor:	   adj neg adj sfp.
+*MOT:	   ªáªá è° ­ø è° &aa3 ?
+%mor:	   nn adj neg adj sfp.
+*MOT:	   &m - ?
+%mor:	   ex.
+*INV:	   ªáªá è° ­ø è° &aa3 ?
+%mor:	   nn adj neg adj sfp.
+*CHI:	   ÉN &o3.
+%mor:	   neg ex.
+*MOT:	   ÉN &o3.
+%mor:	   neg ex.
+*MOT:	   &m4.
+%mor:	   ex.
+*MOT:	   ¤S «Y ÉN.
+%mor:	   advf vf neg.
+*MOT:	   ªáªá ¥¼ ¥X »ô &aa1 ¹À.
+%mor:	   nn neg vt advm sfp sfp.
+*INV:	   ¤W ¥h ¤W«K Ú» &laa1.
+%mor:	   dir dir nnloc vt sfp.
+*INV:	   ©O «× ³£ ­ø è°.
+%mor:	   det cl advf neg adj.
+*MOT:	   «Y &aa3.
+%mor:	   vf sfp.
+*MOT:	   ©O «× ¦³ ÉA è° &aa1.
+%mor:	   det cl vf wh adj sfp.
+*MOT:	   ¦æ Ğ.
+%mor:	   vi sfp.
+*CHI:	   < ¾ğ¾ğ &aa3> [=! points at the trees].
+%mor:	   nn sfp.
+*MOT:	   ¾ğ¾ğ.
+%mor:	   nn.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ¾ğ¾ğ &aa5.
+%mor:	   nn sfp.
+*MOT:	   ¾ğ¾ğ.
+%mor:	   nn.
+*CHI:	   < ª± &aa3> [=! points to the playground].
+%mor:	   vt sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ª± &aa4.
+%mor:	   vt sfp.
+*MOT:	   ­n ª±.
+%mor:	   vt vt.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   < ª± &laa1> [/] ª± &laa1.
+%mor:	   vt sfp vt sfp.
+%com:	   The child is afraid of falling when his mother puts him down from a platform.
+*CHI:	   ¶^ &aa3.
+%mor:	   verg sfp.
+*CHI:	   &hm.
+%mor:	   ex.
+*CHI:	   ª± &lu3.
+%mor:	   vt sfp.
+@New episode:	
+*CHI:	   < ¸¨ &aa3> [=! climbing up the stairs].
+%mor:	   dir sfp.
+%exp:	   The child is going up the stairs.
+*MOT:	   úï?
+%mor:	   ex.
+*CHI:	   < ¸¨ &aa3> [/] ¸¨ &aa3.
+%mor:	   dir sfp dir sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   < ¸¨> [/].
+%mor:	   dir .
+*MOT:	   <¸¨> [/].
+%mor:	   dir .
+*MOT:	   <¸¨> [/] ¸¨.
+%mor:	   dir dir.
+@Situation:	     New episode.   In the children's playground near a slide.
+*INV:	   ÉAÏ &aa3 ?
+%mor:	   wh sfp.
+*CHI:	   ª±.
+%mor:	   vt.
+*INV:	   úï.
+%mor:	   ex.
+*INV:	   ª± ÉAÏ &aa3 ?
+%mor:	   vt wh sfp.
+*CHI:	   < ª± ©O ­Ó> [=! points to a plaything].
+%mor:	   vt det cl.
+*INV:	   ª± ©O ­Ó.
+%mor:	   vt det cl.
+%exp:	   The child goes towards the slide.
+@Situation:	     New episode.  The child wants to go inside a plaything.
+*CHI:	   ¤J &aa3.
+%mor:	   dir sfp.
+*MOT:	   ¤J &aa4.
+%mor:	   dir sfp.
+@New episode:	
+*MOT:	   < «§ ‘Á î> [=! points to a plaything which looks like a car]?
+%mor:	   wh sfp sfp.
+*CHI:	   ¨®¨®.
+%mor:	   nn.
+@New Episode:	
+*MOT:	   §Ú’] ¥h ¤W ¨® &lok3.
+%mor:	   nnpr vt dir nn sfp.
+*CHI:	   ·f ¨® &aa3.
+%mor:	   vt nn sfp.
+*MOT:	   úï?
+%mor:	   ex.
+*MOT:	   «§Ï?
+%mor:	   wh.
+*MOT:	   < °µ ÉAÏ> [/] °µ ÉAÏ?
+%mor:	   vt wh vt wh.
+*CHI:	   ·f ¨® Â@Â@.
+%mor:	   vt nn nnpp.
+*MOT:	   < ·f ¨® &aa4> [/] ·f ¨® &aa4.
+%mor:	   vt nn sfp vt nn sfp.
+@Situation:	"     New episode.  The investigator, the child and the child's mother leave the playground."
+*INV:	   ©ì ¦í ¦n ÉN &aa3 Â@Â@?
+%mor:	   vt asp adj neg sfp nnpp.
+*CHI:	   < ¶^¶^ §C &aa3> [=! walking on a piece of bare land].
+%mor:	   verg dir sfp.
+*MOT:	   úï?
+%mor:	   ex.
+*CHI:	   ¶^¶^ &aa3.
+%mor:	   verg sfp.
+*MOT:	   °µ ÉAÏ &aa3 ?
+%mor:	   vt wh sfp.
+*CHI:	   ¶^¶^ §C &aa3.
+%mor:	   verg dir sfp.
+*MOT:	   ¶^¶^ §C &aa4.
+%mor:	   verg dir sfp.
+*MOT:	   «§ ‘Á î?
+%mor:	   wh sfp sfp.
+*MOT:	   ­ø ¶^ §C î.
+%mor:	   neg verg dir sfp.
+*MOT:	   ¦æ &laa1.
+%mor:	   vi sfp.
+*INV:	   ­ø ¶^ §C ï.
+%mor:	   neg verg dir sfp.
+@Situation:	"     New episode.  The investigator, the child and the child's mother are walking on a piece of bare land."
+*INV:	   Â@Â@.
+%mor:	   nnpp.
+*INV:	   ¶^ ­ø ¶^ &aa3 ?
+%mor:	   verg neg verg sfp.
+*CHI:	   ¶^¶^ &aa3.
+%mor:	   verg sfp.
+@Situation:	     New episode.   A helicopter passes overhead.
+*MOT:	   «Y «} ª½¤É¾÷ ©O ?
+%mor:	   vf neg nn det.
+*MOT:	   < «Y «} ¾÷¾÷ &aa3> [/] «Y «} ¾÷¾÷ &aa3 ?
+%mor:	   vf neg nn sfp vf neg nn sfp.
+*MOT:	   ¦³ ÉN ¾÷¾÷?
+%mor:	   vf neg nn.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+*MOT:	   ÉN &aa4.
+%mor:	   neg sfp.
+*MOT:	   ¨« ÷ Ğ ¾÷¾÷.
+%mor:	   vi asp sfp nn.
+*MOT:	   ¦³ ÉN &aa3 ?
+%mor:	   vf neg sfp.
+*MOT:	   ¨« ÷ Ğ ¾÷¾÷.
+%mor:	   vi asp sfp nn.
+*CHI:	   ¾÷¾÷ &aa3.
+%mor:	   nn sfp.
+*MOT:	   ¾÷.
+%mor:	   nn.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ¾÷.
+%mor:	   nn.
+*INV:	   ÉAÏ &aa3 ?
+%mor:	   wh sfp.
+*CHI:	   < ¸¨> [=! going down the stairs].
+%mor:	   dir.
+*CHI:	   < ¸¨ &aa3> [/] ¸¨ &aa3.
+%mor:	   dir sfp dir sfp.
+@New Episode:	
+*CHI:	   < ª± &e3> [/] ª± &e3.
+%mor:	   vt ex vt ex.
+*CHI:	   < ª± Ï &aa3> [/] ª± Ï &aa3.
+%mor:	   vt nn sfp vt nn sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ª± &aa3 ¤S.
+%mor:	   vt sfp advf.
+*CHI:	   ª± ©O ­Ó.
+%mor:	   vt det cl.
+*CHI:	   ª±.
+%mor:	   vt.
+*CHI:	   ª± &aa3.
+%mor:	   vt sfp.
+@New Episode:	
+*CHI:	   < ¸¨ &aa3> [=! going down the stairs].
+%mor:	   dir sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ¤S ¸¨ &aa4.
+%mor:	   advf dir sfp.
+*MOT:	   ¸¨ Ãä«×.
+%mor:	   dir wh.
+*CHI:	   ¸¨ ©O ø.
+%mor:	   dir det cl.
+*MOT:	   ®@.
+%mor:	   ex.
+*CHI:	   ¸¨ ©O ø.
+%mor:	   dir det cl.
+@Situation:	     New episode.  In the bird's garden.
+*INV:	   §Ú’] ¹L ‘Á ©O Ãä Ú» &aa1.
+%mor:	   nnpr dir dir det cl vt sfp.
+*CHI:	   ³¶³¶ &aa3.
+%mor:	   nn sfp.
+@New Episode:	
+*CHI:	   ¶ı¶ı ¶R.
+%mor:	   nn vt.
+*MOT:	   ¶ı¶ı ¶R &aa3.
+%mor:	   nn vt sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+@New Episode:	
+*INV:	   ¥h Ãä &aa3 ?
+%mor:	   dir wh sfp.
+*CHI:	   < ¿O¿O> [=! points to a light].
+%mor:	   nn.
+%com:	   End of tape 2 side A.
+@Situation:	     New episdoe.  Tape 2 side B.
+@situation:	     At the duck's pond.
+*MOT:	   «§ ‘Á î?
+%mor:	   wh sfp sfp.
+*CHI:	   < ³½ &aa3> [=! points to the pond].
+%mor:	   nn sfp.
+%exp:	   There is no fish in the pond.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   ³½ &aa4.
+%mor:	   nn sfp.
+@New Episode:	
+*CHI:	   < ÀnÀn &aa3> [=! points to the ducks].
+%mor:	   nn sfp.
+@New Episode:	
+*CHI:	   &u.
+%mor:	   ex.
+*CHI:	   ¤ô &aa3.
+%mor:	   nn sfp.
+*MOT:	   úï?
+%mor:	   ex.
+*CHI:	   ¤ô &aa3.
+%mor:	   nn sfp.
+*MOT:	   ¤ô¤ô &aa4.
+%mor:	   nn sfp.
+*MOT:	   ÀnÀn ©O?
+%mor:	   nn sfp.
+*MOT:	   ÀnÀn ­¹ &mam1&mam1 &aa3.
+%mor:	   nn vt nn sfp.
+*CHI:	   ÉN &ok3.
+%mor:	   neg sfp.
+%exp:	   The child sees a duck dive into the water.
+*MOT:	   ÀnÀn ­¹ ³½³½ &aa3.
+%mor:	   nn vt nn sfp.
+*MOT:	   ¸¨ ÷ ¥h &aa3.
+%mor:	   dir asp dir sfp.
+@New Episode:	
+*MOT:	   ¦³ ÉN ³¶³¶ &aa3 ?
+%mor:	   vf neg nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+@New Episode:	
+*CHI:	   ¼M!
+%mor:	   ex.
+*CHI:	   §Ö ø &aa3.
+%mor:	   adj com sfp.
+%exp:	   The child sees a duck swimming.
+*CHI:	   ¼M!
+%mor:	   ex.
+*MOT:	   ¼M.
+%mor:	   ex.
+*MOT:	   Ëİ ¤j Án î?
+%mor:	   advi adj nn sfp.
+*CHI:	   §Ö ø &aa3.
+%mor:	   adj com sfp.
+@New Episode:	
+*CHI:	   ³¶³¶ &aa3.
+%mor:	   nn sfp.
+%exp:	"   ""³¶³¶"" is an overgeneralization applying to all fowls including duck, goose etc.."
+@New Episode:	
+*CHI:	   < ¼M> [/] ¼M.
+%mor:	   ex ex.
+*INV:	   < °µ ÉAÏ &aa3> [/] °µ ÉAÏ &aa3 ?
+%mor:	   vt wh sfp vt wh sfp.
+*MOT:	   ÀnÀn °µ ÉAÏ &aa3 ?
+%mor:	   nn vt wh sfp.
+*CHI:	   õ «× &aa3.
+%mor:	   det cl sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   õ «×.
+%mor:	   det cl.
+*MOT:	   õ «× Ø{.
+%mor:	   det cl sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   õ «× ¦³ ÀnÀn &aa4.
+%mor:	   det cl vf nn sfp.
+*MOT:	   Ãä«× &aa3 Â@Â@?
+%mor:	   wh sfp nnpp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   õ «×.
+%mor:	   det cl.
+*CHI:	   &mam1&mam1 &aa3.
+%mor:	   nn sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   &mam1&mam1 &aa3.
+%mor:	   nn sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+@Situation:	     New Episode.
+*CHI:	   << õ «× &aa3> [/] õ «× &aa3 > [=! points to a duck].
+%mor:	   det cl sfp det cl sfp.
+*CHI:	   <xxx>  [=! points to a duck].
+*INV:	   &hak3.
+%mor:	   ex.
+*INV:	   «Y &aa3.
+%mor:	   vf sfp.
+@New Episode:	
+*CHI:	   < ©O «K &aa3> [=! walks to the other side].
+%mor:	   det cl sfp.
+*MOT:	   &aa4.
+%mor:	   sfp.
+*MOT:	   < ©O «K> [/] ©O «K.
+%mor:	   det cl det cl.
+*MOT:	   Ãä «K &aa3 ?
+%mor:	   wh cl sfp.
+@New Episode:	
+*INV:	   ¥´ ¦n ÉN &aa3 Â@Â@?
+%mor:	   vt adj neg sfp nnpp.
+*INV:	   < ¥´> [=! hits the information board].
+%mor:	   vt.
+*CHI:	   < ¥´> [=! hits the information board].
+%mor:	   vt.
+*INV:	   ¥´.
+%mor:	   vt.
+*CHI:	   ¥´.
+%mor:	   vt.
+*INV:	   ¥´¥´.
+%mor:	   vt.
+@New Episode:	
+*CHI:	   < ÀtÀt &aa3> [=! points to a tortoise].
+%mor:	   nn sfp.
+*MOT:	   ÀtÀt ¦³ ÉN ´å ¤ô &aa3 ?
+%mor:	   nn vf neg vi nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+@New Episode:	
+*MOT:	   ¦³ ÉN Ï ­Ú ÀtÀt ­¹ &aa3 ?
+%mor:	   vf neg nn prep nn vt sfp.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*CHI:	   ³¶³¶ ­¹ &mam1&mam1 &aa3.
+%mor:	   nn vt nn sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   &mam1&mam1 &aa4.
+%mor:	   nn sfp.
+*MOT:	   ¦³ ÉN &mam1&mam1 ­Ú ³½³½ ­¹ &aa3 ?
+%mor:	   vf neg nn prep nn vt sfp.
+*CHI:	   ³¶³¶ &mam1&mam1 &mam1 &aa3.
+%mor:	   nn nn nn sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*CHI:	   ³¶³¶ ¦³ &mam1&mam1.
+%mor:	   nn vf nn.
+*CHI:	   ³¶³¶.
+%mor:	   nn.
+*CHI:	   ³¶³¶ xxx &mam1&mam1.
+%mor:	   nn nn.
+*INV:	   §A ©O?
+%mor:	   nnpr sfp.
+*INV:	   §A ­¹ ÷ &mam1&mam1 ¥¼ &aa3 ?
+%mor:	   nnpr vt asp nn neg sfp.
+*CHI:	   ³¶³¶ ¦³ &mam1&mam1.
+%mor:	   nn vf nn.
+*INV:	   Â@Â@ ­¹ ÷ &mam1&mam1 ¥¼ &aa3 ?
+%mor:	   nnpp vt asp nn neg sfp.
+*CHI:	0
+*MOT:	   ¥¼ &lok3 ¨ş.
+%mor:	   neg sfp sfp.
+*CHI:	   < ©O «K> [=! walks to the other side].
+%mor:	   det cl.
+@New Episode:	
+*MOT:	   ©O «× ÉN ®Í &laa1.
+%mor:	   det cl neg prt sfp.
+*MOT:	   ÉN ®Í ÀnÀn &laa1.
+%mor:	   neg prt nn sfp.
+%com:	   long pause.
+*CHI:	   ÀnÀn ÉN &aa1.
+%mor:	   nn neg sfp.
+%exp:	   The child does not see any ducks.
+*MOT:	   ÀnÀn ÉN &aa4.
+%mor:	   nn neg sfp.
+*CHI:	   ÀnÀn &e3.
+%mor:	   nn ex.
+@New Episode:	
+*CHI:	   «ô«ô.
+%mor:	   ex.
+%exp:	   Two ducks swim past.
+@New Episode:	
+*CHI:	   ©O °¦ &aa3.
+%mor:	   det cl sfp.
+*MOT:	   ÀnÀn ‘Á î ©O °¦.
+%mor:	   nn sfp sfp det cl.
+*MOT:	   ÀnÀn ­¹ &mam1&mam1 &aa3.
+%mor:	   nn vt nn sfp.
+*MOT:	   «Y «}?
+%mor:	   vf neg.
+*CHI:	   &mam1&mam1.
+%mor:	   nn.
+*MOT:	   &aa3.
+%mor:	   sfp.
+*MOT:	   &mam1&mam1.
+%mor:	   nn.
+*MOT:	   ¨ÈÂ@Â@ ¦³ ÉN ±o ­¹?
+%mor:	   nnpp vf neg ctc vt.
+*CHI:	   0 [=! nodes].
+@New Episode:	
+*INV:	   «§ ‘Á î Â@Â@?
+%mor:	   wh sfp sfp nnpp.
+%exp:	   The child is playing with the investigator's recorder.
+*CHI:	   ©O ­Ó.
+%mor:	   det cl.
+*INV:	   ­Ú §A Ú» úï &aa1.
+%mor:	   prep nnpr vt prt sfp.
+*INV:	   «§ ‘Á î?
+%mor:	   wh sfp sfp.
+*CHI:	   ¼M.
+%mor:	   ex.
+@New Episode:	
+*CHI:	   ­¹­¹ &aa3.
+%mor:	   vt sfp.
+%exp:	   The child wants to get the biscuits.
+*MOT:	   ÂûÂû.
+%mor:	   nn.
+*MOT:	   ¦³ ÉN ÂûÂû &aa3 ?
+%mor:	   vf neg nn sfp.
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+@New Episode:	
+*CHI:	   ÉN &aa3.
+%mor:	   neg sfp.
+%exp:	   child finishes the drink.
+@New Episode:	
+*INV:	   < «§ ‘Á î> [=! points to a light]?
+%mor:	   wh sfp sfp.
+*CHI:	   ¿O &aa3.
+%mor:	   nn sfp.
+@Situation:	     New episode.  The investigator and the child's mother are chatting.
+*CHI:	   << õ «×> [/] õ «×> [=! points].
+%mor:	   det cl det cl.
+*CHI:	   xxx.
+@New Episode:	
+*CHI:	   ø ¿O¿O ¿O &aa3.
+%mor:	   cl nn nn sfp.
+*INV:	   «§ ‘Á î?
+%mor:	   wh sfp sfp.
+*CHI:	   < ø ¿O¿O &aa3 > [/].
+%mor:	   cl nn ex .
+*CHI:	   <ø ¿O¿O &aa3> [/] ø ¿O¿O &aa3.
+%mor:	   cl nn ex cl nn ex.
+*INV:	   úï?
+%mor:	   ex.
+*INV:	   °{¥ú¿O &aa4.
+%mor:	   nn sfp.
+*CHI:	   < ø ¿O¿O &aa3> [/] ø ¿O¿O &aa3.
+%mor:	   cl nn ex cl nn ex.
+*MOT:	   úï ?
+%mor:	   ex.
+*MOT:	   ¿O¿O &aa4.
+%mor:	   nn sfp.
+*MOT:	   ®@.
+%mor:	   ex.
+*CHI:	   ø ¿O.
+%mor:	   cl nn.
+*CHI:	   < ø ¿O &aa3> [/] ø ¿O &aa3.
+%mor:	   cl nn sfp cl nn sfp.
+@Situation:	     New episode.  At the fountain.
+*CHI:	   ¾ğ¾ğ &aa3.
+%mor:	   nn sfp.
+%exp:	   child sees some leaves.
+*MOT:	   úï ?
+%mor:	   ex.
+*CHI:	   ¾ğ¾ğ &aa3.
+%mor:	   nn sfp.
+*MOT:	"   «§ ""&zyu6&zyu6"" &aa3 ?"
+%mor:	   wh nn sfp.
+*CHI:	   ¾ğ¾ğ &aa3.
+%mor:	   nn sfp.
+*MOT:	   ¦³ ÉN ²î +...
+%mor:	   vf neg nn.
+*MOT:	   ®@.
+%mor:	   ex.
+*MOT:	   À½ ®@ ¸­¸­ ¸¨ ¥h &aa3 Ëİ¼Ë.
+%mor:	   vd sfp nn dir dir sfp advs.
+*MOT:	   ¦n °Õ.
+%mor:	   adj sfp.
+*MOT:	   À½ ø ¸­¸­ µ¥ Ê\ º}¯B &laa1.
+%mor:	   vt cl nn vt nnpr vi sfp.
+*MOT:	   «ô«ô.
+%mor:	   ex.
+@New Episode:	
+*MOT:	   < ­ø ­n Ğ> [/] ­ø ­n Ğ.
+%mor:	   neg vt sfp neg vt sfp.
+*MOT:	   ¤ô ¸Ì«K ø ­ø ­n Ğ.
+%mor:	   nn nnloc cl neg vt sfp.
+*CHI:	   < ©O «× &aa3> [=! points to the leaves in the water].
+%mor:	   det cl sfp.
+%com:	   end of tape 2 side B. [tape 3 side A]
+@situation:	     In the restaurant at Kowloon Park. The child's mother has gone to order the food.
+*CHI:	   < ¶ı¶ı &aa3> [=! looking for his mother].
+%mor:	   nn sfp.
+*INV:	   ¶ı¶ı ©O ?
+%mor:	   nn sfp.
+*CHI:	   ¶ı¶ı xxx.
+%mor:	   nn.
+*INV:	   úï ?
+%mor:	   ex.
+*INV:	   ¶ı¶ı ö Ãä &aa3 ?
+%mor:	   nn vf wh sfp.
+*CHI:	   < ¶ı¶ı xxx> [/] ¶ı¶ı xxx.
+%mor:	   nn nn.
+*INV:	   «Y «} ö õ «× &aa3 ?
+%mor:	   vf neg vf det cl sfp.
+*CHI:	   < ¶ı¶ı õ «× &aa3> [=! points].
+%mor:	   nn det cl sfp.
+*CHI:	   ¶ı¶ı.
+%mor:	   nn.
+*CHI:	   ¶ı¶ı &e3.
+%mor:	   nn ex.
+%com:	   The child laughs.
+*INV:	   ¶ı¶ı ö Ãä«× &aa3 ?
+%mor:	   nn vf wh sfp.
+*CHI:	   < ¶ı¶ı õ «× &aa3> [=! points].
+%mor:	   nn det cl sfp.
+*INV:	   ¶ı¶ı ¶R &mam1&mam1 Ø{ «Y «} &aa3 ?
+%mor:	   nn vt nn sfp vf neg sfp.
+*CHI:	0
+*CHI:	   < ¶ı¶ı &aa3> [=! shouts].
+%mor:	   nn sfp.
+*CHI:	   << ¶ı¶ı > [/]> [=! laughs] .
+%mor:	   nn .
+*CHI:	   <<¶ı¶ı> [/] ¶ı¶ı> [=! laughs].
+%mor:	   nn nn.
+@New Episode:	
+*INV:	   &ji.
+%mor:	   ex.
+*INV:	   Â@Â@ Ú» úï.
+%mor:	   nnpp vt prt.
+*INV:	   < ¦³ ³·¿| &aa3> [/] ¦³ ³·¿| &aa3.
+%mor:	   vf nn sfp vf nn sfp.
+*INV:	   ­¹ ­ø ­¹ &aa3 ³·¿| ?
+%mor:	   vt neg vt sfp nn.
+*CHI:	0
+*INV:	   ­¹ ­ø ­¹ ³·¿| &aa3  ?
+%mor:	   vt neg vt nn sfp.
+*CHI:	   0 [=! nodes].
+*INV:	   ³·¿| ­á¦B¦B ¦n ¦n­¹ î «Y «} &aa3 ?
+%mor:	   nn adj advi adj sfp vf neg sfp.
+*CHI:	0
+*INV:	   «u–ï.
+%mor:	   ex.
+*INV:	   §A Ú» ­Ó ¤p ªB¤Í ü¶ ¦í ÉAÏ ?
+%mor:	   nnpr vt cl adj nn vt asp wh.
+*INV:	   õ ­Ó ¤p ªB¤Í.
+%mor:	   det cl adj nn.
+*INV:	   < Ú» úï> [/] Ú» úï.
+%mor:	   vt prt vt prt.
+*INV:	   ­¹ Ø{.
+%mor:	   vt sfp.
+*CHI:	   ­¹ &aa3.
+%mor:	   vt sfp.
+*CHI:	   ³·¿| &aa3.
+%mor:	   nn sfp.
+%com:	   The child accidentally bites his tongue.
+*INV:	   µh ­ø µh &aa3 ±ø •c?
+%mor:	   adj neg adj sfp cl nn.
+*CHI:	   µhµh &aa3.
+%mor:	   adj sfp.
+@New Episode:	
+*INV:	   ¶ı¶ı ¥h ¶R Á¦±ø ¦n ÉN &aa3 ?
+%mor:	   nn dir vt nn adj neg sfp.
+*CHI:	   Â@Â@ &aa3.
+%mor:	   nnpp sfp.
+@Situation:	     New episode.  The investigator is holding the recorder.
+*CHI:	   < Â\ «× &aa3> [=! putting his hand on the table].
+%mor:	   vd cl sfp.
+*INV:	   ÉAÏ &aa3 ?
+%mor:	   wh sfp.
+*CHI:	   Â\ «× &aa3.
+%mor:	   vd cl sfp.
+@New Episode:	
+*INV:	   < «§ ‘Á î Â@Â@> [=! shows the child a can of orange juice]?
+%mor:	   wh sfp sfp nnpp.
+*CHI:	   &dan3&dan3.
+%mor:	    xx .
+*INV:	   úï ?
+%mor:	   ex.
+*CHI:	   ¤ô &aa3.
+%mor:	   nn sfp.
+*INV:	   «§ ‘Á î ?
+%mor:	   wh sfp sfp.
+*CHI:	   &dan3&dan3.
+%mor:	    xx .
+@New Episode:	
+*INV:	   ­¹ ­ø ­¹ &aa3 ?
+%mor:	   vt neg vt sfp.
+*CHI:	   Á¦±ø &aa3.
+%mor:	   nn sfp.
+@New Episode:	
+*MOT:	   ­¹ ­ø ­¹ Á¦±ø ¥ı ?
+%mor:	   vt neg vt nn advf.
+*CHI:	   < ¼ö &aa3> [=! takes out some fries].
+%mor:	   adj sfp.
+@Situation:	     New episode.  In the swimming pool's auditorium.
+*CHI:	   < ¤G¤K >[=! points to the numbers at the back of the seats].
+%mor:	   q.
+*CHI:	   < ¤­¤»> [=! points to the numbers at the back of the seats].
+%mor:	   q.
+*INV:	   Ãä«× ¦³ &aa3 ?
+%mor:	   wh vf sfp.
+*MOT:	   Ãä«× &aa3 ?
+%mor:	   wh sfp.
+*CHI:	   < ¤­ > [=! points] - ?
+%mor:	   q .
+*CHI:	   <¤»> [=! points].
+%mor:	    q.
+*INV:	   Ãä«× ¦³ ¤G¤K &aa3 ?
+%mor:	   wh vf q sfp.
+*CHI:	   < ¤­ > [=! points]  - ?
+%mor:	   q .
+*CHI:	   <¤K> [=! points].
+%mor:	   q.
+@New Episode:	
+*INV:	   §A Ú» úï.
+%mor:	   nnpr vt prt.
+*INV:	   ­ô­ô ö «e«K «Y «} &aa3¡S
+%mor:	   nn vf nnloc vf neg sfp.
+%exp:	   there's a boy sitting in front of child.
+*CHI:	   ­ô­ô «e«K.
+%mor:	   nn nnloc.
+*INV:	   úï¡S
+%mor:	   ex.
+*INV:	   ÉAÏ &aa3¡S
+%mor:	   wh sfp.
+*CHI:	   ÉN &aa3 !
+%mor:	   neg sfp.
+@Situation:	     New episode.   The child is sitting on a bench.
+*CHI:	   ¶ı¶ı §¤ &aa3.
+%mor:	   nn vi sfp.
+%exp:	   child wants mother to sit beside him.
+*INV:	   úï¡S
+%mor:	   ex.
+*CHI:	   ¶ı¶ı §¤ &aa3.
+%mor:	   nn vi sfp.
+*INV:	   ÉAÏ &aa3¡S
+%mor:	   wh sfp.
+*INV:	   ¶ı¶ı ö Ãä«× &aa3¡S
+%mor:	   nn vf wh sfp.
+*CHI:	   ¶ı¶ı ©O «× &aa3.
+%mor:	   nn det cl sfp.
+*CHI:	   ¶ı¶ı §¤ &aa3.
+%mor:	   nn vi sfp.
+%com:	   End of tape 3 side A.
+@End	

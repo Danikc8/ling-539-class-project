@@ -1,0 +1,414 @@
+@Begin
+@Name of CHI:           Chow King-tsun
+@Birth of CHI:          13-Oct-1990
+@Sex of CHI:            Male
+@Tape Location:         02
+@Date:                  16-May-1992
+@Time duration:         10:00-11:00
+@Age of CHI:            1;7.3
+@Participants:          CHI child, INV investigator, MOT mother, FAT father
+@Situation: Playing at the child's house.
+*INV:   ÂàÂà &wo4, «Y «} &a3 ?
+%mor:   vi sfp vf neg sfp.
+%exp:   The child shows no response.
+*INV:   ªiªi ©O ?
+%mor:   nn sfp.
+%com:   The child shows no response.
+@New Episode
+*CHI:   &o1 !
+%mor:   ex.
+@New Episode
+*CHI:   &ha2 &ha2 &ha2 &ha2.
+%mor:   ex ex ex ex.
+@New Episode
+*INV:   §A Á¿ &la1.
+%mor:   nnpr vt sfp.
+*INV:   ¾÷¾÷.
+%mor:   nn.
+*CHI:   ¾÷.
+%mor:   nn.
+*CHI:   ¾÷.
+%mor:   nn.
+@New Episode
+*CHI:   ªiªi.
+%mor:   nn.
+@New Episode
+*INV:   ½ğ ªiªi &a1.
+%mor:   vt nn sfp.
+*CHI:   0 [=! kicks the ball].
+@New Episode
+*INV:   ­Ú ­Ó ªiªi ­Ú ¶ı«} ¦n ­ø ¦n &a3.
+%mor:   vd cl nn vd nn adj neg adj sfp.
+*CHI:   0 [=! gives the ball to his mother].
+@New Episode
+*INV:   ºN úï ©j©j ø ÀY¾v.
+%mor:   vt prt nn cl nn.
+%com:   The child ignores the investigator.
+*INV:   ºN úï ¦Û¤v ø ÀY¾v.
+%mor:   vt prt rfl cl nn.
+%com:   The child ignores the investigator.
+@New Episode
+*CHI:   &a1 &ma1 !
+%mor:   ex ex.
+%exp:   The child utters these sounds spontaneously.
+@New Episode
+*INV:   ÉN &lok3 §A Ú» úï.
+%mor:   neg sfp nnpr vt prt.
+%com:   The child ignores the investigator.
+@New Episode
+*CHI:   &o3.
+%mor:   ex.
+*CHI:   &gaai1.
+%mor:   xx .
+*CHI:   &o2.
+%mor:   ex.
+%exp:   The child utters these sounds spontaneously.
+@New Episode
+*INV:   ¦³ ÉN &a3 ?
+%mor:   vf neg sfp.
+*CHI:   xxx.
+*INV:   ¦³ ÉN &a3 ?
+%mor:   vf neg sfp.
+*CHI:   &o1 &o1 &o1.
+%mor:   ex ex ex.
+@New Episode
+*INV:   ­Ú ªiªi §Ú &a1.
+%mor:   vd nn nnpr sfp.
+*CHI:   &ji1 !
+%mor:   ex.
+@New Episode
+*INV:   §A ø ÀY¾v ©O ?
+%mor:   nnpr cl nn sfp.
+%com:   The child ignores the investigator.
+@New Episode
+*CHI:   &o2:.
+%mor:   ex.
+%exp:   The child turns round and round.
+@New Episode
+*INV:   §A ¥s §Ú ¥ı &la1.
+%mor:   nnpr vt nnpr advf sfp.
+*CHI:   0 [=! screams].
+*INV:   §A ¥s §Ú ¥ı.
+%mor:   nnpr vt nnpr advf.
+*INV:   ©j©j.
+%mor:   nn.
+*CHI:   ©j©j !
+%mor:   nn.
+*CHI:   &ji1.
+%mor:   ex.
+@New Episode
+*INV:   §A Åå ­ø Åå &a3 ?
+%mor:   nnpr vt neg vt sfp.
+*CHI:   Åå &a3.
+%mor:   vt sfp.
+@New Episode
+*INV:   §A ©È ­ø ©È &a3 ?
+%mor:   nnpr vt neg vt sfp.
+*CHI:   ©È©È.
+%mor:   vt.
+@New Episode
+*INV:   ©O ­Ó Ãä ­Ó ‘Á &ga3 ?
+%mor:   det cl wh cl sfp sfp.
+*CHI:   ª¨ª¨.
+%mor:   nn.
+*INV:   ÉAÏ &wa2 ?
+%mor:   wh sfp.
+*INV:   ©O ­Ó Ãä ­Ó ‘Á &ga3 ?
+%mor:   det cl wh cl sfp sfp.
+*INV:   ¶ı¶ı ‘Á &ga3.
+%mor:   nn sfp sfp.
+@New Episode
+*CHI:   <&dai1 &a4 &dai1 &a4 &dai1 &a4 &dai1 &a4> [/] &dai1 &a4.
+%mor:   xx sfp xx sfp xx sfp xx sfp xx sfp.
+%exp:   The child utters the sound spontaneously.
+@New Episode
+*INV:   À¼ ¤j ­Ó ¼L.
+%mor:   vt adj cl nn.
+*CHI:   0 [=! opens wide his mouth].
+@New Episode
+*CHI:   ¨®¨® &a3.
+%mor:   nn sfp.
+@New Episode
+*INV:   ©O ¬[ «§ ‘Á &ga3 ?
+%mor:   det cl wh sfp sfp.
+%com:   The child ignores the investigator.
+@New Episode
+*INV:   Â@Â@ &a4, §A Â\ °¦ &wou1&wou1 ª¯ ¤W ¨®¨® &a1.
+%mor:   nnpp sfp nnpr vd cl nn nn dir nn sfp.
+%com:   The child ignores the investigator.
+@New Episode
+*INV:   §¤ ¿ù &la3.
+%mor:   vi adj sfp.
+%exp:   The child sits on his car with his back facing the front.
+*INV:   §¤ ¦n ø &la1.
+%mor:   vi adj com sfp.
+*CHI:   0 [=! sits in the right position].
+@New Episode
+*INV:   ü¶ ¬[ ¨® ‘Á &la1.
+%mor:   vt cl nn dir sfp.
+*CHI:   0 [=! drives towards the investigator].
+@New Episode
+*INV:   Â@Â@ &a4.
+%mor:   nnpp sfp.
+*INV:   §A Á¿ ¹q¸Ü &a1.
+%mor:   nnpr vt nn sfp.
+%com:   The child ignores the investigator.
+*INV:   §A ª± ­ø ª± ªiªi &a3 ?
+%mor:   nnpr vt neg vt nn sfp.
+%com:   The child ignores the investigator.
+@New Episode
+*INV:   Â@Â@ ¦² ­ø ¦² &a3 ?
+%mor:   nnpp adj neg adj sfp.
+*CHI:   ¦² &a3.
+%mor:   adj sfp.
+*INV:   ¨Ä ­ø ¨Ä &a3 ?
+%mor:   adj neg adj sfp.
+%com:   The child ignores the investigator.
+@New Episode
+*INV:   ­ø ­Ú.
+%mor:   neg vd.
+*CHI:   ­ø ­Ú !
+%mor:   neg vd.
+@New Episode
+*CHI:   <&dai1 &a4 &dai1 &a4 &dai1 &a4 &dai1 &a4> [/] &dai1 &a4.
+%mor:   xx sfp xx sfp xx sfp xx sfp xx sfp.
+%exp:   The child utters the sound spontaneously.
+@New Episode
+*CHI:   <&o1 &o1 &o1 &o1> [/] &o1.
+%mor:   ex ex ex ex ex.
+%exp:   The child utters the sound spontaneously.
+@New Episode
+*CHI:   ÉN &a4.
+%mor:   neg sfp.
+*CHI:   ÉN &a4.
+%mor:   neg sfp.
+%exp:   The child produces the words spontaneously.
+@New Episode
+*INV:   ©O ­Ó «§ ‘Á &ga3 ?
+%mor:   det cl wh sfp sfp.
+*INV:   ñF.
+%mor:   nn.
+*INV:   §A ¸Ü ­Ú ©j©j Å¥ «§ ‘Á &ge2.
+%mor:   nnpr vt prep nn vt wh sfp sfp.
+%com:   The child ignores the investigator.
+*INV:   «§ ‘Á &ga3 ?
+%mor:   wh sfp sfp.
+%com:   The child ignores the investigator.
+@New Episode
+*INV:   ¤£¦p §A ü« °¦ ¤h¦h°à±ù ­Ú ©j©j &a1.
+%mor:   advs nnpr vt cl nn prep nn sfp.
+%com:   The child ignores the investigator.
+*INV:   ¤h¦h°à±ù À½ ¸¨ ¨®¨® «× &a1.
+%mor:   nn vd dir nn cl sfp.
+*INV:   ¤h¦h°à±ù ©O ?
+%mor:   nn sfp.
+*CHI:   ª¨ª¨ !
+%mor:   nn.
+*CHI:   ª¨ª¨ !
+%mor:   nn.
+*INV:   ª¨ª¨ ö Ãä«× &a3 ?
+%mor:   nn vf wh sfp.
+*CHI:   xxx.
+*INV:   Ú» úï ª¨ª¨ ö Ãä«×.
+%mor:   vt prt nn vf wh.
+*CHI:   xxx.
+*INV:   §¤ ¨®¨® &lu3.
+%mor:   vt nn sfp.
+*CHI:   ¨®¨®.
+%mor:   nn.
+*CHI:   <®Ñ®Ñ> [=! points at the book].
+%mor:   nn.
+@New Episode
+*INV:   ÄÁÄÁ +...
+%mor:   nn.
+*INV:   Ãä«× ¦³ ÄÁÄÁ &a3 ?
+%mor:   wh vf nn sfp.
+*CHI:   «u §r.
+%mor:   ex.
+*CHI:   Ú» &a3.
+%mor:   vt sfp.
+*CHI:   xxx.
+*INV:   ¨ß¨ß.
+%mor:   nn.
+*INV:   §A ¸Ü &a1.
+%mor:   nnpr vt sfp.
+*INV:   ¨ß¨ß.
+%mor:   nn.
+*INV:   §A °¦ ²´·ú ©O ## ?
+%mor:   nnpr cl nn sfp.
+*INV:   ­Ó ¼L ©O ?
+%mor:   cl nn sfp.
+*CHI:   <&o3> [=! points at the mouth].
+%mor:   ex.
+*CHI:   <&i1&ja4> [=! pulls the string on the musical rabbit].
+%mor:   ex.
+@New Episode
+*INV:   ¦n ­ø ¦n¶¼ &a3 ## ?
+%mor:   adj neg adj sfp.
+*INV:   Áı ¨ß¨ß ¶¼ &a1.
+%mor:   vt nn vt sfp.
+*CHI:   0 [=! pretends to give water to the rabbit to drink].
+@New Episode
+*INV:   ¦³ ÉN ¥s ©j©j &a3 ?
+%mor:   vf neg vt nn sfp.
+*INV:   ­Ú ©j©j ¶¼ &a1.
+%mor:   prep nn vt sfp.
+*INV:   ­Ú ¶ı¶ı &a1.
+%mor:   vd nn sfp.
+*CHI:   0 [=! gives the cup to his mother].
+*MOT:   ­Ú µf ª¨ª¨.
+%mor:   vd prt nn.
+*CHI:   ¥¼.
+%mor:   neg.
+*CHI:   ¥¼.
+%mor:   neg.
+*CHI:   ¥¼ ¦í &a3.
+%mor:   neg asp sfp.
+*CHI:   ª¨ª¨ ¥¼ ¦í &a3.
+%mor:   nn neg asp sfp.
+*MOT:   ­n «§ ¥ı ?
+%mor:   vt wh advf.
+*CHI:   ¤ô ¤ô ¤ô.
+%mor:   nn nn nn.
+*MOT:   §¤ §C ¥ı &la1.
+%mor:   vi dir advf sfp.
+%com:   The child continues standing on the investigator's book.
+@New Episode
+*CHI:   ©j©j.
+%mor:   nn.
+@New Episode
+*CHI:   ¦² &a3.
+%mor:   adj sfp.
+@New Episode
+*INV:   ôÏ úï Ê\.
+%mor:   vt prt nnpr.
+*CHI:   0 [=! hugs the doll].
+@New Episode
+*INV:   ¨Ä ­ø ¨Ä &a3 ?
+%mor:   adj neg adj sfp.
+%exp:   No response is required.
+@New Episode
+*INV:   «§ ‘Á &ga3 ©O °¦ ?
+%mor:   wh sfp sfp det cl.
+*INV:   ºµºµ.
+%mor:   nn.
+*INV:   ºµ¥J.
+%mor:   nn.
+@New Episode
+*FAT:   §A ¸Ü ¬Û¾÷ ¥ı &la1.
+%mor:   nnpr vt nn advf sfp.
+*CHI:   ¬Û¾÷ !
+%mor:   nn.
+*CHI:   ¾÷ !
+%mor:   nn.
+@New Episode
+*FAT:   ¼v ¬Û ¦n ­ø ¦n &a3 ?
+%mor:   vt nn adj neg adj sfp.
+*CHI:   ¦n.
+%mor:   adj.
+@New Episode
+*FAT:   ¥h ©j©j «× &a1.
+%mor:   dir nn cl sfp.
+*CHI:   0 [=! goes to the investigator].
+@New Episode
+*FAT:   ¯º úï.
+%mor:   vi prt.
+*CHI:   0 [=! smiles].
+@New Episode
+*INV:   Â\ ­Ó ªiªi ‘Á &a1.
+%mor:   vd cl nn sfp sfp.
+*INV:   ªiªi ©O ?
+%mor:   nn sfp.
+*CHI:   ªi.
+%mor:   nn.
+*INV:   ªiªi ©O ?
+%mor:   nn sfp.
+*CHI:   &o2.
+%mor:   ex.
+*CHI:   ªiªi &a3.
+%mor:   nn sfp.
+*INV:   §A İ¯ ­Ó ªiªi.
+%mor:   nnpr vt cl nn.
+*CHI:   ªi.
+%mor:   nn.
+*INV:   &o1.
+%mor:   ex.
+*CHI:   &o3.
+%mor:   ex.
+*INV:   ½ğ ªi.
+%mor:   vt nn.
+*CHI:   0 [=! kicks the ball].
+*INV:   ½ğ ­Ú ©j©j.
+%mor:   vt prep nn.
+*CHI:   0 [=! gives the ball to the investigator by hand].
+@New Episode
+*INV:   ü« ¤h¦h°à±ù.
+%mor:   vt nn.
+*CHI:   xxx.
+*MOT:   ¥h ©j©j «×.
+%mor:   dir nn cl.
+*MOT:   §Ö ø &la1.
+%mor:   adj com sfp.
+*CHI:   §Ö ø.
+%mor:   adj com.
+*INV:   §¤ ¨®¨® ¦n ­ø ¦n &a3 ?
+%mor:   vt nn adj neg adj sfp.
+*CHI:   ¶ı¶ı !
+%mor:   nn.
+*CHI:   ¶ı¶ı !
+%mor:   nn.
+*INV:   ­Ú ¶ı¶ı &a1.
+%mor:   vd nn sfp.
+*INV:   ¦Õ¦Õ ©O ?
+%mor:   nn sfp.
+*CHI:   &ji1 &a4.
+%mor:   ex sfp.
+@Situation: The investigator hides something in he
+*INV:   ö ¥ª ©w ¥k &a3 ?
+%mor:   vf adj conj adj sfp.
+*INV:   ö Ãä«×.
+%mor:   vf wh.
+*CHI:   &ji1 &a4.
+%mor:   ex sfp.
+*INV:   ¦³ ÉN &a3 ?
+%mor:   vf neg sfp.
+*INV:   ÉN &wo3.
+%mor:   neg sfp.
+*INV:   ÉN &wo3.
+%mor:   neg sfp.
+*CHI:   ÉN &o4.
+%mor:   neg ex.
+*INV:   ¦³ ÉN &a3 ?
+%mor:   vf neg sfp.
+*CHI:   ÉN &a3.
+%mor:   neg sfp.
+*INV:   ¦³ &a3.
+%mor:   vf sfp.
+@New Episode
+*INV:   §¤ ¨®¨® &a1.
+%mor:   vt nn sfp.
+*CHI:   0 [=! rides onto his car].
+@Situation: The child drives away.
+*INV:   §A ¥h Ãä«× &a3 ?
+%mor:   nnpr dir wh sfp.
+%com:   The child ignores the investigator.
+@New Episode
+*MOT:   ¥h ©j©j «×.
+%mor:   dir nn cl.
+%com: The child ignores the investigator.
+@Situation: While the investigator changes the tape, the child is looking for his car. He utters "¨®¨® - ? ÉN - ? ¨®¨® - ?" which are not recorded.
+*INV:   §A İ¯ úï.
+%mor:   nnpr vt prt.
+*CHI:   ÉN &a3.
+%mor:   neg sfp.
+*INV:   ¼p©Ğ ¦³ ÉN &a3 ?
+%mor:   nnloc vf neg sfp.
+*CHI:   ÉN &a3.
+%mor:   neg sfp.
+*CHI:   ¨®¨® &a3.
+%mor:   nn sfp.
+*INV:   ­ø ¨£ &a4 ?
+%mor:   neg vt sfp.
+*CHI:   xxx.
+@End
+
